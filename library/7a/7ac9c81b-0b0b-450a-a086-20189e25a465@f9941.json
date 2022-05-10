@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rdown",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 1,
+      "width": 665,
+      "height": 105
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 665,
+      "height": 106
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7ac9c81b-0b0b-450a-a086-20189e25a465@6c48a",
+    "packable": true
+  }
+}

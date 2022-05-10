@@ -1,0 +1,2361 @@
+{
+  "assets/Scripts/Data/AddAttrDefine.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Data/AddAttrDefine.js",
+    "mTimestamp": 1649682128154
+  },
+  "assets/Scripts/Data/BuffDefine.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Data/BuffDefine.js",
+    "mTimestamp": 1649682128187
+  },
+  "assets/Scripts/Data/CharacterDefine.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Data/CharacterDefine.js",
+    "mTimestamp": 1649682128204
+  },
+  "assets/Scripts/Data/ItemDefine.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Data/ItemDefine.js",
+    "mTimestamp": 1649682128219
+  },
+  "assets/Scripts/Data/ShopItemDefine.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Data/ShopItemDefine.js",
+    "mTimestamp": 1649682128230
+  },
+  "assets/Scripts/Data/ShopDefine.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Data/ShopDefine.js",
+    "mTimestamp": 1649682128241
+  },
+  "assets/Scripts/Data/SkillDefine.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Data/SkillDefine.js",
+    "mTimestamp": 1649682128259
+  },
+  "assets/Scripts/Data/GameConfig.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Data/GameConfig.js",
+    "mTimestamp": 1649682128273
+  },
+  "assets/Scripts/Data/SpawnRuleDefine.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Data/SpawnRuleDefine.js",
+    "mTimestamp": 1649682128282
+  },
+  "assets/Scripts/Managers/ChatManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_6": "assets/Scripts/Models/User.js",
+      "__unresolved_9": "assets/Scripts/Services/UserService.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_5": "assets/Scripts/Utils/HashMap.js",
+      "__unresolved_4": "assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_7": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_8": "assets/Scripts/Vo/ChatUserVo.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Managers/ChatManager.js",
+    "mTimestamp": 1649682128374
+  },
+  "assets/Scripts/Log/LogUtil.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Log/LogUtil.js",
+    "mTimestamp": 1649682128382
+  },
+  "assets/Scripts/Managers/CombatPowerRankingManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_4": "assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_1": "assets/Scripts/Services/UserService.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Managers/CombatPowerRankingManager.js",
+    "mTimestamp": 1649682128408
+  },
+  "assets/Scripts/LoadingManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_18": "assets/Scripts/Managers/CombatPowerRankingManager.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_7": "assets/Scripts/Models/User.js",
+      "__unresolved_16": "assets/Scripts/Network/Battle/NetClientBattle.js",
+      "__unresolved_11": "assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_6": "assets/Scripts/Network/NetClient.js",
+      "__unresolved_8": "assets/Scripts/Services/AuctionService.js",
+      "__unresolved_15": "assets/Scripts/Services/BattleService.js",
+      "__unresolved_12": "assets/Scripts/Services/ChatService.js",
+      "__unresolved_17": "assets/Scripts/Services/FollowService.js",
+      "__unresolved_5": "assets/Scripts/Services/ItemService.js",
+      "__unresolved_14": "assets/Scripts/Services/MatchService.js",
+      "__unresolved_10": "assets/Scripts/Services/RoomService.js",
+      "__unresolved_4": "assets/Scripts/Services/StatusService.js",
+      "__unresolved_9": "assets/Scripts/Services/TipsService.js",
+      "__unresolved_2": "assets/Scripts/Services/UserService.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_13": "assets/Scripts/Utils/DateUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/LoadingManager.js",
+    "mTimestamp": 1649682128440
+  },
+  "assets/Scripts/Managers/DataManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_2": "assets/Scripts/Vo/RockerSpeedVo.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Managers/DataManager.js",
+    "mTimestamp": 1649682128472
+  },
+  "assets/Scripts/Managers/ItemManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Models/User.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Managers/ItemManager.js",
+    "mTimestamp": 1649682128501
+  },
+  "assets/Scripts/Models/User.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Models/User.js",
+    "mTimestamp": 1649682128516
+  },
+  "assets/Scripts/Managers/FollowManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_4": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_5": "assets/Scripts/Services/UserService.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_3": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Managers/FollowManager.js",
+    "mTimestamp": 1649682128549
+  },
+  "assets/Scripts/Network/Battle/NetClientBattle.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_4": "assets/Scripts/Network/MessageDispatch.js",
+      "__unresolved_3": "assets/Scripts/Network/NetConfig.js",
+      "__unresolved_2": "assets/Proto/Battle/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Network/Battle/NetClientBattle.js",
+    "mTimestamp": 1649682128569
+  },
+  "assets/Scripts/Services/AuctionService.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "assets/Scripts/Network/NetClient.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_6": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Services/AuctionService.js",
+    "mTimestamp": 1649682128600
+  },
+  "assets/Scripts/Network/NetClient.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_4": "assets/Scripts/Network/MessageDispatch.js",
+      "__unresolved_3": "assets/Scripts/Network/NetConfig.js",
+      "__unresolved_5": "assets/Scripts/Services/UserService.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Network/NetClient.js",
+    "mTimestamp": 1649682128625
+  },
+  "assets/Scripts/Network/MessageDispatch.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Network/MessageDispatch.js",
+    "mTimestamp": 1649682128671
+  },
+  "assets/Scripts/Services/BattleService.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "assets/Scripts/Models/User.js",
+      "__unresolved_4": "assets/Scripts/Network/Battle/NetClientBattle.js",
+      "__unresolved_2": "assets/Proto/Battle/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Services/BattleService.js",
+    "mTimestamp": 1649682128688
+  },
+  "assets/Scripts/Services/ChatService.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "assets/Scripts/Network/NetClient.js",
+      "__unresolved_6": "assets/Scripts/Models/User.js",
+      "__unresolved_7": "assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_8": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Services/ChatService.js",
+    "mTimestamp": 1649682128722
+  },
+  "assets/Scripts/Services/FollowService.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "assets/Scripts/Network/NetClient.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Services/FollowService.js",
+    "mTimestamp": 1649682128733
+  },
+  "assets/Scripts/Network/SocketConst.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Network/SocketConst.js",
+    "mTimestamp": 1649682128740
+  },
+  "assets/Scripts/Services/RoomService.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "assets/Scripts/Network/NetClient.js",
+      "__unresolved_7": "assets/Scripts/Models/User.js",
+      "__unresolved_12": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_9": "assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_11": "assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_8": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_10": "assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Services/RoomService.js",
+    "mTimestamp": 1649682128821
+  },
+  "assets/Scripts/Services/StatusService.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_4": "assets/Scripts/Models/User.js",
+      "__unresolved_5": "assets/Scripts/Managers/ItemManager.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Services/StatusService.js",
+    "mTimestamp": 1649682128838
+  },
+  "assets/Scripts/UI/Bag/UIBagDetailItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Bag/UIBagDetailItem.js",
+    "mTimestamp": 1649682128877
+  },
+  "assets/Scripts/Services/TipsService.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_6": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Services/TipsService.js",
+    "mTimestamp": 1649682128898
+  },
+  "assets/Scripts/UI/Auction/UIAuction.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_6": "assets/Scripts/UI/Auction/UIAuctionDetailItem.js",
+      "__unresolved_9": "assets/Scripts/Services/AuctionService.js",
+      "__unresolved_5": "assets/Scripts/UI/Auction/UIAuctionItem.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_10": "assets/Scripts/UI/Common/InputBox.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_8": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_13": "assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_12": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_11": "assets/Scripts/Utils/Validate.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Auction/UIAuction.js",
+    "mTimestamp": 1649682128953
+  },
+  "assets/Scripts/Services/MatchService.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "assets/Scripts/Network/NetClient.js",
+      "__unresolved_6": "assets/Scripts/Models/User.js",
+      "__unresolved_13": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_12": "assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_14": "assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_10": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_9": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_11": "assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_8": "assets/Sound/SoundDefine.js",
+      "__unresolved_7": "assets/Sound/SoundManager.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Services/MatchService.js",
+    "mTimestamp": 1649682128979
+  },
+  "assets/Scripts/UI/Auction/UIAuctionDetailItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_3": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Auction/UIAuctionDetailItem.js",
+    "mTimestamp": 1649682129081
+  },
+  "assets/Scripts/UI/Auction/UIAuctionItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_4": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_5": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Auction/UIAuctionItem.js",
+    "mTimestamp": 1649682129111
+  },
+  "assets/Scripts/UI/Bag/UIBag.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/Models/User.js",
+      "__unresolved_10": "assets/Scripts/Services/ItemService.js",
+      "__unresolved_13": "assets/Scripts/Managers/ItemManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Bag/UIBagItem.js",
+      "__unresolved_7": "assets/Scripts/UI/Bag/UIBagDetailItem.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_11": "assets/Scripts/UI/Common/InputBox.js",
+      "__unresolved_8": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_9": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_14": "assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_12": "assets/Scripts/Utils/Validate.js",
+      "__unresolved_3": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Bag/UIBag.js",
+    "mTimestamp": 1649682129167
+  },
+  "assets/Scripts/UI/Bag/UIBagItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_4": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Bag/UIBagItem.js",
+    "mTimestamp": 1649682129194
+  },
+  "assets/Scripts/UI/Battle/Attribute/AttributeType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Attribute/AttributeType.js",
+    "mTimestamp": 1649682129202
+  },
+  "assets/Scripts/UI/Battle/Attribute/AttributeData.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Attribute/AttributeType.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Attribute/AttributeData.js",
+    "mTimestamp": 1649682129217
+  },
+  "assets/Scripts/UI/Battle/Attribute/Attributes.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/Attribute/AttributeData.js",
+      "__unresolved_3": "assets/Scripts/UI/Battle/Attribute/AttributeType.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Attribute/Attributes.js",
+    "mTimestamp": 1649682129237
+  },
+  "assets/Scripts/Services/ItemService.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "assets/Scripts/Network/NetClient.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_6": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Services/ItemService.js",
+    "mTimestamp": 1649682129268
+  },
+  "assets/Scripts/UI/Battle/Effects/AnimationEventController.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Effects/EntityEffectManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Effects/AnimationEventController.js",
+    "mTimestamp": 1649682129281
+  },
+  "assets/Scripts/UI/Battle/Effects/EffectController.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/Network/NetConfig.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_5": "assets/Scripts/Utils/GlobalPool.js",
+      "__unresolved_2": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Effects/EffectController.js",
+    "mTimestamp": 1649682129311
+  },
+  "assets/Scripts/UI/Battle/Effects/EffectType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Effects/EffectType.js",
+    "mTimestamp": 1649682129316
+  },
+  "assets/Scripts/UI/Battle/Effects/EntityEffectManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_3": "assets/Scripts/UI/Battle/Effects/EffectController.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_5": "assets/Scripts/Utils/GlobalPool.js",
+      "__unresolved_2": "assets/Scripts/Utils/HashMap.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Effects/EntityEffectManager.js",
+    "mTimestamp": 1649682129345
+  },
+  "assets/Scripts/UI/Battle/Effects/FXManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/Effects/EffectController.js",
+      "__unresolved_3": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_4": "assets/Scripts/Utils/GlobalPool.js",
+      "__unresolved_1": "assets/Scripts/Utils/HashMap.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Effects/FXManager.js",
+    "mTimestamp": 1649682129368
+  },
+  "assets/Scripts/UI/Battle/Enities/Creature.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/Network/NetConfig.js",
+      "__unresolved_14": "assets/Scripts/UI/Battle/Attribute/Attributes.js",
+      "__unresolved_15": "assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_16": "assets/Scripts/UI/Battle/Effects/FXManager.js",
+      "__unresolved_17": "assets/Scripts/UI/Battle/Effects/EntityEffectManager.js",
+      "__unresolved_13": "assets/Scripts/UI/Battle/Managers/AiManager.js",
+      "__unresolved_10": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Battle/Managers/BuffManager.js",
+      "__unresolved_12": "assets/Scripts/UI/Battle/Managers/CollisionCheckManager.js",
+      "__unresolved_8": "assets/Scripts/UI/Battle/Managers/EffectManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/Managers/SkillManager.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_11": "assets/Scripts/UI/Battle/UIWorldElementManager.js",
+      "__unresolved_18": "assets/Scripts/UI/Battle/enums/AniState.js",
+      "__unresolved_7": "assets/Scripts/UI/Battle/enums/BattleState.js",
+      "__unresolved_19": "assets/Scripts/UI/Battle/enums/PopupType.js",
+      "__unresolved_6": "assets/Scripts/UI/Battle/enums/SkillResult.js",
+      "__unresolved_2": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_9": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Enities/Creature.js",
+    "mTimestamp": 1649682129425
+  },
+  "assets/Scripts/UI/Battle/Managers/AiManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_4": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_9": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_7": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_3": "assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_8": "assets/Scripts/UI/Battle/enums/CarDirType.js",
+      "__unresolved_6": "assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_2": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Managers/AiManager.js",
+    "mTimestamp": 1649682129468
+  },
+  "assets/Scripts/UI/Battle/Managers/BuffManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Models/Buff.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Managers/BuffManager.js",
+    "mTimestamp": 1649682129481
+  },
+  "assets/Scripts/UI/Battle/Managers/CharacterManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "assets/Scripts/Models/User.js",
+      "__unresolved_6": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_7": "assets/Scripts/UI/Battle/Enities/Creature.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_9": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_10": "assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_8": "assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_2": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Managers/CharacterManager.js",
+    "mTimestamp": 1649682129599
+  },
+  "assets/Scripts/UI/Battle/Managers/CreatureManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/UI/Battle/Managers/CollisionCheckManager.js",
+      "__unresolved_7": "assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/UIWorldElementManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_5": "assets/Scripts/UI/Battle/enums/ShapeType.js",
+      "__unresolved_1": "assets/Scripts/Utils/HashMap.js",
+      "__unresolved_6": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_8": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+    "mTimestamp": 1649682129633
+  },
+  "assets/Scripts/UI/Battle/Managers/CollisionCheckManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/enums/ShapeType.js",
+      "__unresolved_5": "assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_3": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Managers/CollisionCheckManager.js",
+    "mTimestamp": 1649682129678
+  },
+  "assets/Scripts/UI/Battle/Managers/EffectManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Utils/HashMap.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Managers/EffectManager.js",
+    "mTimestamp": 1649682129695
+  },
+  "assets/Scripts/UI/Battle/Managers/SkillManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Models/Skill.js",
+      "__unresolved_3": "assets/Scripts/UI/Battle/enums/SkillType.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Managers/SkillManager.js",
+    "mTimestamp": 1649682129714
+  },
+  "assets/Scripts/UI/Battle/Managers/SpawnMonManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_2": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_8": "assets/Scripts/UI/Battle/Enities/Creature.js",
+      "__unresolved_13": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_11": "assets/Scripts/UI/Battle/Vo/PositionVo.js",
+      "__unresolved_9": "assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_5": "assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_6": "assets/Scripts/Utils/DataUtil.js",
+      "__unresolved_12": "assets/Scripts/Utils/HashMap.js",
+      "__unresolved_3": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_10": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_7": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Managers/SpawnMonManager.js",
+    "mTimestamp": 1649682129822
+  },
+  "assets/Scripts/UI/Battle/Minimap/UIMinimapCharacter.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_3": "assets/Scripts/Models/User.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_1": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Minimap/UIMinimapCharacter.js",
+    "mTimestamp": 1649682129845
+  },
+  "assets/Scripts/UI/Battle/Minimap/UIMinimapManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Minimap/UIMinimapCharacter.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/Managers/CharacterManager.js",
+      "__unresolved_3": "assets/Scripts/Vo/MinimapBoxVo.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Minimap/UIMinimapManager.js",
+    "mTimestamp": 1649682129863
+  },
+  "assets/Scripts/UI/Battle/Models/BattleContext.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Models/BattleContext.js",
+    "mTimestamp": 1649682129875
+  },
+  "assets/Scripts/UI/Battle/Models/Buff.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Network/NetConfig.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/Vo/DamageInfo.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Models/Buff.js",
+    "mTimestamp": 1649682129893
+  },
+  "assets/Scripts/UI/Battle/Models/Bullet.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Network/NetConfig.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_7": "assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_6": "assets/Scripts/Utils/HashMap.js",
+      "__unresolved_5": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Models/Bullet.js",
+    "mTimestamp": 1649682129920
+  },
+  "assets/Scripts/UI/Battle/Models/Skill.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Battle/Models/Bullet.js",
+      "__unresolved_7": "assets/Scripts/Network/NetConfig.js",
+      "__unresolved_11": "assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_14": "assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_12": "assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_10": "assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_9": "assets/Scripts/UI/Battle/Vo/DamageInfo.js",
+      "__unresolved_8": "assets/Scripts/UI/Battle/Vo/SkillHitInfo.js",
+      "__unresolved_15": "assets/Scripts/UI/Battle/enums/AniState.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/enums/SkillResult.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/enums/SkillStatus.js",
+      "__unresolved_5": "assets/Scripts/UI/Battle/enums/TargetType.js",
+      "__unresolved_6": "assets/Scripts/UI/Battle/enums/TriggerType.js",
+      "__unresolved_13": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Models/Skill.js",
+    "mTimestamp": 1649682129990
+  },
+  "assets/Scripts/UI/Battle/Skill/UISkillSlot.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_9": "assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_10": "assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/enums/OptType.js",
+      "__unresolved_7": "assets/Scripts/UI/Battle/enums/SkillTipsType.js",
+      "__unresolved_8": "assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/enums/TargetType.js",
+      "__unresolved_1": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_5": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Skill/UISkillSlot.js",
+    "mTimestamp": 1649682130083
+  },
+  "assets/Scripts/UI/Battle/Skill/UISkillSlots.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Skill/UISkillSlot.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Skill/UISkillSlots.js",
+    "mTimestamp": 1649682130100
+  },
+  "assets/Scripts/UI/Battle/UIBattle.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_4": "assets/Scripts/Services/BattleService.js",
+      "__unresolved_6": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_9": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_10": "assets/Scripts/Services/RoomService.js",
+      "__unresolved_14": "assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_15": "assets/Scripts/UI/Battle/UILiveMsg.js",
+      "__unresolved_12": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_16": "assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_13": "assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_7": "assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_11": "assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_8": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_3": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_2": "assets/Proto/Battle/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UIBattle.js",
+    "mTimestamp": 1649682130177
+  },
+  "assets/Scripts/UI/Battle/UIBattleChat.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_5": "assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_9": "assets/Scripts/Services/ChatService.js",
+      "__unresolved_6": "assets/Scripts/UI/Battle/UIBattleChatItem.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_8": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UIBattleChat.js",
+    "mTimestamp": 1649682130207
+  },
+  "assets/Scripts/UI/Battle/UIBattleChatItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UIBattleChatItem.js",
+    "mTimestamp": 1649682130222
+  },
+  "assets/Scripts/UI/Battle/UIGameLoadIn.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UIGameLoadIn.js",
+    "mTimestamp": 1649682130235
+  },
+  "assets/Scripts/UI/Battle/UIGameOver.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Sound/SoundDefine.js",
+      "__unresolved_1": "assets/Sound/SoundManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UIGameOver.js",
+    "mTimestamp": 1649682130243
+  },
+  "assets/Scripts/UI/Battle/UIPopupText.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UIPopupText.js",
+    "mTimestamp": 1649682130265
+  },
+  "assets/Scripts/UI/Battle/UIHpBar.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UIHpBar.js",
+    "mTimestamp": 1649682130284
+  },
+  "assets/Scripts/UI/Battle/UIRocker.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Battle/enums/OptType.js",
+      "__unresolved_4": "assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_1": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UIRocker.js",
+    "mTimestamp": 1649682130318
+  },
+  "assets/Scripts/UI/Battle/UITestFloat.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UITestFloat.js",
+    "mTimestamp": 1649682130325
+  },
+  "assets/Scripts/UI/Battle/UIWorldElement.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UIWorldElement.js",
+    "mTimestamp": 1649682130344
+  },
+  "assets/Scripts/UI/Battle/UILiveMsg.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UILiveMsg.js",
+    "mTimestamp": 1649682130357
+  },
+  "assets/Scripts/UI/Battle/UIWorldElementManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Battle/UIWorldElement.js",
+      "__unresolved_2": "assets/Scripts/UI/Battle/UIHpBar.js",
+      "__unresolved_4": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Battle/UIPopupText.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_3": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/UIWorldElementManager.js",
+    "mTimestamp": 1649682130387
+  },
+  "assets/Scripts/UI/Battle/Utils/BattleGlobal.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/Services/RoomService.js",
+      "__unresolved_4": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "assets/Scripts/Models/User.js",
+      "__unresolved_3": "assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_1": "assets/Scripts/Utils/HashMap.js",
+      "__unresolved_6": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+    "mTimestamp": 1649682130409
+  },
+  "assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+    "mTimestamp": 1649682130419
+  },
+  "assets/Scripts/UI/Battle/Utils/RandomUtil.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+    "mTimestamp": 1649682130426
+  },
+  "assets/Scripts/UI/Battle/Vo/BuffInfo.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Vo/BuffInfo.js",
+    "mTimestamp": 1649682130435
+  },
+  "assets/Scripts/UI/Battle/Vo/DamageInfo.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Vo/DamageInfo.js",
+    "mTimestamp": 1649682130443
+  },
+  "assets/Scripts/UI/Battle/Vo/SkillHitInfo.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Vo/SkillHitInfo.js",
+    "mTimestamp": 1649682130449
+  },
+  "assets/Scripts/UI/Battle/Vo/PositionVo.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Vo/PositionVo.js",
+    "mTimestamp": 1649682130454
+  },
+  "assets/Scripts/UI/Battle/Vo/SkillTipsSize.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Vo/SkillTipsSize.js",
+    "mTimestamp": 1649682130459
+  },
+  "assets/Scripts/UI/Battle/enums/AniState.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/AniState.js",
+    "mTimestamp": 1649682130464
+  },
+  "assets/Scripts/UI/Battle/enums/BattleMode.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/BattleMode.js",
+    "mTimestamp": 1649682130468
+  },
+  "assets/Scripts/UI/Battle/enums/BattleState.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/BattleState.js",
+    "mTimestamp": 1649682130472
+  },
+  "assets/Scripts/UI/Battle/enums/BuffAction.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/BuffAction.js",
+    "mTimestamp": 1649682130479
+  },
+  "assets/Scripts/UI/Battle/enums/BuffEffect.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/BuffEffect.js",
+    "mTimestamp": 1649682130483
+  },
+  "assets/Scripts/UI/Battle/enums/CarDirType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/CarDirType.js",
+    "mTimestamp": 1649682130488
+  },
+  "assets/Scripts/UI/Battle/enums/CreatureType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/CreatureType.js",
+    "mTimestamp": 1649682130492
+  },
+  "assets/Scripts/UI/Battle/enums/GameStatus.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/GameStatus.js",
+    "mTimestamp": 1649682130496
+  },
+  "assets/Scripts/UI/Battle/enums/HandlerFrameResult.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/HandlerFrameResult.js",
+    "mTimestamp": 1649682130500
+  },
+  "assets/Scripts/UI/Battle/enums/OptType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/OptType.js",
+    "mTimestamp": 1649682130506
+  },
+  "assets/Scripts/UI/Battle/enums/PopupType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/PopupType.js",
+    "mTimestamp": 1649682130510
+  },
+  "assets/Scripts/UI/Battle/enums/ShapeType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/ShapeType.js",
+    "mTimestamp": 1649682130517
+  },
+  "assets/Scripts/UI/Battle/enums/SkillResult.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/SkillResult.js",
+    "mTimestamp": 1649682130522
+  },
+  "assets/Scripts/UI/Battle/enums/SkillStatus.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/SkillStatus.js",
+    "mTimestamp": 1649682130527
+  },
+  "assets/Scripts/UI/Battle/enums/SkillTipsType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/SkillTipsType.js",
+    "mTimestamp": 1649682130532
+  },
+  "assets/Scripts/UI/Battle/enums/SkillType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/SkillType.js",
+    "mTimestamp": 1649682130536
+  },
+  "assets/Scripts/UI/Battle/enums/TargetType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/TargetType.js",
+    "mTimestamp": 1649682130542
+  },
+  "assets/Scripts/UI/Battle/enums/TeamType2.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/TeamType2.js",
+    "mTimestamp": 1649682130545
+  },
+  "assets/Scripts/UI/CharacterSelect/UICharacterSelect.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_6": "assets/Scripts/UI/CharacterSelect/UICharacterSelectItem.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_8": "assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_5": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/CharacterSelect/UICharacterSelect.js",
+    "mTimestamp": 1649682130573
+  },
+  "assets/Scripts/UI/CharacterSelect/UICharacterSelectItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/Models/User.js",
+      "__unresolved_9": "assets/Scripts/Services/UserService.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_8": "assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_4": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_7": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/CharacterSelect/UICharacterSelectItem.js",
+    "mTimestamp": 1649682130607
+  },
+  "assets/Scripts/UI/Battle/enums/TriggerType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/enums/TriggerType.js",
+    "mTimestamp": 1649682130612
+  },
+  "assets/Scripts/UI/Chat/UIChatItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/Models/User.js",
+      "__unresolved_6": "assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Chat/UIOtherMyUserItem.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_3": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Chat/UIChatItem.js",
+    "mTimestamp": 1649682130646
+  },
+  "assets/Scripts/UI/Chat/UIChat.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_5": "assets/Scripts/UI/Chat/UIChatItem.js",
+      "__unresolved_9": "assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_12": "assets/Scripts/Services/ChatService.js",
+      "__unresolved_11": "assets/Scripts/UI/Chat/UIChatUserItem.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_8": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_14": "assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_13": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_10": "assets/Scripts/Vo/ChatUserVo.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Chat/UIChat.js",
+    "mTimestamp": 1649682130727
+  },
+  "assets/Scripts/UI/Chat/UIChatUserItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_6": "assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_2": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Chat/UIChatUserItem.js",
+    "mTimestamp": 1649682130757
+  },
+  "assets/Scripts/UI/Common/Event/EventManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+    "mTimestamp": 1649682130774
+  },
+  "assets/Scripts/UI/Chat/UIOtherMyUserItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_2": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Chat/UIOtherMyUserItem.js",
+    "mTimestamp": 1649682130803
+  },
+  "assets/Scripts/UI/Common/Event/EventType.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+    "mTimestamp": 1649682130815
+  },
+  "assets/Scripts/UI/Common/ListView/ListView.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/ListView/ListView.js",
+    "mTimestamp": 1649682130832
+  },
+  "assets/Scripts/UI/Common/InputBox.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/UIInputBox.js",
+      "__unresolved_1": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/InputBox.js",
+    "mTimestamp": 1649682130841
+  },
+  "assets/Scripts/UI/Common/MessageBox.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIMessageBox.js",
+      "__unresolved_2": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/MessageBox.js",
+    "mTimestamp": 1649682130850
+  },
+  "assets/Scripts/UI/Common/ListView/ListViewItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+    "mTimestamp": 1649682130859
+  },
+  "assets/Scripts/UI/Common/ScrollView/ListItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/ScrollView/ListItem.js",
+    "mTimestamp": 1649682130891
+  },
+  "assets/Scripts/UI/Common/TabView/TabButton.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/TabView/TabButton.js",
+    "mTimestamp": 1649682130910
+  },
+  "assets/Scripts/UI/Common/TabView/TabView.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/TabView/TabButton.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/TabView/TabView.js",
+    "mTimestamp": 1649682130929
+  },
+  "assets/Scripts/UI/Common/UIInputBox.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_3": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_5": "assets/Sound/SoundDefine.js",
+      "__unresolved_4": "assets/Sound/SoundManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/UIInputBox.js",
+    "mTimestamp": 1649682130960
+  },
+  "assets/Scripts/UI/Common/ScrollView/List.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/ScrollView/ListItem.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/ScrollView/List.js",
+    "mTimestamp": 1649682131246
+  },
+  "assets/Scripts/UI/Common/UIManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Utils/HashMap.js",
+      "__unresolved_4": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_3": "assets/Sound/SoundDefine.js",
+      "__unresolved_2": "assets/Sound/SoundManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/UIManager.js",
+    "mTimestamp": 1649682131263
+  },
+  "assets/Scripts/UI/Follow/UIFollow.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_8": "assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_9": "assets/Scripts/Services/FollowService.js",
+      "__unresolved_5": "assets/Scripts/UI/Follow/UIFollowItem.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Follow/UIFollow.js",
+    "mTimestamp": 1649682131311
+  },
+  "assets/Scripts/UI/Common/UIMessageBox.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_6": "assets/Sound/SoundDefine.js",
+      "__unresolved_5": "assets/Sound/SoundManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/UIMessageBox.js",
+    "mTimestamp": 1649682131359
+  },
+  "assets/Scripts/UI/Common/UIWindow.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_2": "assets/Sound/SoundDefine.js",
+      "__unresolved_1": "assets/Sound/SoundManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/UIWindow.js",
+    "mTimestamp": 1649682131375
+  },
+  "assets/Scripts/UI/Common/UITips.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Common/UITips.js",
+    "mTimestamp": 1649682131390
+  },
+  "assets/Scripts/UI/FollowLive/UIFollowLive.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_7": "assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_8": "assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_9": "assets/Scripts/Services/FollowService.js",
+      "__unresolved_5": "assets/Scripts/UI/FollowLive/UIFollowLiveItem.js",
+      "__unresolved_4": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/FollowLive/UIFollowLive.js",
+    "mTimestamp": 1649682131439
+  },
+  "assets/Scripts/UI/Follow/UIFollowItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_8": "assets/Scripts/Services/RoomService.js",
+      "__unresolved_9": "assets/Scripts/UI/Room/UIRoom.js",
+      "__unresolved_7": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_5": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Follow/UIFollowItem.js",
+    "mTimestamp": 1649682131507
+  },
+  "assets/Scripts/UI/FollowLive/UIFollowLiveItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_6": "assets/Scripts/Services/RoomService.js",
+      "__unresolved_2": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_4": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/FollowLive/UIFollowLiveItem.js",
+    "mTimestamp": 1649682131537
+  },
+  "assets/Scripts/UI/Match/UIEnterGameLoad.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Models/User.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "assets/Scripts/Services/BattleService.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_9": "assets/Scripts/Network/NetConfig.js",
+      "__unresolved_10": "assets/Scripts/Network/Battle/NetClientBattle.js",
+      "__unresolved_11": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_12": "assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_2": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_4": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_8": "assets/Proto/Battle/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Match/UIEnterGameLoad.js",
+    "mTimestamp": 1649682131583
+  },
+  "assets/Scripts/UI/Match/UIMatchWait.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_2": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_3": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Match/UIMatchWait.js",
+    "mTimestamp": 1649682131597
+  },
+  "assets/Scripts/UI/PowerRanking/UIPowerRanking.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_5": "assets/Scripts/UI/PowerRanking/UIPowerRankingItem.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "assets/Scripts/Managers/CombatPowerRankingManager.js",
+      "__unresolved_8": "assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/PowerRanking/UIPowerRanking.js",
+    "mTimestamp": 1649682131625
+  },
+  "assets/Scripts/UI/PowerRanking/UIPowerRankingItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_2": "assets/Scripts/Models/User.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_9": "assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_8": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_6": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_3": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/PowerRanking/UIPowerRankingItem.js",
+    "mTimestamp": 1649682131660
+  },
+  "assets/Scripts/UI/Room/UIInvite.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_5": "assets/Scripts/Services/RoomService.js",
+      "__unresolved_8": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Room/UIInviteItem.js",
+      "__unresolved_7": "assets/Scripts/UI/Room/UIRoom.js",
+      "__unresolved_4": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Room/UIInvite.js",
+    "mTimestamp": 1649682131684
+  },
+  "assets/Scripts/UI/Room/UIInviteItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_2": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Room/UIInviteItem.js",
+    "mTimestamp": 1649682131703
+  },
+  "assets/Scripts/UI/Room/UIRoom.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "assets/Scripts/Services/RoomService.js",
+      "__unresolved_6": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_8": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_9": "assets/Scripts/Models/User.js",
+      "__unresolved_10": "assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_5": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_3": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Room/UIRoom.js",
+    "mTimestamp": 1649682131767
+  },
+  "assets/Scripts/UI/TipsManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UITips.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/TipsManager.js",
+    "mTimestamp": 1649682131789
+  },
+  "assets/Scripts/UI/Shop/UIShop.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_8": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_9": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_10": "assets/Scripts/Services/ItemService.js",
+      "__unresolved_11": "assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_12": "assets/Scripts/UI/Common/InputBox.js",
+      "__unresolved_5": "assets/Scripts/UI/Shop/UIShopDetailItem.js",
+      "__unresolved_4": "assets/Scripts/UI/Shop/UIShopItem.js",
+      "__unresolved_13": "assets/Scripts/Utils/Validate.js",
+      "__unresolved_15": "assets/Sound/SoundDefine.js",
+      "__unresolved_14": "assets/Sound/SoundManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Shop/UIShop.js",
+    "mTimestamp": 1649682131830
+  },
+  "assets/Scripts/UI/Tran/UITran.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_8": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_9": "assets/Scripts/Services/ItemService.js",
+      "__unresolved_5": "assets/Scripts/UI/Tran/UITranItem.js",
+      "__unresolved_6": "assets/Scripts/UI/Tran/UITranDetailItem.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Tran/UITran.js",
+    "mTimestamp": 1649682131864
+  },
+  "assets/Scripts/UI/Shop/UIShopItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_4": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Shop/UIShopItem.js",
+    "mTimestamp": 1649682131892
+  },
+  "assets/Scripts/UI/Shop/UIShopDetailItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Shop/UIShopDetailItem.js",
+    "mTimestamp": 1649682131918
+  },
+  "assets/Scripts/UI/Tran/UITranDetailItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Tran/UITranDetailItem.js",
+    "mTimestamp": 1649682131936
+  },
+  "assets/Scripts/UI/Tran/UITranItem.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_3": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Tran/UITranItem.js",
+    "mTimestamp": 1649682131962
+  },
+  "assets/Scripts/UI/UICharacterDetail/UICharacterDetail.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_3": "assets/Scripts/Models/User.js",
+      "__unresolved_5": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_9": "assets/Scripts/Services/UserService.js",
+      "__unresolved_10": "assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_4": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_8": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/UICharacterDetail/UICharacterDetail.js",
+    "mTimestamp": 1649682132047
+  },
+  "assets/Scripts/UI/UICharacterDetail/UIPromote.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_3": "assets/Scripts/Models/User.js",
+      "__unresolved_4": "assets/Scripts/Services/UserService.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_6": "assets/Scripts/Utils/DataUtil.js",
+      "__unresolved_7": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/UICharacterDetail/UIPromote.js",
+    "mTimestamp": 1649682132073
+  },
+  "assets/Scripts/Utils/DataUtil.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Utils/DataUtil.js",
+    "mTimestamp": 1649682132086
+  },
+  "assets/Scripts/UI/UILogin.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_2": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_5": "assets/Scripts/Services/UserService.js",
+      "__unresolved_4": "assets/Sound/SoundDefine.js",
+      "__unresolved_3": "assets/Sound/SoundManager.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/UILogin.js",
+    "mTimestamp": 1649682132114
+  },
+  "assets/Scripts/UI/UIMain.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_2": "assets/Scripts/Models/User.js",
+      "__unresolved_4": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "assets/Scripts/UI/Common/InputBox.js",
+      "__unresolved_9": "assets/Scripts/Services/RoomService.js",
+      "__unresolved_10": "assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_11": "assets/Scripts/Services/MatchService.js",
+      "__unresolved_3": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_8": "assets/Scripts/Utils/Validate.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/UIMain.js",
+    "mTimestamp": 1649682132156
+  },
+  "assets/Scripts/UI/UISystemConfig.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_4": "assets/Sound/SoundConfig.js",
+      "__unresolved_3": "assets/Sound/SoundDefine.js",
+      "__unresolved_2": "assets/Sound/SoundManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/UISystemConfig.js",
+    "mTimestamp": 1649682132188
+  },
+  "assets/Scripts/Utils/DateUtil.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Utils/DateUtil.js",
+    "mTimestamp": 1649682132201
+  },
+  "assets/Scripts/Utils/HashMap.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Utils/HashMap.js",
+    "mTimestamp": 1649682132215
+  },
+  "assets/Scripts/Utils/GlobalPool.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Utils/GlobalPool.js",
+    "mTimestamp": 1649682132227
+  },
+  "assets/Scripts/Utils/LoadResUtil.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Utils/LoadResUtil.js",
+    "mTimestamp": 1649682132235
+  },
+  "assets/Scripts/Utils/LocalStorageUtil.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Utils/LocalStorageUtil.js",
+    "mTimestamp": 1649682132242
+  },
+  "assets/Scripts/Vo/MinimapBoxVo.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Vo/MinimapBoxVo.js",
+    "mTimestamp": 1649682132251
+  },
+  "assets/Scripts/Vo/ChatUserVo.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Vo/ChatUserVo.js",
+    "mTimestamp": 1649682132257
+  },
+  "assets/Scripts/Utils/Validate.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Utils/Validate.js",
+    "mTimestamp": 1649682132262
+  },
+  "assets/Scripts/Vo/RockerSpeedVo.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Vo/RockerSpeedVo.js",
+    "mTimestamp": 1649682132266
+  },
+  "assets/Scripts/Utils/MathUtil.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Network/NetConfig.js",
+      "__unresolved_2": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Utils/MathUtil.js",
+    "mTimestamp": 1649682132309
+  },
+  "assets/Sound/SoundConfig.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Sound/SoundManager.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Sound/SoundConfig.js",
+    "mTimestamp": 1649682132322
+  },
+  "assets/Sound/SoundDefine.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Sound/SoundDefine.js",
+    "mTimestamp": 1649682132327
+  },
+  "assets/Sound/SoundManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_2": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "assets/Sound/SoundConfig.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Sound/SoundManager.js",
+    "mTimestamp": 1649682132345
+  },
+  "assets/migrate-canvas.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/migrate-canvas.js",
+    "mTimestamp": 1649682132361
+  },
+  "assets/resources/Battle/Effects/FX/Scripts/DelayActiveChild.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/resources/Battle/Effects/FX/Scripts/DelayActiveChild.js",
+    "mTimestamp": 1649682132375
+  },
+  "assets/Proto/proto.proxy.js?cjs&original=.js": {
+    "imports": {
+      "__unresolved_1": "assets/Proto/proto.js",
+      "__unresolved_3": "assets/Proto/proto.js",
+      "__unresolved_4": "assets/Proto/proto.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "__unresolved_2": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+    "mTimestamp": 1649682132395
+  },
+  "assets/Proto/Battle/proto.proxy.js?cjs&original=.js": {
+    "imports": {
+      "__unresolved_1": "assets/Proto/Battle/proto.js",
+      "__unresolved_3": "assets/Proto/Battle/proto.js",
+      "__unresolved_4": "assets/Proto/Battle/proto.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "__unresolved_2": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/assets/Proto/Battle/proto.proxy.js@63cjs&original=.js",
+    "mTimestamp": 1649682132418
+  },
+  "assets/Proto/proto.js": {
+    "imports": {
+      "protobufjs/minimal.js": "node_modules/protobufjs/minimal.js",
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/assets/Proto/proto.js",
+    "mTimestamp": 1649682134316
+  },
+  "assets/Proto/Battle/proto.js": {
+    "imports": {
+      "protobufjs/minimal.js": "node_modules/protobufjs/minimal.js",
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/assets/Proto/Battle/proto.js",
+    "mTimestamp": 1649682134497
+  },
+  "node_modules/protobufjs/minimal.js": {
+    "imports": {
+      "__unresolved_0": "node_modules/protobufjs/src/index-minimal.js",
+      "__unresolved_1": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/protobufjs/minimal.js",
+    "mTimestamp": 1649682134535
+  },
+  "node_modules/protobufjs/src/index-minimal.js": {
+    "imports": {
+      "__unresolved_0": "node_modules/protobufjs/src/writer.js",
+      "__unresolved_2": "node_modules/protobufjs/src/reader.js",
+      "__unresolved_3": "node_modules/protobufjs/src/reader_buffer.js",
+      "__unresolved_1": "node_modules/protobufjs/src/writer_buffer.js",
+      "__unresolved_4": "node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_5": "node_modules/protobufjs/src/rpc.js",
+      "__unresolved_6": "node_modules/protobufjs/src/roots.js",
+      "__unresolved_7": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/protobufjs/src/index-minimal.js",
+    "mTimestamp": 1649682134553
+  },
+  "node_modules/protobufjs/src/writer_buffer.js": {
+    "imports": {
+      "__unresolved_0": "node_modules/protobufjs/src/writer.js",
+      "__unresolved_1": "node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_2": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/protobufjs/src/writer_buffer.js",
+    "mTimestamp": 1649682134573
+  },
+  "node_modules/protobufjs/src/reader_buffer.js": {
+    "imports": {
+      "__unresolved_0": "node_modules/protobufjs/src/reader.js",
+      "__unresolved_1": "node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_2": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/protobufjs/src/reader_buffer.js",
+    "mTimestamp": 1649682134581
+  },
+  "node_modules/protobufjs/src/writer.js": {
+    "imports": {
+      "__unresolved_0": "node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_1": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/protobufjs/src/writer.js",
+    "mTimestamp": 1649682134618
+  },
+  "node_modules/protobufjs/src/reader.js": {
+    "imports": {
+      "__unresolved_0": "node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_1": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/protobufjs/src/reader.js",
+    "mTimestamp": 1649682134665
+  },
+  "node_modules/protobufjs/src/rpc.js": {
+    "imports": {
+      "__unresolved_1": "quick-pack:/cce/internal/ml/cjs-loader.js",
+      "__unresolved_0": "node_modules/protobufjs/src/rpc/service.js"
+    },
+    "physicalLocation": "fs/0/node_modules/protobufjs/src/rpc.js",
+    "mTimestamp": 1649682134674
+  },
+  "node_modules/protobufjs/src/roots.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/protobufjs/src/roots.js",
+    "mTimestamp": 1649682134680
+  },
+  "node_modules/protobufjs/src/util/minimal.js": {
+    "imports": {
+      "__unresolved_1": "quick-pack:/cce/internal/ml/cjs-loader.js",
+      "@protobufjs/aspromise": "node_modules/@protobufjs/aspromise/index.js",
+      "@protobufjs/base64": "node_modules/@protobufjs/base64/index.js",
+      "@protobufjs/eventemitter": "node_modules/@protobufjs/eventemitter/index.js",
+      "@protobufjs/float": "node_modules/@protobufjs/float/index.js",
+      "__unresolved_0": "node_modules/protobufjs/src/util/longbits.js",
+      "@protobufjs/inquire": "node_modules/@protobufjs/inquire/index.js",
+      "@protobufjs/utf8": "node_modules/@protobufjs/utf8/index.js",
+      "@protobufjs/pool": "node_modules/@protobufjs/pool/index.js"
+    },
+    "physicalLocation": "fs/0/node_modules/protobufjs/src/util/minimal.js",
+    "mTimestamp": 1649682134712
+  },
+  "node_modules/protobufjs/src/rpc/service.js": {
+    "imports": {
+      "__unresolved_0": "node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_1": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/protobufjs/src/rpc/service.js",
+    "mTimestamp": 1649682134735
+  },
+  "node_modules/protobufjs/src/util/longbits.js": {
+    "imports": {
+      "__unresolved_0": "node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_1": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/protobufjs/src/util/longbits.js",
+    "mTimestamp": 1649682134764
+  },
+  "node_modules/@protobufjs/aspromise/index.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/@@protobufjs/aspromise/index.js",
+    "mTimestamp": 1649682134776
+  },
+  "node_modules/@protobufjs/inquire/index.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/@@protobufjs/inquire/index.js",
+    "mTimestamp": 1649682134782
+  },
+  "node_modules/@protobufjs/eventemitter/index.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/@@protobufjs/eventemitter/index.js",
+    "mTimestamp": 1649682134790
+  },
+  "node_modules/@protobufjs/float/index.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/@@protobufjs/float/index.js",
+    "mTimestamp": 1649682134842
+  },
+  "node_modules/@protobufjs/base64/index.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/@@protobufjs/base64/index.js",
+    "mTimestamp": 1649682134866
+  },
+  "node_modules/@protobufjs/pool/index.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/@@protobufjs/pool/index.js",
+    "mTimestamp": 1649682134876
+  },
+  "node_modules/@protobufjs/utf8/index.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/node_modules/@@protobufjs/utf8/index.js",
+    "mTimestamp": 1649682134890
+  },
+  "assets/Scripts/UI/Battle/Managers/BattleManager.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_4": "assets/Scripts/Services/BattleService.js",
+      "__unresolved_5": "assets/Scripts/Network/NetConfig.js",
+      "__unresolved_8": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_12": "assets/Scripts/UI/Battle/Managers/CharacterManager.js",
+      "__unresolved_9": "assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_17": "assets/Scripts/UI/Battle/Managers/CollisionCheckManager.js",
+      "__unresolved_16": "assets/Scripts/UI/Battle/Managers/SpawnMonManager.js",
+      "__unresolved_15": "assets/Scripts/UI/Battle/Models/BattleContext.js",
+      "__unresolved_14": "assets/Scripts/UI/Battle/Minimap/UIMinimapManager.js",
+      "__unresolved_23": "assets/Scripts/UI/Battle/UIBattle.js",
+      "__unresolved_24": "assets/Scripts/UI/Battle/UIGameLoadIn.js",
+      "__unresolved_18": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_20": "assets/Scripts/UI/Battle/enums/AniState.js",
+      "__unresolved_21": "assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_11": "assets/Scripts/UI/Battle/enums/GameStatus.js",
+      "__unresolved_22": "assets/Scripts/UI/Battle/enums/HandlerFrameResult.js",
+      "__unresolved_3": "assets/Scripts/UI/Battle/enums/OptType.js",
+      "__unresolved_10": "assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_19": "assets/Scripts/UI/Battle/enums/TargetType.js",
+      "__unresolved_1": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "assets/Scripts/Utils/HashMap.js",
+      "__unresolved_13": "assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_2": "assets/Proto/Battle/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+    "mTimestamp": 1649686931298
+  },
+  "assets/Scripts/Services/UserService.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js",
+      "__unresolved_1": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "assets/Scripts/Network/NetClient.js",
+      "__unresolved_7": "assets/Scripts/Models/User.js",
+      "__unresolved_11": "assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_5": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_10": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_9": "assets/Sound/SoundDefine.js",
+      "__unresolved_8": "assets/Sound/SoundManager.js",
+      "__unresolved_2": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Services/UserService.js",
+    "mTimestamp": 1649738801115
+  },
+  "assets/Scripts/Network/NetConfig.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Network/NetConfig.js",
+    "mTimestamp": 1650890881419
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {
+      "__unresolved_0": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/base"
+      },
+      "__unresolved_1": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl"
+      },
+      "__unresolved_2": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl2"
+      },
+      "__unresolved_3": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/3d"
+      },
+      "__unresolved_4": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/2d"
+      },
+      "__unresolved_5": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/ui"
+      },
+      "__unresolved_6": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle"
+      },
+      "__unresolved_7": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle-2d"
+      },
+      "__unresolved_8": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-framework"
+      },
+      "__unresolved_9": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-2d-framework"
+      },
+      "__unresolved_10": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/intersection-2d"
+      },
+      "__unresolved_11": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/primitive"
+      },
+      "__unresolved_12": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/profiler"
+      },
+      "__unresolved_13": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/audio"
+      },
+      "__unresolved_14": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/video"
+      },
+      "__unresolved_15": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/terrain"
+      },
+      "__unresolved_16": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/webview"
+      },
+      "__unresolved_17": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tween"
+      },
+      "__unresolved_18": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tiled-map"
+      },
+      "__unresolved_19": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/spine"
+      },
+      "__unresolved_20": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/dragon-bones"
+      }
+    },
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1651659085639,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "__unresolved_2": "assets/Scripts/Data/AddAttrDefine.js",
+      "__unresolved_3": "assets/Scripts/Data/BuffDefine.js",
+      "__unresolved_4": "assets/Scripts/Data/CharacterDefine.js",
+      "__unresolved_5": "assets/Scripts/Data/GameConfig.js",
+      "__unresolved_6": "assets/Scripts/Data/ItemDefine.js",
+      "__unresolved_7": "assets/Scripts/Data/ShopDefine.js",
+      "__unresolved_9": "assets/Scripts/Data/SkillDefine.js",
+      "__unresolved_8": "assets/Scripts/Data/ShopItemDefine.js",
+      "__unresolved_10": "assets/Scripts/Data/SpawnRuleDefine.js",
+      "__unresolved_11": "assets/Scripts/LoadingManager.js",
+      "__unresolved_12": "assets/Scripts/Log/LogUtil.js",
+      "__unresolved_13": "assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_14": "assets/Scripts/Managers/CombatPowerRankingManager.js",
+      "__unresolved_15": "assets/Scripts/Managers/DataManager.js",
+      "__unresolved_18": "assets/Scripts/Models/User.js",
+      "__unresolved_17": "assets/Scripts/Managers/ItemManager.js",
+      "__unresolved_19": "assets/Scripts/Network/Battle/NetClientBattle.js",
+      "__unresolved_20": "assets/Scripts/Network/MessageDispatch.js",
+      "__unresolved_16": "assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_21": "assets/Scripts/Network/NetClient.js",
+      "__unresolved_23": "assets/Scripts/Network/SocketConst.js",
+      "__unresolved_24": "assets/Scripts/Services/AuctionService.js",
+      "__unresolved_22": "assets/Scripts/Network/NetConfig.js",
+      "__unresolved_25": "assets/Scripts/Services/BattleService.js",
+      "__unresolved_26": "assets/Scripts/Services/ChatService.js",
+      "__unresolved_27": "assets/Scripts/Services/FollowService.js",
+      "__unresolved_28": "assets/Scripts/Services/ItemService.js",
+      "__unresolved_29": "assets/Scripts/Services/MatchService.js",
+      "__unresolved_30": "assets/Scripts/Services/RoomService.js",
+      "__unresolved_31": "assets/Scripts/Services/StatusService.js",
+      "__unresolved_32": "assets/Scripts/Services/TipsService.js",
+      "__unresolved_33": "assets/Scripts/Services/UserService.js",
+      "__unresolved_35": "assets/Scripts/UI/Auction/UIAuctionDetailItem.js",
+      "__unresolved_34": "assets/Scripts/UI/Auction/UIAuction.js",
+      "__unresolved_36": "assets/Scripts/UI/Auction/UIAuctionItem.js",
+      "__unresolved_37": "assets/Scripts/UI/Bag/UIBag.js",
+      "__unresolved_40": "assets/Scripts/UI/Battle/Attribute/AttributeData.js",
+      "__unresolved_39": "assets/Scripts/UI/Bag/UIBagItem.js",
+      "__unresolved_38": "assets/Scripts/UI/Bag/UIBagDetailItem.js",
+      "__unresolved_43": "assets/Scripts/UI/Battle/Effects/AnimationEventController.js",
+      "__unresolved_41": "assets/Scripts/UI/Battle/Attribute/AttributeType.js",
+      "__unresolved_42": "assets/Scripts/UI/Battle/Attribute/Attributes.js",
+      "__unresolved_44": "assets/Scripts/UI/Battle/Effects/EffectController.js",
+      "__unresolved_48": "assets/Scripts/UI/Battle/Enities/Creature.js",
+      "__unresolved_45": "assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_47": "assets/Scripts/UI/Battle/Effects/FXManager.js",
+      "__unresolved_46": "assets/Scripts/UI/Battle/Effects/EntityEffectManager.js",
+      "__unresolved_49": "assets/Scripts/UI/Battle/Managers/AiManager.js",
+      "__unresolved_50": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_51": "assets/Scripts/UI/Battle/Managers/BuffManager.js",
+      "__unresolved_52": "assets/Scripts/UI/Battle/Managers/CharacterManager.js",
+      "__unresolved_54": "assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_53": "assets/Scripts/UI/Battle/Managers/CollisionCheckManager.js",
+      "__unresolved_58": "assets/Scripts/UI/Battle/Minimap/UIMinimapCharacter.js",
+      "__unresolved_55": "assets/Scripts/UI/Battle/Managers/EffectManager.js",
+      "__unresolved_57": "assets/Scripts/UI/Battle/Managers/SpawnMonManager.js",
+      "__unresolved_56": "assets/Scripts/UI/Battle/Managers/SkillManager.js",
+      "__unresolved_60": "assets/Scripts/UI/Battle/Models/BattleContext.js",
+      "__unresolved_59": "assets/Scripts/UI/Battle/Minimap/UIMinimapManager.js",
+      "__unresolved_64": "assets/Scripts/UI/Battle/Skill/UISkillSlot.js",
+      "__unresolved_61": "assets/Scripts/UI/Battle/Models/Buff.js",
+      "__unresolved_62": "assets/Scripts/UI/Battle/Models/Bullet.js",
+      "__unresolved_63": "assets/Scripts/UI/Battle/Models/Skill.js",
+      "__unresolved_65": "assets/Scripts/UI/Battle/Skill/UISkillSlots.js",
+      "__unresolved_67": "assets/Scripts/UI/Battle/UIBattleChat.js",
+      "__unresolved_66": "assets/Scripts/UI/Battle/UIBattle.js",
+      "__unresolved_68": "assets/Scripts/UI/Battle/UIBattleChatItem.js",
+      "__unresolved_69": "assets/Scripts/UI/Battle/UIGameLoadIn.js",
+      "__unresolved_70": "assets/Scripts/UI/Battle/UIGameOver.js",
+      "__unresolved_71": "assets/Scripts/UI/Battle/UIHpBar.js",
+      "__unresolved_72": "assets/Scripts/UI/Battle/UILiveMsg.js",
+      "__unresolved_73": "assets/Scripts/UI/Battle/UIPopupText.js",
+      "__unresolved_74": "assets/Scripts/UI/Battle/UIRocker.js",
+      "__unresolved_78": "assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_75": "assets/Scripts/UI/Battle/UITestFloat.js",
+      "__unresolved_79": "assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_76": "assets/Scripts/UI/Battle/UIWorldElement.js",
+      "__unresolved_77": "assets/Scripts/UI/Battle/UIWorldElementManager.js",
+      "__unresolved_80": "assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_81": "assets/Scripts/UI/Battle/Vo/BuffInfo.js",
+      "__unresolved_83": "assets/Scripts/UI/Battle/Vo/PositionVo.js",
+      "__unresolved_82": "assets/Scripts/UI/Battle/Vo/DamageInfo.js",
+      "__unresolved_84": "assets/Scripts/UI/Battle/Vo/SkillHitInfo.js",
+      "__unresolved_86": "assets/Scripts/UI/Battle/enums/AniState.js",
+      "__unresolved_85": "assets/Scripts/UI/Battle/Vo/SkillTipsSize.js",
+      "__unresolved_87": "assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_88": "assets/Scripts/UI/Battle/enums/BattleState.js",
+      "__unresolved_89": "assets/Scripts/UI/Battle/enums/BuffAction.js",
+      "__unresolved_91": "assets/Scripts/UI/Battle/enums/CarDirType.js",
+      "__unresolved_90": "assets/Scripts/UI/Battle/enums/BuffEffect.js",
+      "__unresolved_92": "assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_93": "assets/Scripts/UI/Battle/enums/GameStatus.js",
+      "__unresolved_94": "assets/Scripts/UI/Battle/enums/HandlerFrameResult.js",
+      "__unresolved_96": "assets/Scripts/UI/Battle/enums/PopupType.js",
+      "__unresolved_95": "assets/Scripts/UI/Battle/enums/OptType.js",
+      "__unresolved_97": "assets/Scripts/UI/Battle/enums/ShapeType.js",
+      "__unresolved_98": "assets/Scripts/UI/Battle/enums/SkillResult.js",
+      "__unresolved_99": "assets/Scripts/UI/Battle/enums/SkillStatus.js",
+      "__unresolved_100": "assets/Scripts/UI/Battle/enums/SkillTipsType.js",
+      "__unresolved_101": "assets/Scripts/UI/Battle/enums/SkillType.js",
+      "__unresolved_103": "assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_102": "assets/Scripts/UI/Battle/enums/TargetType.js",
+      "__unresolved_105": "assets/Scripts/UI/CharacterSelect/UICharacterSelect.js",
+      "__unresolved_104": "assets/Scripts/UI/Battle/enums/TriggerType.js",
+      "__unresolved_106": "assets/Scripts/UI/CharacterSelect/UICharacterSelectItem.js",
+      "__unresolved_108": "assets/Scripts/UI/Chat/UIChatItem.js",
+      "__unresolved_107": "assets/Scripts/UI/Chat/UIChat.js",
+      "__unresolved_110": "assets/Scripts/UI/Chat/UIOtherMyUserItem.js",
+      "__unresolved_109": "assets/Scripts/UI/Chat/UIChatUserItem.js",
+      "__unresolved_111": "assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_113": "assets/Scripts/UI/Common/InputBox.js",
+      "__unresolved_112": "assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_115": "assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_114": "assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_116": "assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_118": "assets/Scripts/UI/Common/ScrollView/ListItem.js",
+      "__unresolved_117": "assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_120": "assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_119": "assets/Scripts/UI/Common/TabView/TabButton.js",
+      "__unresolved_122": "assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_121": "assets/Scripts/UI/Common/UIInputBox.js",
+      "__unresolved_123": "assets/Scripts/UI/Common/UIMessageBox.js",
+      "__unresolved_124": "assets/Scripts/UI/Common/UITips.js",
+      "__unresolved_125": "assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_126": "assets/Scripts/UI/Follow/UIFollow.js",
+      "__unresolved_127": "assets/Scripts/UI/Follow/UIFollowItem.js",
+      "__unresolved_128": "assets/Scripts/UI/FollowLive/UIFollowLive.js",
+      "__unresolved_129": "assets/Scripts/UI/FollowLive/UIFollowLiveItem.js",
+      "__unresolved_130": "assets/Scripts/UI/Match/UIEnterGameLoad.js",
+      "__unresolved_131": "assets/Scripts/UI/Match/UIMatchWait.js",
+      "__unresolved_134": "assets/Scripts/UI/Room/UIInvite.js",
+      "__unresolved_133": "assets/Scripts/UI/PowerRanking/UIPowerRankingItem.js",
+      "__unresolved_135": "assets/Scripts/UI/Room/UIInviteItem.js",
+      "__unresolved_132": "assets/Scripts/UI/PowerRanking/UIPowerRanking.js",
+      "__unresolved_136": "assets/Scripts/UI/Room/UIRoom.js",
+      "__unresolved_137": "assets/Scripts/UI/Shop/UIShop.js",
+      "__unresolved_138": "assets/Scripts/UI/Shop/UIShopDetailItem.js",
+      "__unresolved_139": "assets/Scripts/UI/Shop/UIShopItem.js",
+      "__unresolved_141": "assets/Scripts/UI/Tran/UITran.js",
+      "__unresolved_140": "assets/Scripts/UI/TipsManager.js",
+      "__unresolved_143": "assets/Scripts/UI/Tran/UITranItem.js",
+      "__unresolved_142": "assets/Scripts/UI/Tran/UITranDetailItem.js",
+      "__unresolved_144": "assets/Scripts/UI/UICharacterDetail/UICharacterDetail.js",
+      "__unresolved_145": "assets/Scripts/UI/UICharacterDetail/UIPromote.js",
+      "__unresolved_146": "assets/Scripts/UI/UILogin.js",
+      "__unresolved_147": "assets/Scripts/UI/UIMain.js",
+      "__unresolved_148": "assets/Scripts/UI/UISystemConfig.js",
+      "__unresolved_149": "assets/Scripts/Utils/DataUtil.js",
+      "__unresolved_150": "assets/Scripts/Utils/DateUtil.js",
+      "__unresolved_151": "assets/Scripts/Utils/GlobalPool.js",
+      "__unresolved_152": "assets/Scripts/Utils/HashMap.js",
+      "__unresolved_153": "assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_154": "assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_155": "assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_156": "assets/Scripts/Utils/Validate.js",
+      "__unresolved_157": "assets/Scripts/Vo/ChatUserVo.js",
+      "__unresolved_158": "assets/Scripts/Vo/MinimapBoxVo.js",
+      "__unresolved_159": "assets/Scripts/Vo/RockerSpeedVo.js",
+      "__unresolved_160": "assets/Sound/SoundConfig.js",
+      "__unresolved_161": "assets/Sound/SoundDefine.js",
+      "__unresolved_162": "assets/Sound/SoundManager.js",
+      "__unresolved_163": "assets/migrate-canvas.js",
+      "__unresolved_164": "assets/resources/Battle/Effects/FX/Scripts/DelayActiveChild.js",
+      "__unresolved_1": "assets/Proto/proto.proxy.js?cjs&original=.js",
+      "__unresolved_0": "assets/Proto/Battle/proto.proxy.js?cjs&original=.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1651659085721,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1651659085787
+  },
+  "quick-pack:/cce/internal/ml/cjs-loader.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/ml/cjs-loader.js",
+    "mTimestamp": 1651659085821
+  }
+}

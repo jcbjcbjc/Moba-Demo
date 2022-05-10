@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.35",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "5566110d-83ab-4e4b-b956-4b92c886b961",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "EFX_Archer_SkillB_behurt_prefab"
+  }
+}

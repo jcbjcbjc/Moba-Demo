@@ -1,0 +1,61 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c556e1d5-9fa3-46bd-8d54-91636e08510b",
+  "files": [],
+  "subMetas": {
+    "82785": {
+      "importer": "gltf-mesh",
+      "uuid": "c556e1d5-9fa3-46bd-8d54-91636e08510b@82785",
+      "displayName": "",
+      "id": "82785",
+      "name": "Cone002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9420a": {
+      "importer": "gltf-scene",
+      "uuid": "c556e1d5-9fa3-46bd-8d54-91636e08510b@9420a",
+      "displayName": "",
+      "id": "9420a",
+      "name": "160921qilang.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "c556e1d5-9fa3-46bd-8d54-91636e08510b@9420a",
+    "assetFinder": {
+      "meshes": [
+        "c556e1d5-9fa3-46bd-8d54-91636e08510b@82785"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c556e1d5-9fa3-46bd-8d54-91636e08510b@9420a"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

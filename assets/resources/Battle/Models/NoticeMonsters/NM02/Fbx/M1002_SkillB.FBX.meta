@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f9e59244-e22a-4461-9da0-0e114a07e19c",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "048c3": {
+      "importer": "gltf-mesh",
+      "uuid": "f9e59244-e22a-4461-9da0-0e114a07e19c@048c3",
+      "displayName": "",
+      "id": "048c3",
+      "name": "Monolith Monsters.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6a81c": {
+      "importer": "gltf-animation",
+      "uuid": "f9e59244-e22a-4461-9da0-0e114a07e19c@6a81c",
+      "displayName": "",
+      "id": "6a81c",
+      "name": "Monolith Monsters+技能2.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.1666666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "f9e59244-e22a-4461-9da0-0e114a07e19c@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 35
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "32d96": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f9e59244-e22a-4461-9da0-0e114a07e19c@32d96",
+      "displayName": "",
+      "id": "32d96",
+      "name": "Map #0.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab932": {
+      "importer": "texture",
+      "uuid": "f9e59244-e22a-4461-9da0-0e114a07e19c@ab932",
+      "displayName": "",
+      "id": "ab932",
+      "name": "Map #0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f9e59244-e22a-4461-9da0-0e114a07e19c@32d96"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ff75": {
+      "importer": "gltf-material",
+      "uuid": "f9e59244-e22a-4461-9da0-0e114a07e19c@7ff75",
+      "displayName": "",
+      "id": "7ff75",
+      "name": "Material #27.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d4e8c": {
+      "importer": "gltf-scene",
+      "uuid": "f9e59244-e22a-4461-9da0-0e114a07e19c@d4e8c",
+      "displayName": "",
+      "id": "d4e8c",
+      "name": "M1002_SkillB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #0",
+        "uri": "f9e59244-e22a-4461-9da0-0e114a07e19c@32d96"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Monolith Monsters+技能2",
+        "duration": 1.1666666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Monolith Monsters+技能2",
+            "from": 0,
+            "to": 1.1666666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f9e59244-e22a-4461-9da0-0e114a07e19c@d4e8c",
+    "assetFinder": {
+      "meshes": [
+        "f9e59244-e22a-4461-9da0-0e114a07e19c@048c3"
+      ],
+      "skeletons": [
+        "f9e59244-e22a-4461-9da0-0e114a07e19c@438fe"
+      ],
+      "textures": [
+        "f9e59244-e22a-4461-9da0-0e114a07e19c@ab932"
+      ],
+      "materials": [
+        "f9e59244-e22a-4461-9da0-0e114a07e19c@7ff75"
+      ],
+      "scenes": [
+        "f9e59244-e22a-4461-9da0-0e114a07e19c@d4e8c"
+      ]
+    }
+  }
+}

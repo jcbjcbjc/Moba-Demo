@@ -1,0 +1,125 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cecff5bd-2d68-4c1d-9369-9ccc29c51e95",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "1af42": {
+      "importer": "gltf-mesh",
+      "uuid": "cecff5bd-2d68-4c1d-9369-9ccc29c51e95@1af42",
+      "displayName": "",
+      "id": "1af42",
+      "name": "Bone002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "94fbd": {
+      "importer": "gltf-animation",
+      "uuid": "cecff5bd-2d68-4c1d-9369-9ccc29c51e95@94fbd",
+      "displayName": "",
+      "id": "94fbd",
+      "name": "Warrior_SkillA.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.5
+        },
+        "events": [
+          {
+            "frame": 2.6666666666666665,
+            "func": "PlayEffect",
+            "params": [
+              "EFX_Warrior_SkillA_prefab"
+            ],
+            "x": 143.7037037037037
+          }
+        ]
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "cecff5bd-2d68-4c1d-9369-9ccc29c51e95@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8fcf": {
+      "importer": "gltf-scene",
+      "uuid": "cecff5bd-2d68-4c1d-9369-9ccc29c51e95@f8fcf",
+      "displayName": "",
+      "id": "f8fcf",
+      "name": "Warrior_SkillA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Warrior_SkillA",
+        "duration": 4.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Warrior_SkillA",
+            "from": 0,
+            "to": 4.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "cecff5bd-2d68-4c1d-9369-9ccc29c51e95@f8fcf",
+    "assetFinder": {
+      "meshes": [
+        "cecff5bd-2d68-4c1d-9369-9ccc29c51e95@1af42"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "cecff5bd-2d68-4c1d-9369-9ccc29c51e95@ea6e2"
+      ],
+      "scenes": [
+        "cecff5bd-2d68-4c1d-9369-9ccc29c51e95@f8fcf"
+      ]
+    }
+  }
+}

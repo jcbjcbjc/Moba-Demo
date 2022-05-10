@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_cj_tubiao_01",
+    "atlas": "",
+    "rect": {
+      "x": 11,
+      "y": 11,
+      "width": 97,
+      "height": 103
+    },
+    "offset": {
+      "x": -0.5,
+      "y": -2.5
+    },
+    "originalSize": {
+      "width": 120,
+      "height": 120
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "64ac2254-f023-46ce-bd32-1537ee95d575@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "March_red",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 351,
+      "height": 103
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 351,
+      "height": 103
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "8a543192-ca8e-415e-bd4d-e6f4e2060b1d@6c48a",
+    "packable": true
+  }
+}

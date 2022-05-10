@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cf64c0a7-46ab-4042-9ec7-2ec4bc4e5b25",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "cd965": {
+      "importer": "gltf-animation",
+      "uuid": "cf64c0a7-46ab-4042-9ec7-2ec4bc4e5b25@cd965",
+      "displayName": "",
+      "id": "cd965",
+      "name": "Wizard_Move_Back.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "395fd": {
+      "importer": "gltf-scene",
+      "uuid": "cf64c0a7-46ab-4042-9ec7-2ec4bc4e5b25@395fd",
+      "displayName": "",
+      "id": "395fd",
+      "name": "Wizard_Move_Back.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Wizard_Move_Back",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Wizard_Move_Back",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "cf64c0a7-46ab-4042-9ec7-2ec4bc4e5b25@395fd",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "cf64c0a7-46ab-4042-9ec7-2ec4bc4e5b25@395fd"
+      ]
+    }
+  }
+}

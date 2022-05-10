@@ -1,0 +1,126 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a",
+  "files": [],
+  "subMetas": {
+    "0692d": {
+      "importer": "gltf-mesh",
+      "uuid": "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@0692d",
+      "displayName": "",
+      "id": "0692d",
+      "name": "Plane002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2364": {
+      "importer": "gltf-embeded-image",
+      "uuid": "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@a2364",
+      "displayName": "",
+      "id": "a2364",
+      "name": "Map #1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e70c": {
+      "importer": "texture",
+      "uuid": "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@6e70c",
+      "displayName": "",
+      "id": "6e70c",
+      "name": "Map #1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@a2364"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a290d": {
+      "importer": "gltf-scene",
+      "uuid": "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@a290d",
+      "displayName": "",
+      "id": "a290d",
+      "name": "shock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #1",
+        "uri": "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@a2364"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@a290d",
+    "assetFinder": {
+      "meshes": [
+        "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@0692d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@6e70c"
+      ],
+      "materials": [
+        "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@d90a4"
+      ],
+      "scenes": [
+        "abb4ab7c-43c1-4723-b4ec-3c0a0bd4299a@a290d"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

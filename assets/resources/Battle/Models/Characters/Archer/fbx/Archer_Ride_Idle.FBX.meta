@@ -1,0 +1,80 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "277fe555-e7eb-4769-a745-590f9c67a669",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "d7f8a": {
+      "importer": "gltf-animation",
+      "uuid": "277fe555-e7eb-4769-a745-590f9c67a669@d7f8a",
+      "displayName": "",
+      "id": "d7f8a",
+      "name": "Archer_Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.6666667461395264
+        },
+        "events": [],
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "736bb": {
+      "importer": "gltf-scene",
+      "uuid": "277fe555-e7eb-4769-a745-590f9c67a669@736bb",
+      "displayName": "",
+      "id": "736bb",
+      "name": "Archer_Ride_Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Archer_Idle",
+        "duration": 2.6666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Archer_Idle",
+            "from": 0,
+            "to": 2.6666667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "277fe555-e7eb-4769-a745-590f9c67a669@736bb",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "277fe555-e7eb-4769-a745-590f9c67a669@736bb"
+      ]
+    }
+  }
+}

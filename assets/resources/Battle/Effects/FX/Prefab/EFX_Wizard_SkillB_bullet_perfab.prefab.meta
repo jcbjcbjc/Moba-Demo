@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.35",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "ee9c05b5-0f2e-41ef-8e1b-157dd70667f1",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "EFX_Wizard_SkillB_bullet_perfab"
+  }
+}

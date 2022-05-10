@@ -1,0 +1,109 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f539f139-c345-46d7-b013-03013f2041dc",
+  "files": [],
+  "subMetas": {
+    "14590": {
+      "importer": "gltf-scene",
+      "uuid": "f539f139-c345-46d7-b013-03013f2041dc@14590",
+      "displayName": "",
+      "id": "14590",
+      "name": "shock_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0692d": {
+      "importer": "gltf-mesh",
+      "uuid": "f539f139-c345-46d7-b013-03013f2041dc@0692d",
+      "displayName": "",
+      "id": "0692d",
+      "name": "Plane002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e70c": {
+      "importer": "texture",
+      "uuid": "f539f139-c345-46d7-b013-03013f2041dc@6e70c",
+      "displayName": "",
+      "id": "6e70c",
+      "name": "Map #1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/Battle/Effects/FX/Model"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d90a4": {
+      "importer": "gltf-material",
+      "uuid": "f539f139-c345-46d7-b013-03013f2041dc@d90a4",
+      "displayName": "",
+      "id": "d90a4",
+      "name": "01 - Default.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #1",
+        "uri": "db://assets/resources/Battle/Effects/FX/Model"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "f539f139-c345-46d7-b013-03013f2041dc@14590",
+    "assetFinder": {
+      "meshes": [
+        "f539f139-c345-46d7-b013-03013f2041dc@0692d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f539f139-c345-46d7-b013-03013f2041dc@6e70c"
+      ],
+      "materials": [
+        "f539f139-c345-46d7-b013-03013f2041dc@d90a4"
+      ],
+      "scenes": [
+        "f539f139-c345-46d7-b013-03013f2041dc@14590"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

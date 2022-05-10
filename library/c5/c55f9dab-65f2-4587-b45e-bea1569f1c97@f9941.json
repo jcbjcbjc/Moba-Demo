@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_error",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 5,
+      "width": 53,
+      "height": 53
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 64,
+      "height": 64
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c55f9dab-65f2-4587-b45e-bea1569f1c97@6c48a",
+    "packable": true
+  }
+}

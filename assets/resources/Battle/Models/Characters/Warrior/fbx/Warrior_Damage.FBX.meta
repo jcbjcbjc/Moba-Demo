@@ -1,0 +1,116 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ba55bb4e-f230-40ea-bb99-cda236e39797",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "1af42": {
+      "importer": "gltf-mesh",
+      "uuid": "ba55bb4e-f230-40ea-bb99-cda236e39797@1af42",
+      "displayName": "",
+      "id": "1af42",
+      "name": "Bone002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "408d0": {
+      "importer": "gltf-animation",
+      "uuid": "ba55bb4e-f230-40ea-bb99-cda236e39797@408d0",
+      "displayName": "",
+      "id": "408d0",
+      "name": "Warrior_Damage.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "ba55bb4e-f230-40ea-bb99-cda236e39797@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1905": {
+      "importer": "gltf-scene",
+      "uuid": "ba55bb4e-f230-40ea-bb99-cda236e39797@a1905",
+      "displayName": "",
+      "id": "a1905",
+      "name": "Warrior_Damage.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Warrior_Damage",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Warrior_Damage",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ba55bb4e-f230-40ea-bb99-cda236e39797@a1905",
+    "assetFinder": {
+      "meshes": [
+        "ba55bb4e-f230-40ea-bb99-cda236e39797@1af42"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ba55bb4e-f230-40ea-bb99-cda236e39797@ea6e2"
+      ],
+      "scenes": [
+        "ba55bb4e-f230-40ea-bb99-cda236e39797@a1905"
+      ]
+    }
+  }
+}

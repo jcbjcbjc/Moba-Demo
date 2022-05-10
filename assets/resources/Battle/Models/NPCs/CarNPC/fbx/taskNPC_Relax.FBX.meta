@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d9bc4718-e986-44c9-8af1-d25eb942dbde",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "88903": {
+      "importer": "gltf-scene",
+      "uuid": "d9bc4718-e986-44c9-8af1-d25eb942dbde@88903",
+      "displayName": "",
+      "id": "88903",
+      "name": "taskNPC_Relax.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f7af": {
+      "importer": "gltf-animation",
+      "uuid": "d9bc4718-e986-44c9-8af1-d25eb942dbde@8f7af",
+      "displayName": "",
+      "id": "8f7af",
+      "name": "taskNPC_Relax.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.8333332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "taskNPC_Relax",
+        "duration": 2.8333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "taskNPC_Relax",
+            "from": 0,
+            "to": 2.8333332538604736,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "d9bc4718-e986-44c9-8af1-d25eb942dbde@88903",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d9bc4718-e986-44c9-8af1-d25eb942dbde@88903"
+      ]
+    }
+  }
+}

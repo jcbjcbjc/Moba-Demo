@@ -1,0 +1,116 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ae526ab3-6d39-455a-9bde-014626d3f64a",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "1af42": {
+      "importer": "gltf-mesh",
+      "uuid": "ae526ab3-6d39-455a-9bde-014626d3f64a@1af42",
+      "displayName": "",
+      "id": "1af42",
+      "name": "Bone002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2bc6c": {
+      "importer": "gltf-animation",
+      "uuid": "ae526ab3-6d39-455a-9bde-014626d3f64a@2bc6c",
+      "displayName": "",
+      "id": "2bc6c",
+      "name": "Move.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.6666666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "ae526ab3-6d39-455a-9bde-014626d3f64a@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "985a5": {
+      "importer": "gltf-scene",
+      "uuid": "ae526ab3-6d39-455a-9bde-014626d3f64a@985a5",
+      "displayName": "",
+      "id": "985a5",
+      "name": "Warrior_Move_Forward.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Warrior_Move_Forward",
+        "duration": 0.6666666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Move",
+            "from": 0,
+            "to": 0.6666666865348816,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ae526ab3-6d39-455a-9bde-014626d3f64a@985a5",
+    "assetFinder": {
+      "meshes": [
+        "ae526ab3-6d39-455a-9bde-014626d3f64a@1af42"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ae526ab3-6d39-455a-9bde-014626d3f64a@ea6e2"
+      ],
+      "scenes": [
+        "ae526ab3-6d39-455a-9bde-014626d3f64a@985a5"
+      ]
+    }
+  }
+}

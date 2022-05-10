@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "dc7d755b-200f-4b6a-9047-71d5dff177cc",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "2a6b3": {
+      "importer": "gltf-mesh",
+      "uuid": "dc7d755b-200f-4b6a-9047-71d5dff177cc@2a6b3",
+      "displayName": "",
+      "id": "2a6b3",
+      "name": "Object01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2696": {
+      "importer": "gltf-animation",
+      "uuid": "dc7d755b-200f-4b6a-9047-71d5dff177cc@c2696",
+      "displayName": "",
+      "id": "c2696",
+      "name": "Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "dc7d755b-200f-4b6a-9047-71d5dff177cc@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 37
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2364": {
+      "importer": "gltf-embeded-image",
+      "uuid": "dc7d755b-200f-4b6a-9047-71d5dff177cc@a2364",
+      "displayName": "",
+      "id": "a2364",
+      "name": "Map #1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e70c": {
+      "importer": "texture",
+      "uuid": "dc7d755b-200f-4b6a-9047-71d5dff177cc@6e70c",
+      "displayName": "",
+      "id": "6e70c",
+      "name": "Map #1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dc7d755b-200f-4b6a-9047-71d5dff177cc@a2364"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d093": {
+      "importer": "gltf-material",
+      "uuid": "dc7d755b-200f-4b6a-9047-71d5dff177cc@9d093",
+      "displayName": "",
+      "id": "9d093",
+      "name": "Material #25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c7ffc": {
+      "importer": "gltf-scene",
+      "uuid": "dc7d755b-200f-4b6a-9047-71d5dff177cc@c7ffc",
+      "displayName": "",
+      "id": "c7ffc",
+      "name": "M1005_Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #1",
+        "uri": "dc7d755b-200f-4b6a-9047-71d5dff177cc@a2364"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "treasure_kingskull_Idle",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Idle",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "dc7d755b-200f-4b6a-9047-71d5dff177cc@c7ffc",
+    "assetFinder": {
+      "meshes": [
+        "dc7d755b-200f-4b6a-9047-71d5dff177cc@2a6b3"
+      ],
+      "skeletons": [
+        "dc7d755b-200f-4b6a-9047-71d5dff177cc@438fe"
+      ],
+      "textures": [
+        "dc7d755b-200f-4b6a-9047-71d5dff177cc@6e70c"
+      ],
+      "materials": [
+        "dc7d755b-200f-4b6a-9047-71d5dff177cc@9d093"
+      ],
+      "scenes": [
+        "dc7d755b-200f-4b6a-9047-71d5dff177cc@c7ffc"
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "eb9c1832-221b-42cd-bc9b-7db1df474c20",
+  "files": [],
+  "subMetas": {
+    "448c8": {
+      "importer": "gltf-mesh",
+      "uuid": "eb9c1832-221b-42cd-bc9b-7db1df474c20@448c8",
+      "displayName": "",
+      "id": "448c8",
+      "name": "Plane007.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f6d23": {
+      "importer": "gltf-material",
+      "uuid": "eb9c1832-221b-42cd-bc9b-7db1df474c20@f6d23",
+      "displayName": "",
+      "id": "f6d23",
+      "name": "_火影忍者模型\\Plane007Plane007.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0cfee": {
+      "importer": "gltf-scene",
+      "uuid": "eb9c1832-221b-42cd-bc9b-7db1df474c20@0cfee",
+      "displayName": "",
+      "id": "0cfee",
+      "name": "luoxuan02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "eb9c1832-221b-42cd-bc9b-7db1df474c20@0cfee",
+    "assetFinder": {
+      "meshes": [
+        "eb9c1832-221b-42cd-bc9b-7db1df474c20@448c8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "eb9c1832-221b-42cd-bc9b-7db1df474c20@f6d23"
+      ],
+      "scenes": [
+        "eb9c1832-221b-42cd-bc9b-7db1df474c20@0cfee"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

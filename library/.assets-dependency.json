@@ -1,0 +1,589 @@
+{
+  "path": {
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Model\\daoguang_pangu03.FBX@bfae8": [
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Particle_Trail08.png"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Model\\shock_1.FBX@6e70c": [
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Model"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Cart\\Cart01\\edgeLight.effect": [
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\input-standard.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-standard.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\decode-base.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\morph.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-global.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-local.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shared-ubos.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-base.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\packing.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lightingmap-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\standard-fs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-standard.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-standard-base.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\gamma.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-environment.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\texture-lod.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\unpack.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-diffusemap.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shading-standard-additive.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lighting.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-forward-light.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\output-standard.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\aces.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-shadow-map-fs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\cc-fog-fs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\lightingmap-fs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-vs.chunk",
+      "D:\\CocosDashboard\\resources\\.editors\\Creator\\3.4.2\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\shadow-caster-fs.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\standard-vs.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\input-standard.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\decode-standard.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\decode-base.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\common.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\morph.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-skinning.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\skinning-lbs.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-global.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-local-batch.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-local.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\shared-ubos.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-fog-vs.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-fog-base.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-shadow-map-vs.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-shadow.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-shadow-map-base.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\packing.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\lightingmap-vs.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\standard-fs.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\shading-standard.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\shading-standard-base.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\gamma.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-environment.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\texture-lod.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\unpack.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-diffusemap.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\shading-standard-additive.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\lighting.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-forward-light.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\output-standard.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\aces.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-shadow-map-fs.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\cc-fog-fs.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\lightingmap-fs.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\shadow-caster-vs.chunk",
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\chunks\\shadow-caster-fs.chunk"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\UI\\charIcon\\chat.plist": [
+      "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\UI\\charIcon\\chat.png"
+    ]
+  },
+  "uuid": {
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\UI\\Play\\Hp0.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\UI\\Play\\Hp1.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\UI\\Play\\HpBlack.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\UI\\Play\\HpWihte.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Map01\\Materials\\FloorPlane.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Map01\\Materials\\Pit_BorderMobile.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Map01\\Materials\\Pit_FoliageMobile.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Map01\\Materials\\Pit_TerrainMobile.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Map01\\Materials\\Waterfall_Splash.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\SkillAperture\\Materials\\areaMaterial.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\SkillAperture\\Materials\\dirMaterial.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\SkillAperture\\Materials\\rangeMaterial.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\SkillAperture\\Materials\\sectorMaterial.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\SkillAperture\\Materials\\StraightLineMaterial.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Marterials\\EFX_Norrington_Autoskilla_mod_1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Cart\\Cart01\\dragon.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Cart\\Cart01\\dragonHit.mtl": [
+      "f38bba13-68fe-4786-ac10-f324148af80d"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Monsters\\M01\\aula.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Monsters\\M02\\boomDragon.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Monsters\\M03\\hellFire.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Monsters\\M04\\magician.mtl": [
+      "a7612b54-35e3-4238-a1a9-4a7b54635839"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Materials\\eff_point-020_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Characters\\Archer\\Materials\\materials25.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Characters\\Warrior\\Materials\\materials82.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Characters\\Wizard\\Materials\\material3ds.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\NoticeMonsters\\NM01\\Materials\\material.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\NoticeMonsters\\NM02\\Materials\\material.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\NoticeMonsters\\NM03\\Materials\\material.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\NoticeMonsters\\NM04\\Materials\\material.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\NoticeMonsters\\NM05\\Materials\\material.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\NPCs\\CarNPC\\Materials\\material.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Soldier\\S01\\Materials\\Creep_Siege_Blue.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Models\\Soldier\\S01\\Materials\\Creep_Siege_Red.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\fire\\Materials\\fiend_mist_1_sheet 1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\fire\\Materials\\fire_exhaust_1_sheet 1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\fire\\Materials\\fire_particles_2_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\fire\\Materials\\fire_particles_4_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\fire\\Materials\\fire_White_uv 1_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\fire\\Materials\\fire_White_uv_ab_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\fire\\Materials\\garrison_burst_trail_a_sheet 1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\fire\\Materials\\glowing_particles_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\fire\\Materials\\glow_particles_generic_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\fire\\Materials\\ice_spark 1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\fire\\Materials\\impact_2_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\flash\\Materials\\daoguang1139_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\flash\\Materials\\daoguang1140_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\flash\\Materials\\daoguang1142_1x1_mat 1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\flash\\Materials\\daoguang1142_mat 1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\flash\\Materials\\daoguang17_fireHig_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\flash\\Materials\\x_daoguang_009.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\00003531.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\aisha_active_heavyPress_wave.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\AuroraRing_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\Babosa_Skill_08_2_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\c9d2a448.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\decai0132_alp.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\Ef_halo024_N_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\FW_SP01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\FX_fangsheguang_00093_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\FX_glow_00141.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\FX_glow_00141_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\fx_glow_07211806.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\FX_path_00196.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\fx_ski_chant_01_02_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\garrison_burst_trail_a_sheet 1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\glow_000161_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\glow_1085.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\glow_normal_Alpha.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\guangdian2_add.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\guangdian_add.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\guangdian_alp.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\guangshutiao01_nx_dr_1_add.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\guangshu_alp 1.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\guangshu_alp.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\hyx_dilie02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\h_hit05_dr.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\Kayle_Skin06_R_Bubble.Kayle_Rework.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\light002720160307_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\object_2003.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\Particle_Circle_InnerOuterGlow_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\Particle_muzzleflash_04.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\Particle_Trail08.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\raodao_pangu 4.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\sequence_1008.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\smk-026.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\smk-040.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\smoke_1017_1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\trl-174_mr.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\tx_lumangdaji_star.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\tx_lumangdaji_star_blue_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Glow\\Materials\\t_guangyun_020.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\40d4eb2b_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\Arme_Critical.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\c9d2a448_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\Ef_Glow_Flair021_N_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\FX_glow_00114_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\FX_glow_175_mat 1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\FX_glow_175_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\FX_glow_177_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\FX_lizi_00017_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\glow_00175_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\glow_1044.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\glow_5014.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\glow_6000.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\guangdian2_add_AB.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\hyx_dilie02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\Light_glow_07.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\Particle_Glow13.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\Particle_Impact23.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\Particle_Star_Shape_03.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\public_stars_01_X.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\shanguang_00060_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\shizuo_hit_X_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Light\\Materials\\trockBome_0_Chase_fireWork.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\00001335.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\cleanse_flash_sheet_green.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\EFX_Weierboss_hit_04_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\FW_SP01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\fx_jump_dust_puff_2_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\garrison_burst_trail_a_sheet_green.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\hyx_dilie02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\ice_spark.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\impact_new_1_a_sheet_green.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\ParticleFront_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\ParticleFront_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\Particle_Arrow_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\Particle_Arrow_01_Glow.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\Particle_Arrow_01_Glow_Blurry.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\Particle_Feathers_02_Glow.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\others\\Materials\\wargolem_cannon_impact_a_green_sheet.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Particle\\Materials\\EFX_Weierboss_hit_01_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Particle\\Materials\\EFX_Weierboss_hit_02_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Particle\\Materials\\EFX_Weierboss_hit_r_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Particle\\Materials\\SF4_dds_0265_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Smoke\\Materials\\4845_yan04_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Smoke\\Materials\\changtiaoyan.mtl": [
+      "a3cd009f-0ab0-420d-9278-b9fdab939bbc"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Smoke\\Materials\\seq_563_tz.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Spell\\Materials\\FX_fazhen26_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Spell\\Materials\\mofazhen_369_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\Ef_Glow_Flair021_N.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\EF_Trail_020_1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\FX_lizi_00041_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\FX_path_00196_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\FX_path_00303_ 1_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\FX_path_378_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\Particle_Frost_Trail_01.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\Particle_Impact_Line_03.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\Particle_muzzleflash_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\Particle_Projectiletip_02.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\Particle_Projectiletip_06.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\Particle_Trail08.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\path_00358_-1x1_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\soul_1500.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\soul_36011.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\Spark_Increase_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\trail_1014.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\trail_11018.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\trail_11019.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\trail_3000.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\tuowei_11.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\tx_lumangdaji_star 1.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\tx_lumangdaji_star1_1_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\tx_lumangdaji_star_blue_01_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\tx_lumangdaji_star_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\wenli_160921_mat.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ],
+    "D:\\LearningFrameWork\\MobaYan\\Moba\\Src\\Client\\assets\\resources\\Battle\\Effects\\FX\\Texture2D\\Trail\\Materials\\yukina_skill6_01_D 2.mtl": [
+      "d1346436-ac96-4271-b863-1f4fdead95b0"
+    ]
+  }
+}

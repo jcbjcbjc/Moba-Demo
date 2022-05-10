@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "waitback",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 53,
+      "height": 55
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 53,
+      "height": 55
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "f5b9b455-5d31-4ceb-bb4d-f5964ca1b6a9@6c48a",
+    "packable": true
+  }
+}

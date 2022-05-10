@@ -1,0 +1,658 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.9.7",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 182764,
+            "uri": "buffer.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 124,
+            "byteOffset": 0
+        },
+        {
+            "buffer": 0,
+            "byteLength": 372,
+            "byteOffset": 124
+        },
+        {
+            "buffer": 0,
+            "byteLength": 496,
+            "byteOffset": 496
+        },
+        {
+            "buffer": 0,
+            "byteLength": 372,
+            "byteOffset": 992
+        },
+        {
+            "buffer": 0,
+            "byteLength": 496,
+            "byteOffset": 1364
+        },
+        {
+            "buffer": 0,
+            "byteLength": 372,
+            "byteOffset": 1860
+        },
+        {
+            "buffer": 0,
+            "byteLength": 496,
+            "byteOffset": 2232
+        },
+        {
+            "buffer": 0,
+            "byteLength": 496,
+            "byteOffset": 2728
+        },
+        {
+            "buffer": 0,
+            "byteLength": 496,
+            "byteOffset": 3224
+        },
+        {
+            "buffer": 0,
+            "byteLength": 23772,
+            "byteOffset": 3720,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 33204,
+            "byteOffset": 27492,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 33204,
+            "byteOffset": 60696,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 22136,
+            "byteOffset": 93900,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 22136,
+            "byteOffset": 116036,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 44272,
+            "byteOffset": 138172,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 320,
+            "byteOffset": 182444
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5126,
+            "type": "SCALAR",
+            "count": 31,
+            "bufferView": 0,
+            "byteOffset": 0,
+            "min": [
+                0.0
+            ],
+            "max": [
+                1.25
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 31,
+            "bufferView": 1,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 31,
+            "bufferView": 2,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 31,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 31,
+            "bufferView": 4,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 31,
+            "bufferView": 5,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 31,
+            "bufferView": 6,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 31,
+            "bufferView": 7,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 31,
+            "bufferView": 8,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 11886,
+            "bufferView": 9,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2767,
+            "bufferView": 10,
+            "byteOffset": 0,
+            "min": [
+                -0.865377426147461,
+                -0.883990526199341,
+                -1.82006072998047
+            ],
+            "max": [
+                0.865377426147461,
+                1.30057799816132,
+                1.0127580165863
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2767,
+            "bufferView": 11,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 2767,
+            "bufferView": 12,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "VEC4",
+            "count": 2767,
+            "bufferView": 13,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 2767,
+            "bufferView": 14,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "MAT4",
+            "count": 5,
+            "bufferView": 15,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "DefaultMaterial",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Lambert",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    1.0
+                ],
+                "metallicFactor": 0.200000002980232,
+                "roughnessFactor": 0.800000011920929
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Siege_Creep",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "JOINTS_0": 13,
+                        "NORMAL": 11,
+                        "POSITION": 10,
+                        "TEXCOORD_0": 12,
+                        "WEIGHTS_0": 14
+                    },
+                    "indices": 9
+                }
+            ]
+        }
+    ],
+    "skins": [
+        {
+            "joints": [
+                1,
+                3,
+                5,
+                7,
+                8
+            ],
+            "inverseBindMatrices": 15,
+            "skeleton": 1
+        }
+    ],
+    "animations": [
+        {
+            "name": "Take 001",
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 1,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 1,
+                    "target": {
+                        "node": 1,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 2,
+                    "target": {
+                        "node": 3,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 3,
+                    "target": {
+                        "node": 3,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 4,
+                    "target": {
+                        "node": 5,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 5,
+                    "target": {
+                        "node": 5,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 6,
+                    "target": {
+                        "node": 7,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 7,
+                    "target": {
+                        "node": 8,
+                        "path": "rotation"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 1
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 2
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 3
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 4
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 5
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 6
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 7
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 8
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1,
+                10
+            ]
+        },
+        {
+            "name": "ROOT",
+            "translation": [
+                -1.65846206992802e-20,
+                0.799999952316284,
+                -1.15994620323181
+            ],
+            "rotation": [
+                0.5,
+                0.5,
+                0.5,
+                -0.5
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                2,
+                3,
+                5,
+                7
+            ]
+        },
+        {
+            "name": "LegJaw (9)",
+            "translation": [
+                2.48953366279602,
+                -6.93889390390723e-18,
+                -2.84217087951293e-16
+            ],
+            "rotation": [
+                4.20207751176938e-22,
+                -6.61744490042422e-24,
+                2.80259692864963e-45,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Front_Wheels",
+            "translation": [
+                1.77368080615997,
+                -1.1178412437439,
+                -0.306282073259354
+            ],
+            "rotation": [
+                0.0757644176483154,
+                0.0751656368374825,
+                0.69793963432312,
+                0.708159685134888
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                4
+            ]
+        },
+        {
+            "name": "LegJaw (7)",
+            "translation": [
+                2.16772723197937,
+                7.10542719878232e-17,
+                1.42108543975646e-16
+            ],
+            "rotation": [
+                1.301736496373e-14,
+                1.56125112837913e-17,
+                -3.72965547335014e-17,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Back_Wheels",
+            "translation": [
+                0.556647121906281,
+                -1.13913214206696,
+                -0.307615995407104
+            ],
+            "rotation": [
+                0.711067974567413,
+                0.703123271465302,
+                8.41634901007637e-05,
+                -8.31421202747151e-05
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                6
+            ]
+        },
+        {
+            "name": "LegJaw (5)",
+            "translation": [
+                2.2865903377533,
+                0.0,
+                7.10542719878232e-17
+            ],
+            "rotation": [
+                4.2351647362715e-22,
+                -2.46436295069758e-18,
+                4.0766001685455e-17,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "on_01",
+            "translation": [
+                0.981913566589355,
+                -0.0110327368602157,
+                0.199999988079071
+            ],
+            "rotation": [
+                -0.00400459161028266,
+                -0.707095444202423,
+                -0.00400459161028266,
+                0.707095444202423
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                8
+            ]
+        },
+        {
+            "name": "Cannon_02",
+            "translation": [
+                0.864254415035248,
+                -2.22044599961948e-18,
+                3.55271359939116e-17
+            ],
+            "rotation": [
+                6.29095208043811e-17,
+                0.265305131673813,
+                6.7043314225712e-16,
+                0.96416449546814
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                9
+            ]
+        },
+        {
+            "name": "LegJaw (2)",
+            "translation": [
+                1.15013360977173,
+                -2.22044599961948e-18,
+                0.0
+            ],
+            "rotation": [
+                4.43221848112074e-16,
+                -2.77555756156289e-17,
+                8.67361737988404e-19,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Siege Creep",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                6.12323426292584e-17,
+                1.0,
+                6.12323426292584e-17,
+                -4.37113882867379e-08
+            ],
+            "scale": [
+                1.38999998569489,
+                1.38999998569489,
+                1.38999998569489
+            ],
+            "children": [
+                11
+            ]
+        },
+        {
+            "name": "Siege_Creep",
+            "translation": [
+                -7.19122848516141e-33,
+                0.909999966621399,
+                -7.88860858201238e-32
+            ],
+            "rotation": [
+                -2.46519032881566e-32,
+                -0.0,
+                2.19218352907871e-32,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "mesh": 0,
+            "skin": 0
+        }
+    ]
+}

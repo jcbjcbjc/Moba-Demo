@@ -1,0 +1,13 @@
+{
+  "creator": {
+    "version": "3.4.2"
+  },
+  "dependencies": {
+    "protobufjs": "^6.11.2"
+  },
+  "name": "Client",
+  "scripts": {},
+  "type": "3d",
+  "uuid": "152a039d-48d1-41c2-a1ca-5cd5910d5269",
+  "version": "3.4.2"
+}

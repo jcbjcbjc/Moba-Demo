@@ -1,0 +1,61 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c2a0f7f3-34e0-4a02-931d-8869fb4fd1e4",
+  "files": [],
+  "subMetas": {
+    "0692d": {
+      "importer": "gltf-mesh",
+      "uuid": "c2a0f7f3-34e0-4a02-931d-8869fb4fd1e4@0692d",
+      "displayName": "",
+      "id": "0692d",
+      "name": "Plane002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a955f": {
+      "importer": "gltf-scene",
+      "uuid": "c2a0f7f3-34e0-4a02-931d-8869fb4fd1e4@a955f",
+      "displayName": "",
+      "id": "a955f",
+      "name": "shock_3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "c2a0f7f3-34e0-4a02-931d-8869fb4fd1e4@a955f",
+    "assetFinder": {
+      "meshes": [
+        "c2a0f7f3-34e0-4a02-931d-8869fb4fd1e4@0692d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c2a0f7f3-34e0-4a02-931d-8869fb4fd1e4@a955f"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

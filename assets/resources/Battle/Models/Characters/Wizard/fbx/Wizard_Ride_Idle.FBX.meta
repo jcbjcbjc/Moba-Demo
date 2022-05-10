@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "65504a96-3a2d-4f1b-96d1-76a22d5cf8a0",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "8af1d": {
+      "importer": "gltf-animation",
+      "uuid": "65504a96-3a2d-4f1b-96d1-76a22d5cf8a0@8af1d",
+      "displayName": "",
+      "id": "8af1d",
+      "name": "Wizard_Ride_Move.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.6666667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "e3e19": {
+      "importer": "gltf-scene",
+      "uuid": "65504a96-3a2d-4f1b-96d1-76a22d5cf8a0@e3e19",
+      "displayName": "",
+      "id": "e3e19",
+      "name": "Wizard_Ride_Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Wizard_Ride_Move",
+        "duration": 2.6666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Wizard_Ride_Move",
+            "from": 0,
+            "to": 2.6666667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "65504a96-3a2d-4f1b-96d1-76a22d5cf8a0@e3e19",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "65504a96-3a2d-4f1b-96d1-76a22d5cf8a0@e3e19"
+      ]
+    }
+  }
+}

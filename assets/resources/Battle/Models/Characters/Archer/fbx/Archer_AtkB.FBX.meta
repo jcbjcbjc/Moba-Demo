@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5366d68c-5808-4978-9c76-465cde13ac69",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "68afa": {
+      "importer": "gltf-animation",
+      "uuid": "5366d68c-5808-4978-9c76-465cde13ac69@68afa",
+      "displayName": "",
+      "id": "68afa",
+      "name": "Archer_AtkB.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "c3e50": {
+      "importer": "gltf-scene",
+      "uuid": "5366d68c-5808-4978-9c76-465cde13ac69@c3e50",
+      "displayName": "",
+      "id": "c3e50",
+      "name": "Archer_AtkB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Archer_AtkB",
+        "duration": 1.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Archer_AtkB",
+            "from": 0,
+            "to": 1.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "5366d68c-5808-4978-9c76-465cde13ac69@c3e50",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "5366d68c-5808-4978-9c76-465cde13ac69@c3e50"
+      ]
+    }
+  }
+}

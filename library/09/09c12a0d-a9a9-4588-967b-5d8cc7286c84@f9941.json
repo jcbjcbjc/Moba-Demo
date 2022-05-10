@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TY_Details",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 0,
+      "width": 48,
+      "height": 50
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 50,
+      "height": 50
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "09c12a0d-a9a9-4588-967b-5d8cc7286c84@6c48a",
+    "packable": true
+  }
+}

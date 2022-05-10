@@ -1,0 +1,126 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "120a6ca4-c506-43e5-bf18-0a84525a7305",
+  "files": [],
+  "subMetas": {
+    "b8a2d": {
+      "importer": "gltf-mesh",
+      "uuid": "120a6ca4-c506-43e5-bf18-0a84525a7305@b8a2d",
+      "displayName": "",
+      "id": "b8a2d",
+      "name": "Plane001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "425ef": {
+      "importer": "gltf-embeded-image",
+      "uuid": "120a6ca4-c506-43e5-bf18-0a84525a7305@425ef",
+      "displayName": "",
+      "id": "425ef",
+      "name": "贴图 #2.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "59f96": {
+      "importer": "texture",
+      "uuid": "120a6ca4-c506-43e5-bf18-0a84525a7305@59f96",
+      "displayName": "",
+      "id": "59f96",
+      "name": "贴图 #2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "120a6ca4-c506-43e5-bf18-0a84525a7305@425ef"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c28f0": {
+      "importer": "gltf-material",
+      "uuid": "120a6ca4-c506-43e5-bf18-0a84525a7305@c28f0",
+      "displayName": "",
+      "id": "c28f0",
+      "name": "Material #26.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de1bb": {
+      "importer": "gltf-scene",
+      "uuid": "120a6ca4-c506-43e5-bf18-0a84525a7305@de1bb",
+      "displayName": "",
+      "id": "de1bb",
+      "name": "jidishiji_chuansongmen.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #2",
+        "uri": "120a6ca4-c506-43e5-bf18-0a84525a7305@425ef"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "120a6ca4-c506-43e5-bf18-0a84525a7305@de1bb",
+    "assetFinder": {
+      "meshes": [
+        "120a6ca4-c506-43e5-bf18-0a84525a7305@b8a2d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "120a6ca4-c506-43e5-bf18-0a84525a7305@59f96"
+      ],
+      "materials": [
+        "120a6ca4-c506-43e5-bf18-0a84525a7305@c28f0"
+      ],
+      "scenes": [
+        "120a6ca4-c506-43e5-bf18-0a84525a7305@de1bb"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

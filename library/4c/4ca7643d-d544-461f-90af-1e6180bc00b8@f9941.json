@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "King_HeadFrame",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 103,
+      "height": 111
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 103,
+      "height": 111
+    },
+    "rotated": false,
+    "capInsets": [
+      17,
+      36,
+      16,
+      30
+    ],
+    "texture": "4ca7643d-d544-461f-90af-1e6180bc00b8@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f81049cd-79ad-4f8e-ad87-c0a569582ccc",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "99611": {
+      "importer": "gltf-animation",
+      "uuid": "f81049cd-79ad-4f8e-ad87-c0a569582ccc@99611",
+      "displayName": "",
+      "id": "99611",
+      "name": "Wizard_Hurt.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "01796": {
+      "importer": "gltf-scene",
+      "uuid": "f81049cd-79ad-4f8e-ad87-c0a569582ccc@01796",
+      "displayName": "",
+      "id": "01796",
+      "name": "Wizard_Hurt.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Wizard_Hurt",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Wizard_Hurt",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f81049cd-79ad-4f8e-ad87-c0a569582ccc@01796",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "f81049cd-79ad-4f8e-ad87-c0a569582ccc@01796"
+      ]
+    }
+  }
+}

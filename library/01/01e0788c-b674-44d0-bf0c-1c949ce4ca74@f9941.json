@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_question",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 5,
+      "width": 53,
+      "height": 53
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 64,
+      "height": 64
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "01e0788c-b674-44d0-bf0c-1c949ce4ca74@6c48a",
+    "packable": true
+  }
+}

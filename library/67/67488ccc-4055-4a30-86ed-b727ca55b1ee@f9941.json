@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TY_GreenButton01",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 3,
+      "width": 286,
+      "height": 85
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 290,
+      "height": 90
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "67488ccc-4055-4a30-86ed-b727ca55b1ee@6c48a",
+    "packable": true
+  }
+}

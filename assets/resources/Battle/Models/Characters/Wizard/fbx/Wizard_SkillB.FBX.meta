@@ -1,0 +1,88 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e2307e62-8e4d-4848-b199-9589ed9a26a3",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "fcdbc": {
+      "importer": "gltf-animation",
+      "uuid": "e2307e62-8e4d-4848-b199-9589ed9a26a3@fcdbc",
+      "displayName": "",
+      "id": "fcdbc",
+      "name": "Wizard_SkillB.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.2916667461395264
+        },
+        "events": [
+          {
+            "frame": 0.6666666666666666,
+            "func": "PlayEffect",
+            "params": [
+              "EFX_Wizard_SkillB_prefab"
+            ],
+            "x": 43.71717171717172
+          }
+        ]
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "cc114": {
+      "importer": "gltf-scene",
+      "uuid": "e2307e62-8e4d-4848-b199-9589ed9a26a3@cc114",
+      "displayName": "",
+      "id": "cc114",
+      "name": "Wizard_SkillB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Wizard_SkillB",
+        "duration": 3.2916667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Wizard_SkillB",
+            "from": 0,
+            "to": 3.2916667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "e2307e62-8e4d-4848-b199-9589ed9a26a3@cc114",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e2307e62-8e4d-4848-b199-9589ed9a26a3@cc114"
+      ]
+    }
+  }
+}

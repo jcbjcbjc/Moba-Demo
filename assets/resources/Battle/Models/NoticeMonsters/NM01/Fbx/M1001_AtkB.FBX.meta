@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b082a6e4-a450-436d-8255-fa7f5d01ce71",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "8db64": {
+      "importer": "gltf-animation",
+      "uuid": "b082a6e4-a450-436d-8255-fa7f5d01ce71@8db64",
+      "displayName": "",
+      "id": "8db64",
+      "name": "M1001_AtkB.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.25
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "d979f": {
+      "importer": "gltf-scene",
+      "uuid": "b082a6e4-a450-436d-8255-fa7f5d01ce71@d979f",
+      "displayName": "",
+      "id": "d979f",
+      "name": "M1001_AtkB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "M1001_AtkB",
+        "duration": 2.25,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "M1001_AtkB",
+            "from": 0,
+            "to": 2.25,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "b082a6e4-a450-436d-8255-fa7f5d01ce71@d979f",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b082a6e4-a450-436d-8255-fa7f5d01ce71@d979f"
+      ]
+    }
+  }
+}

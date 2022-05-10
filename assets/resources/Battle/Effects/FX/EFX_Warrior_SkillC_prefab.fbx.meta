@@ -1,0 +1,119 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "92251106-309d-442d-aa0d-e573c44e33c8",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "92251106-309d-442d-aa0d-e573c44e33c8@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0b85": {
+      "importer": "gltf-animation",
+      "uuid": "92251106-309d-442d-aa0d-e573c44e33c8@c0b85",
+      "displayName": "",
+      "id": "c0b85",
+      "name": "EFX_Warrior_SkillC_mod.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.1666666716337204
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "fb556": {
+      "importer": "gltf-material",
+      "uuid": "92251106-309d-442d-aa0d-e573c44e33c8@fb556",
+      "displayName": "",
+      "id": "fb556",
+      "name": "EFX_Norrington_Autoskila_mod_1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9ab81": {
+      "importer": "gltf-scene",
+      "uuid": "92251106-309d-442d-aa0d-e573c44e33c8@9ab81",
+      "displayName": "",
+      "id": "9ab81",
+      "name": "EFX_Warrior_SkillC_prefab.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "EFX_Warrior_SkillC_mod",
+        "duration": 0.1666666716337204,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "EFX_Warrior_SkillC_mod",
+            "from": 0,
+            "to": 0.1666666716337204,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "92251106-309d-442d-aa0d-e573c44e33c8@9ab81",
+    "assetFinder": {
+      "meshes": [
+        "92251106-309d-442d-aa0d-e573c44e33c8@a62fe"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "92251106-309d-442d-aa0d-e573c44e33c8@fb556"
+      ],
+      "scenes": [
+        "92251106-309d-442d-aa0d-e573c44e33c8@9ab81"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

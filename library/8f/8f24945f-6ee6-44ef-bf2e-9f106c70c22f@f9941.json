@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "money",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 199,
+      "height": 49
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 199,
+      "height": 49
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "8f24945f-6ee6-44ef-bf2e-9f106c70c22f@6c48a",
+    "packable": true
+  }
+}

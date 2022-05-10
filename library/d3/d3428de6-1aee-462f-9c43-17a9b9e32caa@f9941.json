@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "moveFront",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 87,
+      "height": 89
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 87,
+      "height": 89
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d3428de6-1aee-462f-9c43-17a9b9e32caa@6c48a",
+    "packable": true
+  }
+}

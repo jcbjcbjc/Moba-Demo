@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TY_DiKuang04",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 88,
+      "height": 88
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 88,
+      "height": 88
+    },
+    "rotated": false,
+    "capInsets": [
+      19,
+      20,
+      19,
+      18
+    ],
+    "texture": "a5fbce1a-474f-41bf-a44b-d9a0b58fb4c9@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_slider_point",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 38,
+      "height": 38
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 38,
+      "height": 38
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ff2865a5-42eb-420d-9624-fae43715b211@6c48a",
+    "packable": true
+  }
+}

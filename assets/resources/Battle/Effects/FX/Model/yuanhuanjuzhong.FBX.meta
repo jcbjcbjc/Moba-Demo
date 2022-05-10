@@ -1,0 +1,61 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "261744e9-5f7d-4213-bc61-9f7760d25125",
+  "files": [],
+  "subMetas": {
+    "c6160": {
+      "importer": "gltf-mesh",
+      "uuid": "261744e9-5f7d-4213-bc61-9f7760d25125@c6160",
+      "displayName": "",
+      "id": "c6160",
+      "name": "Cylinder001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d2af": {
+      "importer": "gltf-scene",
+      "uuid": "261744e9-5f7d-4213-bc61-9f7760d25125@9d2af",
+      "displayName": "",
+      "id": "9d2af",
+      "name": "yuanhuanjuzhong.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "261744e9-5f7d-4213-bc61-9f7760d25125@9d2af",
+    "assetFinder": {
+      "meshes": [
+        "261744e9-5f7d-4213-bc61-9f7760d25125@c6160"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "261744e9-5f7d-4213-bc61-9f7760d25125@9d2af"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

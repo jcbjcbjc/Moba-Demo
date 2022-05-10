@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "931cc6ed-2f0b-4359-9798-878c2567cf4b",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "a6724": {
+      "importer": "gltf-animation",
+      "uuid": "931cc6ed-2f0b-4359-9798-878c2567cf4b@a6724",
+      "displayName": "",
+      "id": "a6724",
+      "name": "Wizard_Relax.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "c017c": {
+      "importer": "gltf-scene",
+      "uuid": "931cc6ed-2f0b-4359-9798-878c2567cf4b@c017c",
+      "displayName": "",
+      "id": "c017c",
+      "name": "Wizard_Relax.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Wizard_Relax",
+        "duration": 3,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Wizard_Relax",
+            "from": 0,
+            "to": 3,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "931cc6ed-2f0b-4359-9798-878c2567cf4b@c017c",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "931cc6ed-2f0b-4359-9798-878c2567cf4b@c017c"
+      ]
+    }
+  }
+}

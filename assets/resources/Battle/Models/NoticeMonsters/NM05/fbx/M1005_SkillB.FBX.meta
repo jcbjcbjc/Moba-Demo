@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "2a6b3": {
+      "importer": "gltf-mesh",
+      "uuid": "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@2a6b3",
+      "displayName": "",
+      "id": "2a6b3",
+      "name": "Object01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d39f": {
+      "importer": "gltf-animation",
+      "uuid": "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@2d39f",
+      "displayName": "",
+      "id": "2d39f",
+      "name": "treasure_kingskull_SkillB.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 37
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2364": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@a2364",
+      "displayName": "",
+      "id": "a2364",
+      "name": "Map #1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e70c": {
+      "importer": "texture",
+      "uuid": "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@6e70c",
+      "displayName": "",
+      "id": "6e70c",
+      "name": "Map #1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@a2364"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d093": {
+      "importer": "gltf-material",
+      "uuid": "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@9d093",
+      "displayName": "",
+      "id": "9d093",
+      "name": "Material #25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1897": {
+      "importer": "gltf-scene",
+      "uuid": "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@c1897",
+      "displayName": "",
+      "id": "c1897",
+      "name": "M1005_SkillB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #1",
+        "uri": "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@a2364"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "treasure_kingskull_SkillB",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "treasure_kingskull_SkillB",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@c1897",
+    "assetFinder": {
+      "meshes": [
+        "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@2a6b3"
+      ],
+      "skeletons": [
+        "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@438fe"
+      ],
+      "textures": [
+        "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@6e70c"
+      ],
+      "materials": [
+        "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@9d093"
+      ],
+      "scenes": [
+        "1b5135e9-5a0b-4c03-89c4-f5c6cc7b6f0b@c1897"
+      ]
+    }
+  }
+}

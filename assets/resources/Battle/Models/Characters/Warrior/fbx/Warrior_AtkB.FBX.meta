@@ -1,0 +1,116 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7d66290d-deba-47ac-bd38-2661ea949349",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "1af42": {
+      "importer": "gltf-mesh",
+      "uuid": "7d66290d-deba-47ac-bd38-2661ea949349@1af42",
+      "displayName": "",
+      "id": "1af42",
+      "name": "Bone002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4418d": {
+      "importer": "gltf-animation",
+      "uuid": "7d66290d-deba-47ac-bd38-2661ea949349@4418d",
+      "displayName": "",
+      "id": "4418d",
+      "name": "Warrior_AtkB.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "7d66290d-deba-47ac-bd38-2661ea949349@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d546": {
+      "importer": "gltf-scene",
+      "uuid": "7d66290d-deba-47ac-bd38-2661ea949349@3d546",
+      "displayName": "",
+      "id": "3d546",
+      "name": "Warrior_AtkB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Warrior_AtkB",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Warrior_AtkB",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "7d66290d-deba-47ac-bd38-2661ea949349@3d546",
+    "assetFinder": {
+      "meshes": [
+        "7d66290d-deba-47ac-bd38-2661ea949349@1af42"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7d66290d-deba-47ac-bd38-2661ea949349@ea6e2"
+      ],
+      "scenes": [
+        "7d66290d-deba-47ac-bd38-2661ea949349@3d546"
+      ]
+    }
+  }
+}

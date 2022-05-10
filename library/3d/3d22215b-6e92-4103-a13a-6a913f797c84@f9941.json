@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "friend",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 131,
+      "height": 64
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 131,
+      "height": 64
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "3d22215b-6e92-4103-a13a-6a913f797c84@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TY_BlueButton01",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 3,
+      "width": 286,
+      "height": 85
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 290,
+      "height": 90
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2d4b17de-baae-481a-9a19-89c150ae4d24@6c48a",
+    "packable": true
+  }
+}

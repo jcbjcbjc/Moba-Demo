@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "MapDefine",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "{\r\n  \"1\": {\r\n    \"ID\": 1,\r\n    \"Name\": \"落日空间\",\r\n    \"Description\": \"落日空间魔王守护者黑暗保险\",\r\n    \"SubType\": \"Normal\",\r\n    \"MapId\": 4,\r\n    \"LimitTime\": 300\r\n  }\r\n}"
+}

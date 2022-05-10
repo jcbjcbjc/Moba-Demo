@@ -1,0 +1,126 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9f251d23-fdb8-4332-a651-80ba7a9b80cd",
+  "files": [],
+  "subMetas": {
+    "b8a2d": {
+      "importer": "gltf-mesh",
+      "uuid": "9f251d23-fdb8-4332-a651-80ba7a9b80cd@b8a2d",
+      "displayName": "",
+      "id": "b8a2d",
+      "name": "Plane001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "df7df": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9f251d23-fdb8-4332-a651-80ba7a9b80cd@df7df",
+      "displayName": "",
+      "id": "df7df",
+      "name": "贴图 #1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a96a6": {
+      "importer": "texture",
+      "uuid": "9f251d23-fdb8-4332-a651-80ba7a9b80cd@a96a6",
+      "displayName": "",
+      "id": "a96a6",
+      "name": "贴图 #1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9f251d23-fdb8-4332-a651-80ba7a9b80cd@df7df"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d093": {
+      "importer": "gltf-material",
+      "uuid": "9f251d23-fdb8-4332-a651-80ba7a9b80cd@9d093",
+      "displayName": "",
+      "id": "9d093",
+      "name": "Material #25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4bce0": {
+      "importer": "gltf-scene",
+      "uuid": "9f251d23-fdb8-4332-a651-80ba7a9b80cd@4bce0",
+      "displayName": "",
+      "id": "4bce0",
+      "name": "luocha_attack_foot01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #1",
+        "uri": "9f251d23-fdb8-4332-a651-80ba7a9b80cd@df7df"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "9f251d23-fdb8-4332-a651-80ba7a9b80cd@4bce0",
+    "assetFinder": {
+      "meshes": [
+        "9f251d23-fdb8-4332-a651-80ba7a9b80cd@b8a2d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9f251d23-fdb8-4332-a651-80ba7a9b80cd@a96a6"
+      ],
+      "materials": [
+        "9f251d23-fdb8-4332-a651-80ba7a9b80cd@9d093"
+      ],
+      "scenes": [
+        "9f251d23-fdb8-4332-a651-80ba7a9b80cd@4bce0"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

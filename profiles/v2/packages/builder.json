@@ -1,0 +1,147 @@
+{
+  "__version__": "1.3.1",
+  "version": {
+    "builder": "1.2.3"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1648895190267": {
+        "id": "1648895190267",
+        "state": "failure",
+        "time": "Invalid Date Inval",
+        "dirty": false,
+        "rawOptions": {
+          "name": "Client",
+          "platform": "web-desktop",
+          "buildPath": "./build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "cbcf68d9-2c2d-47bd-9757-3cb27b1a221e",
+          "scenes": [
+            {
+              "url": "db://assets/Levels/CharSelect.scene",
+              "uuid": "cbcf68d9-2c2d-47bd-9757-3cb27b1a221e"
+            },
+            {
+              "url": "db://assets/Levels/Loading.scene",
+              "uuid": "bab0f0c9-300f-4635-a242-b8b1547e3161"
+            },
+            {
+              "url": "db://assets/Levels/Map01.scene",
+              "uuid": "4120ef77-a987-44dc-80f7-df0a8cafab25"
+            },
+            {
+              "url": "db://assets/Levels/Test.scene",
+              "uuid": "7fc87fda-51de-4954-a3dc-08a441224300"
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "cocos-service": {},
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            }
+          }
+        }
+      },
+      "1648963281217": {
+        "id": "1648963281217",
+        "progress": 1,
+        "state": "success",
+        "message": "2022-4-5 12:00 Build success in 396346 ms!",
+        "options": {
+          "name": "赏金乱斗",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "bab0f0c9-300f-4635-a242-b8b1547e3161",
+          "scenes": [
+            {
+              "url": "db://assets/Levels/CharacterSelect.scene",
+              "uuid": "f81419b7-4653-4f07-b360-9c0079fdea12",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Levels/EnterGameLoad.scene",
+              "uuid": "1c32724e-8a24-4f57-a98f-385fcfc7dbe7",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Levels/FollowLive.scene",
+              "uuid": "a15ba840-ef1b-4ab3-ba9f-fe90631f90df",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Levels/Loading.scene",
+              "uuid": "bab0f0c9-300f-4635-a242-b8b1547e3161",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Levels/Map01.scene",
+              "uuid": "2b844d2f-9cb5-4ca5-892a-e76d27afba33",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Levels/Room.scene",
+              "uuid": "7afbb2ba-2952-4724-a619-1263fc98bced",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Levels/UIMain.scene",
+              "uuid": "7fc87fda-51de-4954-a3dc-08a441224300",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 960,
+                "designHeight": 640
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "0760a1",
+              "services": []
+            }
+          }
+        },
+        "time": "2022-4-5 11:53",
+        "dirty": false
+      }
+    }
+  },
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "startScene": "bab0f0c9-300f-4635-a242-b8b1547e3161",
+    "name": "赏金乱斗"
+  }
+}

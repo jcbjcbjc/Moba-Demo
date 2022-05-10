@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6c8fc86d-56fa-4358-95a8-170bfcba6b40",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "6ab7d": {
+      "importer": "gltf-animation",
+      "uuid": "6c8fc86d-56fa-4358-95a8-170bfcba6b40@6ab7d",
+      "displayName": "",
+      "id": "6ab7d",
+      "name": "M1001_Hurt.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0833333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "d4baa": {
+      "importer": "gltf-scene",
+      "uuid": "6c8fc86d-56fa-4358-95a8-170bfcba6b40@d4baa",
+      "displayName": "",
+      "id": "d4baa",
+      "name": "M1001_Hurt.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "M1001_Hurt",
+        "duration": 1.0833333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "M1001_Hurt",
+            "from": 0,
+            "to": 1.0833333730697632,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "6c8fc86d-56fa-4358-95a8-170bfcba6b40@d4baa",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "6c8fc86d-56fa-4358-95a8-170bfcba6b40@d4baa"
+      ]
+    }
+  }
+}

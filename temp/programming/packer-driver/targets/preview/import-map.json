@@ -1,0 +1,1535 @@
+{
+  "imports": {
+    "cce:/internal/x/cc": "./mods/cce/internal/x/cc.js",
+    "cce:/internal/x/prerequisite-imports": "./mods/cce/internal/x/prerequisite-imports.js"
+  },
+  "scopes": {
+    "./mods/fs/0/assets/Scripts/Data/AddAttrDefine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Data/CharacterDefine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Data/GameConfig.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/LoadingManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_18": "./mods/fs/0/assets/Scripts/Managers/CombatPowerRankingManager.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_16": "./mods/fs/0/assets/Scripts/Network/Battle/NetClientBattle.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Network/NetClient.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/Services/AuctionService.js",
+      "__unresolved_15": "./mods/fs/0/assets/Scripts/Services/BattleService.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/Services/ChatService.js",
+      "__unresolved_17": "./mods/fs/0/assets/Scripts/Services/FollowService.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Services/ItemService.js",
+      "__unresolved_14": "./mods/fs/0/assets/Scripts/Services/MatchService.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Services/RoomService.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Services/StatusService.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Services/TipsService.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Services/UserService.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/Utils/DateUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Data/BuffDefine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Data/SkillDefine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Data/ItemDefine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Data/ShopItemDefine.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Log/LogUtil.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Data/SpawnRuleDefine.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Data/ShopDefine.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Managers/ChatManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Services/UserService.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Utils/HashMap.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/Vo/ChatUserVo.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Managers/DataManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Vo/RockerSpeedVo.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Managers/CombatPowerRankingManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Services/UserService.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Managers/FollowManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Services/UserService.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_3": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Network/MessageDispatch.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Network/NetClient.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Network/MessageDispatch.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Network/NetConfig.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Services/UserService.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Services/AuctionService.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Network/NetClient.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Managers/ItemManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Network/SocketConst.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Services/ChatService.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Network/NetClient.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Services/BattleService.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Network/Battle/NetClientBattle.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/Battle/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Services/FollowService.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Network/NetClient.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Services/ItemService.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Network/NetClient.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Services/MatchService.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Network/NetClient.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_14": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_8": "./mods/fs/0/assets/Sound/SoundDefine.js",
+      "__unresolved_7": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Services/StatusService.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Managers/ItemManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Services/RoomService.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Network/NetClient.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Network/Battle/NetClientBattle.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Network/MessageDispatch.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Network/NetConfig.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/Battle/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Services/TipsService.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Bag/UIBag.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Services/ItemService.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/Managers/ItemManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Bag/UIBagDetailItem.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Bag/UIBagItem.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/UI/Common/InputBox.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_14": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/Utils/Validate.js",
+      "__unresolved_3": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Auction/UIAuction.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Services/AuctionService.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Auction/UIAuctionDetailItem.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Auction/UIAuctionItem.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/UI/Common/InputBox.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/Utils/Validate.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Auction/UIAuctionDetailItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Models/User.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Bag/UIBagItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Auction/UIAuctionItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Bag/UIBagDetailItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Attribute/AttributeData.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Attribute/AttributeType.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Attribute/AttributeType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Effects/AnimationEventController.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EntityEffectManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Attribute/Attributes.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/Attribute/AttributeData.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Battle/Attribute/AttributeType.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EffectController.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Network/NetConfig.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Utils/GlobalPool.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EffectType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Managers/AiManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Battle/enums/CarDirType.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Enities/Creature.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Network/NetConfig.js",
+      "__unresolved_14": "./mods/fs/0/assets/Scripts/UI/Battle/Attribute/Attributes.js",
+      "__unresolved_15": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_16": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/FXManager.js",
+      "__unresolved_17": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EntityEffectManager.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/AiManager.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BuffManager.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CollisionCheckManager.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/EffectManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/SkillManager.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/UI/Battle/UIWorldElementManager.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_18": "./mods/fs/0/assets/Scripts/UI/Battle/enums/AniState.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleState.js",
+      "__unresolved_19": "./mods/fs/0/assets/Scripts/UI/Battle/enums/PopupType.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillResult.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_9": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Effects/FXManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EffectController.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Utils/HashMap.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Utils/GlobalPool.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EntityEffectManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EffectController.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utils/HashMap.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Utils/GlobalPool.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CharacterManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Battle/Enities/Creature.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BuffManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Models/Buff.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CollisionCheckManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/enums/ShapeType.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CreatureManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CollisionCheckManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/UIWorldElementManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Battle/enums/ShapeType.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Utils/HashMap.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_8": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Minimap/UIMinimapCharacter.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Managers/EffectManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Utils/HashMap.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Managers/SkillManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Models/Skill.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillType.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Managers/SpawnMonManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Battle/Enities/Creature.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/UI/Battle/Vo/PositionVo.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Utils/DataUtil.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/Utils/HashMap.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_7": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Minimap/UIMinimapManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Minimap/UIMinimapCharacter.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CharacterManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Vo/MinimapBoxVo.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Models/BattleContext.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Models/Buff.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Network/NetConfig.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/Vo/DamageInfo.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Models/Bullet.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Network/NetConfig.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Utils/HashMap.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Models/Skill.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Battle/Models/Bullet.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Network/NetConfig.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_14": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/Battle/Vo/DamageInfo.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Battle/Vo/SkillHitInfo.js",
+      "__unresolved_15": "./mods/fs/0/assets/Scripts/UI/Battle/enums/AniState.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillResult.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillStatus.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TargetType.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TriggerType.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UIBattleChat.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Battle/UIBattleChatItem.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Services/ChatService.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Skill/UISkillSlots.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Skill/UISkillSlot.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UIBattle.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Services/BattleService.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Services/RoomService.js",
+      "__unresolved_14": "./mods/fs/0/assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_15": "./mods/fs/0/assets/Scripts/UI/Battle/UILiveMsg.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_16": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/Battle/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UIBattleChatItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Skill/UISkillSlot.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/enums/OptType.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillTipsType.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TargetType.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UIGameLoadIn.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UIGameOver.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Sound/SoundDefine.js",
+      "__unresolved_1": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UIHpBar.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UIPopupText.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UILiveMsg.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Services/RoomService.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Utils/HashMap.js",
+      "__unresolved_6": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UIRocker.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Battle/enums/OptType.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UITestFloat.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UIWorldElement.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/UIWorldElementManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Battle/UIWorldElement.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Battle/UIHpBar.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Battle/UIPopupText.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_3": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Utils/RandomUtil.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Vo/DamageInfo.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Vo/BuffInfo.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Vo/PositionVo.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Vo/SkillHitInfo.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Vo/SkillTipsSize.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/AniState.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleMode.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/BuffAction.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleState.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/BuffEffect.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/CarDirType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/GameStatus.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/HandlerFrameResult.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/OptType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/CreatureType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/ShapeType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/PopupType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillResult.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillTipsType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/CharacterSelect/UICharacterSelect.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/CharacterSelect/UICharacterSelectItem.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_5": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillStatus.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/CharacterSelect/UICharacterSelectItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Services/UserService.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_7": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Chat/UIChatItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Chat/UIOtherMyUserItem.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_3": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Chat/UIChat.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/Services/ChatService.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Chat/UIChatItem.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/UI/Chat/UIChatUserItem.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_14": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Vo/ChatUserVo.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/TargetType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/TriggerType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Chat/UIOtherMyUserItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/enums/TeamType2.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Chat/UIChatUserItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/InputBox.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/UIInputBox.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListView.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIMessageBox.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/ListItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/TabView/TabView.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/TabView/TabButton.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/TabView/TabButton.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/UIInputBox.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_5": "./mods/fs/0/assets/Sound/SoundDefine.js",
+      "__unresolved_4": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Utils/HashMap.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Sound/SoundDefine.js",
+      "__unresolved_2": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Follow/UIFollow.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Services/FollowService.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Follow/UIFollowItem.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/UIMessageBox.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_6": "./mods/fs/0/assets/Sound/SoundDefine.js",
+      "__unresolved_5": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/List.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/ListItem.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/UITips.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_2": "./mods/fs/0/assets/Sound/SoundDefine.js",
+      "__unresolved_1": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Follow/UIFollowItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/Services/RoomService.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/Room/UIRoom.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Match/UIMatchWait.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/FollowLive/UIFollowLiveItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Services/RoomService.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_4": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/FollowLive/UIFollowLive.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Services/FollowService.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/FollowLive/UIFollowLiveItem.js",
+      "__unresolved_4": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Match/UIEnterGameLoad.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Services/BattleService.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Network/NetConfig.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Network/Battle/NetClientBattle.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_4": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_8": "./mods/fs/0/assets/Proto/Battle/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/PowerRanking/UIPowerRanking.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Managers/CombatPowerRankingManager.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/PowerRanking/UIPowerRankingItem.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Room/UIInvite.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Services/RoomService.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Room/UIInviteItem.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Room/UIRoom.js",
+      "__unresolved_4": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Shop/UIShop.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Services/ItemService.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/UI/Common/InputBox.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Shop/UIShopDetailItem.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Shop/UIShopItem.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/Utils/Validate.js",
+      "__unresolved_15": "./mods/fs/0/assets/Sound/SoundDefine.js",
+      "__unresolved_14": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/PowerRanking/UIPowerRankingItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Shop/UIShopDetailItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Room/UIRoom.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Services/RoomService.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Shop/UIShopItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Room/UIInviteItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/TipsManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UITips.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/UICharacterDetail/UICharacterDetail.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Services/UserService.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_8": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Tran/UITran.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Services/ItemService.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Tran/UITranDetailItem.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Tran/UITranItem.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Tran/UITranDetailItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Tran/UITranItem.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/UICharacterDetail/UIPromote.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Services/UserService.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Utils/DataUtil.js",
+      "__unresolved_7": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Utils/DataUtil.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Utils/DateUtil.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/UIMain.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/UI/Common/InputBox.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Services/RoomService.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/Services/MatchService.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/Utils/Validate.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/UISystemConfig.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_4": "./mods/fs/0/assets/Sound/SoundConfig.js",
+      "__unresolved_3": "./mods/fs/0/assets/Sound/SoundDefine.js",
+      "__unresolved_2": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Vo/ChatUserVo.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Utils/GlobalPool.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Vo/MinimapBoxVo.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Utils/HashMap.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Utils/MathUtil.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Network/NetConfig.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Utils/Validate.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Vo/RockerSpeedVo.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/resources/Battle/Effects/FX/Scripts/DelayActiveChild.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Utils/LocalStorageUtil.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/migrate-canvas.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Sound/SoundConfig.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Sound/SoundDefine.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Sound/SoundManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Sound/SoundConfig.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/UILogin.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Services/UserService.js",
+      "__unresolved_4": "./mods/fs/0/assets/Sound/SoundDefine.js",
+      "__unresolved_3": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js": {
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.js",
+      "__unresolved_3": "./mods/fs/0/assets/Proto/proto.js",
+      "__unresolved_4": "./mods/fs/0/assets/Proto/proto.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "__unresolved_2": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/assets/Proto/Battle/proto.proxy.js@63cjs&original=.js": {
+      "__unresolved_1": "./mods/fs/0/assets/Proto/Battle/proto.js",
+      "__unresolved_3": "./mods/fs/0/assets/Proto/Battle/proto.js",
+      "__unresolved_4": "./mods/fs/0/assets/Proto/Battle/proto.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "__unresolved_2": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/assets/Proto/Battle/proto.js": {
+      "protobufjs/minimal.js": "./mods/fs/0/node_modules/protobufjs/minimal.js",
+      "__unresolved_0": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/assets/Proto/proto.js": {
+      "protobufjs/minimal.js": "./mods/fs/0/node_modules/protobufjs/minimal.js",
+      "__unresolved_0": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/protobufjs/minimal.js": {
+      "__unresolved_0": "./mods/fs/0/node_modules/protobufjs/src/index-minimal.js",
+      "__unresolved_1": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/protobufjs/src/index-minimal.js": {
+      "__unresolved_0": "./mods/fs/0/node_modules/protobufjs/src/writer.js",
+      "__unresolved_4": "./mods/fs/0/node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_1": "./mods/fs/0/node_modules/protobufjs/src/writer_buffer.js",
+      "__unresolved_3": "./mods/fs/0/node_modules/protobufjs/src/reader_buffer.js",
+      "__unresolved_2": "./mods/fs/0/node_modules/protobufjs/src/reader.js",
+      "__unresolved_5": "./mods/fs/0/node_modules/protobufjs/src/rpc.js",
+      "__unresolved_6": "./mods/fs/0/node_modules/protobufjs/src/roots.js",
+      "__unresolved_7": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/protobufjs/src/writer.js": {
+      "__unresolved_0": "./mods/fs/0/node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_1": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/protobufjs/src/reader.js": {
+      "__unresolved_0": "./mods/fs/0/node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_1": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/protobufjs/src/writer_buffer.js": {
+      "__unresolved_0": "./mods/fs/0/node_modules/protobufjs/src/writer.js",
+      "__unresolved_1": "./mods/fs/0/node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_2": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/protobufjs/src/reader_buffer.js": {
+      "__unresolved_1": "./mods/fs/0/node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_0": "./mods/fs/0/node_modules/protobufjs/src/reader.js",
+      "__unresolved_2": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/protobufjs/src/roots.js": {
+      "__unresolved_0": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/protobufjs/src/util/minimal.js": {
+      "@protobufjs/aspromise": "./mods/fs/0/node_modules/@@protobufjs/aspromise/index.js",
+      "@protobufjs/base64": "./mods/fs/0/node_modules/@@protobufjs/base64/index.js",
+      "@protobufjs/float": "./mods/fs/0/node_modules/@@protobufjs/float/index.js",
+      "@protobufjs/eventemitter": "./mods/fs/0/node_modules/@@protobufjs/eventemitter/index.js",
+      "@protobufjs/utf8": "./mods/fs/0/node_modules/@@protobufjs/utf8/index.js",
+      "@protobufjs/inquire": "./mods/fs/0/node_modules/@@protobufjs/inquire/index.js",
+      "@protobufjs/pool": "./mods/fs/0/node_modules/@@protobufjs/pool/index.js",
+      "__unresolved_0": "./mods/fs/0/node_modules/protobufjs/src/util/longbits.js",
+      "__unresolved_1": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/protobufjs/src/rpc.js": {
+      "__unresolved_0": "./mods/fs/0/node_modules/protobufjs/src/rpc/service.js",
+      "__unresolved_1": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/protobufjs/src/rpc/service.js": {
+      "__unresolved_0": "./mods/fs/0/node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_1": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/protobufjs/src/util/longbits.js": {
+      "__unresolved_0": "./mods/fs/0/node_modules/protobufjs/src/util/minimal.js",
+      "__unresolved_1": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/@@protobufjs/base64/index.js": {
+      "__unresolved_0": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/@@protobufjs/inquire/index.js": {
+      "__unresolved_0": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/@@protobufjs/utf8/index.js": {
+      "__unresolved_0": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/@@protobufjs/eventemitter/index.js": {
+      "__unresolved_0": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/@@protobufjs/aspromise/index.js": {
+      "__unresolved_0": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/@@protobufjs/float/index.js": {
+      "__unresolved_0": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/node_modules/@@protobufjs/pool/index.js": {
+      "__unresolved_0": "./mods/cce/internal/ml/cjs-loader.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Services/BattleService.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Network/NetConfig.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CharacterManager.js",
+      "__unresolved_17": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CollisionCheckManager.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_16": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/SpawnMonManager.js",
+      "__unresolved_14": "./mods/fs/0/assets/Scripts/UI/Battle/Minimap/UIMinimapManager.js",
+      "__unresolved_15": "./mods/fs/0/assets/Scripts/UI/Battle/Models/BattleContext.js",
+      "__unresolved_23": "./mods/fs/0/assets/Scripts/UI/Battle/UIBattle.js",
+      "__unresolved_24": "./mods/fs/0/assets/Scripts/UI/Battle/UIGameLoadIn.js",
+      "__unresolved_18": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_20": "./mods/fs/0/assets/Scripts/UI/Battle/enums/AniState.js",
+      "__unresolved_21": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/UI/Battle/enums/GameStatus.js",
+      "__unresolved_22": "./mods/fs/0/assets/Scripts/UI/Battle/enums/HandlerFrameResult.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/UI/Battle/enums/OptType.js",
+      "__unresolved_19": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TargetType.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Utils/HashMap.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/Battle/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Services/UserService.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Network/NetClient.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_9": "./mods/fs/0/assets/Sound/SoundDefine.js",
+      "__unresolved_8": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Network/NetConfig.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/cce/internal/x/cc.js": {
+      "__unresolved_0": "cce:/internal/x/cc-fu/base",
+      "__unresolved_1": "cce:/internal/x/cc-fu/gfx-webgl",
+      "__unresolved_2": "cce:/internal/x/cc-fu/gfx-webgl2",
+      "__unresolved_3": "cce:/internal/x/cc-fu/3d",
+      "__unresolved_4": "cce:/internal/x/cc-fu/2d",
+      "__unresolved_5": "cce:/internal/x/cc-fu/ui",
+      "__unresolved_6": "cce:/internal/x/cc-fu/particle",
+      "__unresolved_7": "cce:/internal/x/cc-fu/primitive",
+      "__unresolved_8": "cce:/internal/x/cc-fu/profiler",
+      "__unresolved_9": "cce:/internal/x/cc-fu/audio",
+      "__unresolved_10": "cce:/internal/x/cc-fu/video",
+      "__unresolved_11": "cce:/internal/x/cc-fu/webview",
+      "__unresolved_12": "cce:/internal/x/cc-fu/tween",
+      "__unresolved_13": "cce:/internal/x/cc-fu/terrain"
+    },
+    "./mods/cce/internal/x/prerequisite-imports.js": {
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Data/AddAttrDefine.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Data/CharacterDefine.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Data/BuffDefine.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Data/GameConfig.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Data/ItemDefine.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/LoadingManager.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Data/ShopDefine.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Data/SkillDefine.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/Managers/ChatManager.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Data/SpawnRuleDefine.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/Data/ShopItemDefine.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/Log/LogUtil.js",
+      "__unresolved_14": "./mods/fs/0/assets/Scripts/Managers/CombatPowerRankingManager.js",
+      "__unresolved_16": "./mods/fs/0/assets/Scripts/Managers/FollowManager.js",
+      "__unresolved_18": "./mods/fs/0/assets/Scripts/Models/User.js",
+      "__unresolved_17": "./mods/fs/0/assets/Scripts/Managers/ItemManager.js",
+      "__unresolved_15": "./mods/fs/0/assets/Scripts/Managers/DataManager.js",
+      "__unresolved_19": "./mods/fs/0/assets/Scripts/Network/Battle/NetClientBattle.js",
+      "__unresolved_20": "./mods/fs/0/assets/Scripts/Network/MessageDispatch.js",
+      "__unresolved_21": "./mods/fs/0/assets/Scripts/Network/NetClient.js",
+      "__unresolved_22": "./mods/fs/0/assets/Scripts/Network/NetConfig.js",
+      "__unresolved_23": "./mods/fs/0/assets/Scripts/Network/SocketConst.js",
+      "__unresolved_24": "./mods/fs/0/assets/Scripts/Services/AuctionService.js",
+      "__unresolved_25": "./mods/fs/0/assets/Scripts/Services/BattleService.js",
+      "__unresolved_26": "./mods/fs/0/assets/Scripts/Services/ChatService.js",
+      "__unresolved_27": "./mods/fs/0/assets/Scripts/Services/FollowService.js",
+      "__unresolved_28": "./mods/fs/0/assets/Scripts/Services/ItemService.js",
+      "__unresolved_29": "./mods/fs/0/assets/Scripts/Services/MatchService.js",
+      "__unresolved_30": "./mods/fs/0/assets/Scripts/Services/RoomService.js",
+      "__unresolved_31": "./mods/fs/0/assets/Scripts/Services/StatusService.js",
+      "__unresolved_32": "./mods/fs/0/assets/Scripts/Services/TipsService.js",
+      "__unresolved_33": "./mods/fs/0/assets/Scripts/Services/UserService.js",
+      "__unresolved_34": "./mods/fs/0/assets/Scripts/UI/Auction/UIAuction.js",
+      "__unresolved_35": "./mods/fs/0/assets/Scripts/UI/Auction/UIAuctionDetailItem.js",
+      "__unresolved_36": "./mods/fs/0/assets/Scripts/UI/Auction/UIAuctionItem.js",
+      "__unresolved_37": "./mods/fs/0/assets/Scripts/UI/Bag/UIBag.js",
+      "__unresolved_38": "./mods/fs/0/assets/Scripts/UI/Bag/UIBagDetailItem.js",
+      "__unresolved_39": "./mods/fs/0/assets/Scripts/UI/Bag/UIBagItem.js",
+      "__unresolved_40": "./mods/fs/0/assets/Scripts/UI/Battle/Attribute/AttributeData.js",
+      "__unresolved_41": "./mods/fs/0/assets/Scripts/UI/Battle/Attribute/AttributeType.js",
+      "__unresolved_42": "./mods/fs/0/assets/Scripts/UI/Battle/Attribute/Attributes.js",
+      "__unresolved_43": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/AnimationEventController.js",
+      "__unresolved_44": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EffectController.js",
+      "__unresolved_45": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EffectType.js",
+      "__unresolved_46": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/EntityEffectManager.js",
+      "__unresolved_47": "./mods/fs/0/assets/Scripts/UI/Battle/Effects/FXManager.js",
+      "__unresolved_48": "./mods/fs/0/assets/Scripts/UI/Battle/Enities/Creature.js",
+      "__unresolved_49": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/AiManager.js",
+      "__unresolved_50": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BattleManager.js",
+      "__unresolved_51": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/BuffManager.js",
+      "__unresolved_52": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CharacterManager.js",
+      "__unresolved_53": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CollisionCheckManager.js",
+      "__unresolved_54": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/CreatureManager.js",
+      "__unresolved_55": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/EffectManager.js",
+      "__unresolved_56": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/SkillManager.js",
+      "__unresolved_57": "./mods/fs/0/assets/Scripts/UI/Battle/Managers/SpawnMonManager.js",
+      "__unresolved_58": "./mods/fs/0/assets/Scripts/UI/Battle/Minimap/UIMinimapCharacter.js",
+      "__unresolved_59": "./mods/fs/0/assets/Scripts/UI/Battle/Minimap/UIMinimapManager.js",
+      "__unresolved_60": "./mods/fs/0/assets/Scripts/UI/Battle/Models/BattleContext.js",
+      "__unresolved_61": "./mods/fs/0/assets/Scripts/UI/Battle/Models/Buff.js",
+      "__unresolved_62": "./mods/fs/0/assets/Scripts/UI/Battle/Models/Bullet.js",
+      "__unresolved_63": "./mods/fs/0/assets/Scripts/UI/Battle/Models/Skill.js",
+      "__unresolved_64": "./mods/fs/0/assets/Scripts/UI/Battle/Skill/UISkillSlot.js",
+      "__unresolved_65": "./mods/fs/0/assets/Scripts/UI/Battle/Skill/UISkillSlots.js",
+      "__unresolved_66": "./mods/fs/0/assets/Scripts/UI/Battle/UIBattle.js",
+      "__unresolved_68": "./mods/fs/0/assets/Scripts/UI/Battle/UIBattleChatItem.js",
+      "__unresolved_67": "./mods/fs/0/assets/Scripts/UI/Battle/UIBattleChat.js",
+      "__unresolved_69": "./mods/fs/0/assets/Scripts/UI/Battle/UIGameLoadIn.js",
+      "__unresolved_70": "./mods/fs/0/assets/Scripts/UI/Battle/UIGameOver.js",
+      "__unresolved_71": "./mods/fs/0/assets/Scripts/UI/Battle/UIHpBar.js",
+      "__unresolved_72": "./mods/fs/0/assets/Scripts/UI/Battle/UILiveMsg.js",
+      "__unresolved_73": "./mods/fs/0/assets/Scripts/UI/Battle/UIPopupText.js",
+      "__unresolved_74": "./mods/fs/0/assets/Scripts/UI/Battle/UIRocker.js",
+      "__unresolved_75": "./mods/fs/0/assets/Scripts/UI/Battle/UITestFloat.js",
+      "__unresolved_76": "./mods/fs/0/assets/Scripts/UI/Battle/UIWorldElement.js",
+      "__unresolved_77": "./mods/fs/0/assets/Scripts/UI/Battle/UIWorldElementManager.js",
+      "__unresolved_81": "./mods/fs/0/assets/Scripts/UI/Battle/Vo/BuffInfo.js",
+      "__unresolved_78": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/BattleGlobal.js",
+      "__unresolved_79": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/LogicRenderConvert.js",
+      "__unresolved_82": "./mods/fs/0/assets/Scripts/UI/Battle/Vo/DamageInfo.js",
+      "__unresolved_80": "./mods/fs/0/assets/Scripts/UI/Battle/Utils/RandomUtil.js",
+      "__unresolved_83": "./mods/fs/0/assets/Scripts/UI/Battle/Vo/PositionVo.js",
+      "__unresolved_84": "./mods/fs/0/assets/Scripts/UI/Battle/Vo/SkillHitInfo.js",
+      "__unresolved_85": "./mods/fs/0/assets/Scripts/UI/Battle/Vo/SkillTipsSize.js",
+      "__unresolved_86": "./mods/fs/0/assets/Scripts/UI/Battle/enums/AniState.js",
+      "__unresolved_87": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleMode.js",
+      "__unresolved_88": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BattleState.js",
+      "__unresolved_90": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BuffEffect.js",
+      "__unresolved_89": "./mods/fs/0/assets/Scripts/UI/Battle/enums/BuffAction.js",
+      "__unresolved_91": "./mods/fs/0/assets/Scripts/UI/Battle/enums/CarDirType.js",
+      "__unresolved_92": "./mods/fs/0/assets/Scripts/UI/Battle/enums/CreatureType.js",
+      "__unresolved_93": "./mods/fs/0/assets/Scripts/UI/Battle/enums/GameStatus.js",
+      "__unresolved_94": "./mods/fs/0/assets/Scripts/UI/Battle/enums/HandlerFrameResult.js",
+      "__unresolved_96": "./mods/fs/0/assets/Scripts/UI/Battle/enums/PopupType.js",
+      "__unresolved_95": "./mods/fs/0/assets/Scripts/UI/Battle/enums/OptType.js",
+      "__unresolved_97": "./mods/fs/0/assets/Scripts/UI/Battle/enums/ShapeType.js",
+      "__unresolved_98": "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillResult.js",
+      "__unresolved_99": "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillStatus.js",
+      "__unresolved_100": "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillTipsType.js",
+      "__unresolved_101": "./mods/fs/0/assets/Scripts/UI/Battle/enums/SkillType.js",
+      "__unresolved_102": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TargetType.js",
+      "__unresolved_103": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TeamType2.js",
+      "__unresolved_104": "./mods/fs/0/assets/Scripts/UI/Battle/enums/TriggerType.js",
+      "__unresolved_106": "./mods/fs/0/assets/Scripts/UI/CharacterSelect/UICharacterSelectItem.js",
+      "__unresolved_105": "./mods/fs/0/assets/Scripts/UI/CharacterSelect/UICharacterSelect.js",
+      "__unresolved_107": "./mods/fs/0/assets/Scripts/UI/Chat/UIChat.js",
+      "__unresolved_108": "./mods/fs/0/assets/Scripts/UI/Chat/UIChatItem.js",
+      "__unresolved_111": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventManager.js",
+      "__unresolved_109": "./mods/fs/0/assets/Scripts/UI/Chat/UIChatUserItem.js",
+      "__unresolved_110": "./mods/fs/0/assets/Scripts/UI/Chat/UIOtherMyUserItem.js",
+      "__unresolved_112": "./mods/fs/0/assets/Scripts/UI/Common/Event/EventType.js",
+      "__unresolved_114": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListView.js",
+      "__unresolved_113": "./mods/fs/0/assets/Scripts/UI/Common/InputBox.js",
+      "__unresolved_115": "./mods/fs/0/assets/Scripts/UI/Common/ListView/ListViewItem.js",
+      "__unresolved_116": "./mods/fs/0/assets/Scripts/UI/Common/MessageBox.js",
+      "__unresolved_117": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/List.js",
+      "__unresolved_118": "./mods/fs/0/assets/Scripts/UI/Common/ScrollView/ListItem.js",
+      "__unresolved_119": "./mods/fs/0/assets/Scripts/UI/Common/TabView/TabButton.js",
+      "__unresolved_120": "./mods/fs/0/assets/Scripts/UI/Common/TabView/TabView.js",
+      "__unresolved_121": "./mods/fs/0/assets/Scripts/UI/Common/UIInputBox.js",
+      "__unresolved_122": "./mods/fs/0/assets/Scripts/UI/Common/UIManager.js",
+      "__unresolved_123": "./mods/fs/0/assets/Scripts/UI/Common/UIMessageBox.js",
+      "__unresolved_125": "./mods/fs/0/assets/Scripts/UI/Common/UIWindow.js",
+      "__unresolved_124": "./mods/fs/0/assets/Scripts/UI/Common/UITips.js",
+      "__unresolved_126": "./mods/fs/0/assets/Scripts/UI/Follow/UIFollow.js",
+      "__unresolved_127": "./mods/fs/0/assets/Scripts/UI/Follow/UIFollowItem.js",
+      "__unresolved_128": "./mods/fs/0/assets/Scripts/UI/FollowLive/UIFollowLive.js",
+      "__unresolved_129": "./mods/fs/0/assets/Scripts/UI/FollowLive/UIFollowLiveItem.js",
+      "__unresolved_132": "./mods/fs/0/assets/Scripts/UI/PowerRanking/UIPowerRanking.js",
+      "__unresolved_131": "./mods/fs/0/assets/Scripts/UI/Match/UIMatchWait.js",
+      "__unresolved_133": "./mods/fs/0/assets/Scripts/UI/PowerRanking/UIPowerRankingItem.js",
+      "__unresolved_130": "./mods/fs/0/assets/Scripts/UI/Match/UIEnterGameLoad.js",
+      "__unresolved_134": "./mods/fs/0/assets/Scripts/UI/Room/UIInvite.js",
+      "__unresolved_135": "./mods/fs/0/assets/Scripts/UI/Room/UIInviteItem.js",
+      "__unresolved_136": "./mods/fs/0/assets/Scripts/UI/Room/UIRoom.js",
+      "__unresolved_137": "./mods/fs/0/assets/Scripts/UI/Shop/UIShop.js",
+      "__unresolved_138": "./mods/fs/0/assets/Scripts/UI/Shop/UIShopDetailItem.js",
+      "__unresolved_139": "./mods/fs/0/assets/Scripts/UI/Shop/UIShopItem.js",
+      "__unresolved_140": "./mods/fs/0/assets/Scripts/UI/TipsManager.js",
+      "__unresolved_144": "./mods/fs/0/assets/Scripts/UI/UICharacterDetail/UICharacterDetail.js",
+      "__unresolved_141": "./mods/fs/0/assets/Scripts/UI/Tran/UITran.js",
+      "__unresolved_142": "./mods/fs/0/assets/Scripts/UI/Tran/UITranDetailItem.js",
+      "__unresolved_145": "./mods/fs/0/assets/Scripts/UI/UICharacterDetail/UIPromote.js",
+      "__unresolved_143": "./mods/fs/0/assets/Scripts/UI/Tran/UITranItem.js",
+      "__unresolved_149": "./mods/fs/0/assets/Scripts/Utils/DataUtil.js",
+      "__unresolved_147": "./mods/fs/0/assets/Scripts/UI/UIMain.js",
+      "__unresolved_148": "./mods/fs/0/assets/Scripts/UI/UISystemConfig.js",
+      "__unresolved_150": "./mods/fs/0/assets/Scripts/Utils/DateUtil.js",
+      "__unresolved_146": "./mods/fs/0/assets/Scripts/UI/UILogin.js",
+      "__unresolved_152": "./mods/fs/0/assets/Scripts/Utils/HashMap.js",
+      "__unresolved_151": "./mods/fs/0/assets/Scripts/Utils/GlobalPool.js",
+      "__unresolved_154": "./mods/fs/0/assets/Scripts/Utils/LocalStorageUtil.js",
+      "__unresolved_153": "./mods/fs/0/assets/Scripts/Utils/LoadResUtil.js",
+      "__unresolved_155": "./mods/fs/0/assets/Scripts/Utils/MathUtil.js",
+      "__unresolved_156": "./mods/fs/0/assets/Scripts/Utils/Validate.js",
+      "__unresolved_157": "./mods/fs/0/assets/Scripts/Vo/ChatUserVo.js",
+      "__unresolved_160": "./mods/fs/0/assets/Sound/SoundConfig.js",
+      "__unresolved_159": "./mods/fs/0/assets/Scripts/Vo/RockerSpeedVo.js",
+      "__unresolved_158": "./mods/fs/0/assets/Scripts/Vo/MinimapBoxVo.js",
+      "__unresolved_161": "./mods/fs/0/assets/Sound/SoundDefine.js",
+      "__unresolved_162": "./mods/fs/0/assets/Sound/SoundManager.js",
+      "__unresolved_163": "./mods/fs/0/assets/migrate-canvas.js",
+      "__unresolved_164": "./mods/fs/0/assets/resources/Battle/Effects/FX/Scripts/DelayActiveChild.js",
+      "__unresolved_1": "./mods/fs/0/assets/Proto/proto.proxy.js@63cjs&original=.js",
+      "__unresolved_0": "./mods/fs/0/assets/Proto/Battle/proto.proxy.js@63cjs&original=.js"
+    }
+  }
+}

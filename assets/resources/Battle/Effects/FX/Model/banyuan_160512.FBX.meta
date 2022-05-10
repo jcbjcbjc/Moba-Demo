@@ -1,0 +1,126 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "46c0aab3-e7d6-4837-9350-829ae2531e55",
+  "files": [],
+  "subMetas": {
+    "fb329": {
+      "importer": "gltf-mesh",
+      "uuid": "46c0aab3-e7d6-4837-9350-829ae2531e55@fb329",
+      "displayName": "",
+      "id": "fb329",
+      "name": "Sphere001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c4b7a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "46c0aab3-e7d6-4837-9350-829ae2531e55@c4b7a",
+      "displayName": "",
+      "id": "c4b7a",
+      "name": "贴图 #6.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "291d4": {
+      "importer": "texture",
+      "uuid": "46c0aab3-e7d6-4837-9350-829ae2531e55@291d4",
+      "displayName": "",
+      "id": "291d4",
+      "name": "贴图 #6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "46c0aab3-e7d6-4837-9350-829ae2531e55@c4b7a"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "482f8": {
+      "importer": "gltf-material",
+      "uuid": "46c0aab3-e7d6-4837-9350-829ae2531e55@482f8",
+      "displayName": "",
+      "id": "482f8",
+      "name": "Material #51.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f368": {
+      "importer": "gltf-scene",
+      "uuid": "46c0aab3-e7d6-4837-9350-829ae2531e55@4f368",
+      "displayName": "",
+      "id": "4f368",
+      "name": "banyuan_160512.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #6",
+        "uri": "46c0aab3-e7d6-4837-9350-829ae2531e55@c4b7a"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "46c0aab3-e7d6-4837-9350-829ae2531e55@4f368",
+    "assetFinder": {
+      "meshes": [
+        "46c0aab3-e7d6-4837-9350-829ae2531e55@fb329"
+      ],
+      "skeletons": [],
+      "textures": [
+        "46c0aab3-e7d6-4837-9350-829ae2531e55@291d4"
+      ],
+      "materials": [
+        "46c0aab3-e7d6-4837-9350-829ae2531e55@482f8"
+      ],
+      "scenes": [
+        "46c0aab3-e7d6-4837-9350-829ae2531e55@4f368"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

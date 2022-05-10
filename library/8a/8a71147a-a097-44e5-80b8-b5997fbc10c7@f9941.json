@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Equipment_Lock",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 44,
+      "height": 44
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 44,
+      "height": 44
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "8a71147a-a097-44e5-80b8-b5997fbc10c7@6c48a",
+    "packable": true
+  }
+}

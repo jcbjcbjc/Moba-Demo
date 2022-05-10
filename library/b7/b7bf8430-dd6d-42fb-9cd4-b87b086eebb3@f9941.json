@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "minimap",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 236,
+      "height": 547
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 236,
+      "height": 547
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b7bf8430-dd6d-42fb-9cd4-b87b086eebb3@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ldown",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 639,
+      "height": 105
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 639,
+      "height": 105
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "61a9e49a-ee02-4bf8-88ad-a88587610767@6c48a",
+    "packable": true
+  }
+}

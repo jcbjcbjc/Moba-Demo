@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f4b713ab-4633-49f5-95b1-a99ec6a472bd",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "571e4": {
+      "importer": "gltf-animation",
+      "uuid": "f4b713ab-4633-49f5-95b1-a99ec6a472bd@571e4",
+      "displayName": "",
+      "id": "571e4",
+      "name": "Archer_Death.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "97c14": {
+      "importer": "gltf-scene",
+      "uuid": "f4b713ab-4633-49f5-95b1-a99ec6a472bd@97c14",
+      "displayName": "",
+      "id": "97c14",
+      "name": "Archer_Death.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Archer_Death",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Archer_Death",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f4b713ab-4633-49f5-95b1-a99ec6a472bd@97c14",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "f4b713ab-4633-49f5-95b1-a99ec6a472bd@97c14"
+      ]
+    }
+  }
+}

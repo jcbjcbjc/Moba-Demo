@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "4ge",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 17,
+      "height": 13
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 17,
+      "height": 13
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9b044ff8-a61f-4a83-ba16-f988d7c40df6@6c48a",
+    "packable": true
+  }
+}

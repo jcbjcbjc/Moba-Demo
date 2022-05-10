@@ -1,0 +1,80 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c7cc0a53-3a94-479a-b49c-1c9ac1ede071",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "f71a7": {
+      "importer": "gltf-animation",
+      "uuid": "c7cc0a53-3a94-479a-b49c-1c9ac1ede071@f71a7",
+      "displayName": "",
+      "id": "f71a7",
+      "name": "Wizard_Standby.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": [],
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "1e70a": {
+      "importer": "gltf-scene",
+      "uuid": "c7cc0a53-3a94-479a-b49c-1c9ac1ede071@1e70a",
+      "displayName": "",
+      "id": "1e70a",
+      "name": "Wizard_Standby.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Wizard_Standby",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Wizard_Standby",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "c7cc0a53-3a94-479a-b49c-1c9ac1ede071@1e70a",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c7cc0a53-3a94-479a-b49c-1c9ac1ede071@1e70a"
+      ]
+    }
+  }
+}

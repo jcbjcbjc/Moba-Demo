@@ -1,0 +1,88 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8a7cfc7b-e3dd-4c84-9ef6-58894f422b25",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "1b8a4": {
+      "importer": "gltf-animation",
+      "uuid": "8a7cfc7b-e3dd-4c84-9ef6-58894f422b25@1b8a4",
+      "displayName": "",
+      "id": "1b8a4",
+      "name": "Archer_SkillA.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.1666667461395264
+        },
+        "events": [
+          {
+            "frame": 0.4,
+            "func": "PlayEffect",
+            "params": [
+              "EFX_Archer_SkillA_prefab"
+            ],
+            "x": 39.261538461538464
+          }
+        ]
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "48c25": {
+      "importer": "gltf-scene",
+      "uuid": "8a7cfc7b-e3dd-4c84-9ef6-58894f422b25@48c25",
+      "displayName": "",
+      "id": "48c25",
+      "name": "Archer_SkillA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Archer_SkillA",
+        "duration": 2.1666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Archer_SkillA",
+            "from": 0,
+            "to": 2.1666667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "8a7cfc7b-e3dd-4c84-9ef6-58894f422b25@48c25",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "8a7cfc7b-e3dd-4c84-9ef6-58894f422b25@48c25"
+      ]
+    }
+  }
+}

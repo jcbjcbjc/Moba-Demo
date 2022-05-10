@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "notRedMsg",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 12,
+      "height": 12
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 12,
+      "height": 12
+    },
+    "rotated": false,
+    "capInsets": [
+      3,
+      4,
+      3,
+      4
+    ],
+    "texture": "a196388b-c62a-47f6-892d-14bd44095d40@6c48a",
+    "packable": true
+  }
+}

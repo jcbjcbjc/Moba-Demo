@@ -1,0 +1,116 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "46feaca0-5885-411b-95fc-a70833162f11",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "1af42": {
+      "importer": "gltf-mesh",
+      "uuid": "46feaca0-5885-411b-95fc-a70833162f11@1af42",
+      "displayName": "",
+      "id": "1af42",
+      "name": "Bone002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d88f": {
+      "importer": "gltf-animation",
+      "uuid": "46feaca0-5885-411b-95fc-a70833162f11@7d88f",
+      "displayName": "",
+      "id": "7d88f",
+      "name": "Warrior_Hurt.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "46feaca0-5885-411b-95fc-a70833162f11@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b543a": {
+      "importer": "gltf-scene",
+      "uuid": "46feaca0-5885-411b-95fc-a70833162f11@b543a",
+      "displayName": "",
+      "id": "b543a",
+      "name": "Warrior_Hurt.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Warrior_Hurt",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Warrior_Hurt",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "46feaca0-5885-411b-95fc-a70833162f11@b543a",
+    "assetFinder": {
+      "meshes": [
+        "46feaca0-5885-411b-95fc-a70833162f11@1af42"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "46feaca0-5885-411b-95fc-a70833162f11@ea6e2"
+      ],
+      "scenes": [
+        "46feaca0-5885-411b-95fc-a70833162f11@b543a"
+      ]
+    }
+  }
+}

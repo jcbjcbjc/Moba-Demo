@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Tip_CBT_GOLDMINA",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 8,
+      "width": 61,
+      "height": 59
+    },
+    "offset": {
+      "x": -1.5,
+      "y": -3.5
+    },
+    "originalSize": {
+      "width": 68,
+      "height": 68
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "26a07f29-e2e2-4631-bb12-acb7db3fbd21@6c48a",
+    "packable": true
+  }
+}

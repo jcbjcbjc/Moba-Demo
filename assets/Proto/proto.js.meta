@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.23",
+  "importer": "javascript",
+  "imported": true,
+  "uuid": "ac3ca5f8-72be-4e06-96b7-e136ffd8335f",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importerSettings": 7,
+    "moduleId": "project:///assets/Proto/proto.js",
+    "simulateGlobals": [],
+    "dependencies": []
+  }
+}

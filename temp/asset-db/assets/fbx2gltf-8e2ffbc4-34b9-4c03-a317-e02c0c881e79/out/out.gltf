@@ -1,0 +1,2806 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.9.7",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 8684,
+            "uri": "buffer.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 52,
+            "byteOffset": 0
+        },
+        {
+            "buffer": 0,
+            "byteLength": 156,
+            "byteOffset": 52
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 208
+        },
+        {
+            "buffer": 0,
+            "byteLength": 156,
+            "byteOffset": 416
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 572
+        },
+        {
+            "buffer": 0,
+            "byteLength": 156,
+            "byteOffset": 780
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 936
+        },
+        {
+            "buffer": 0,
+            "byteLength": 156,
+            "byteOffset": 1144
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 1300
+        },
+        {
+            "buffer": 0,
+            "byteLength": 156,
+            "byteOffset": 1508
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 1664
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 1872
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 2080
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 2288
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 2496
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 2704
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 2912
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 3120
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 3328
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 3536
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 3744
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 3952
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 4160
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 4368
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 4576
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 4784
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 4992
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 5200
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 5408
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 5616
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 5824
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 6032
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 6240
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 6448
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 6656
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 6864
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 7072
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 7280
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 7488
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 7696
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 7904
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 8112
+        },
+        {
+            "buffer": 0,
+            "byteLength": 156,
+            "byteOffset": 8320
+        },
+        {
+            "buffer": 0,
+            "byteLength": 208,
+            "byteOffset": 8476
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5126,
+            "type": "SCALAR",
+            "count": 13,
+            "bufferView": 0,
+            "byteOffset": 0,
+            "min": [
+                0.0
+            ],
+            "max": [
+                0.5
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 13,
+            "bufferView": 1,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 2,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 13,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 4,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 13,
+            "bufferView": 5,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 6,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 13,
+            "bufferView": 7,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 8,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 13,
+            "bufferView": 9,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 10,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 11,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 12,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 13,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 14,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 15,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 16,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 17,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 18,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 19,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 20,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 21,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 22,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 23,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 24,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 25,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 26,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 27,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 28,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 29,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 30,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 31,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 32,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 33,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 34,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 35,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 36,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 37,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 38,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 39,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 40,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 41,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 13,
+            "bufferView": 42,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 13,
+            "bufferView": 43,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "animations": [
+        {
+            "name": "Wizard_AtkA",
+            "channels": [
+                {
+                    "sampler": 0,
+                    "target": {
+                        "node": 1,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 1,
+                    "target": {
+                        "node": 1,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 2,
+                    "target": {
+                        "node": 2,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 3,
+                    "target": {
+                        "node": 2,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 4,
+                    "target": {
+                        "node": 4,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 5,
+                    "target": {
+                        "node": 4,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 6,
+                    "target": {
+                        "node": 5,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 7,
+                    "target": {
+                        "node": 5,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 8,
+                    "target": {
+                        "node": 6,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 9,
+                    "target": {
+                        "node": 6,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 10,
+                    "target": {
+                        "node": 7,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 11,
+                    "target": {
+                        "node": 9,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 12,
+                    "target": {
+                        "node": 10,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 13,
+                    "target": {
+                        "node": 11,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 14,
+                    "target": {
+                        "node": 12,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 15,
+                    "target": {
+                        "node": 28,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 16,
+                    "target": {
+                        "node": 29,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 17,
+                    "target": {
+                        "node": 30,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 18,
+                    "target": {
+                        "node": 31,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 19,
+                    "target": {
+                        "node": 47,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 20,
+                    "target": {
+                        "node": 48,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 21,
+                    "target": {
+                        "node": 49,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 22,
+                    "target": {
+                        "node": 52,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 23,
+                    "target": {
+                        "node": 53,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 24,
+                    "target": {
+                        "node": 54,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 25,
+                    "target": {
+                        "node": 57,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 26,
+                    "target": {
+                        "node": 58,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 27,
+                    "target": {
+                        "node": 59,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 28,
+                    "target": {
+                        "node": 61,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 29,
+                    "target": {
+                        "node": 62,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 30,
+                    "target": {
+                        "node": 63,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 31,
+                    "target": {
+                        "node": 65,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 32,
+                    "target": {
+                        "node": 66,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 33,
+                    "target": {
+                        "node": 67,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 34,
+                    "target": {
+                        "node": 69,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 35,
+                    "target": {
+                        "node": 71,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 36,
+                    "target": {
+                        "node": 72,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 37,
+                    "target": {
+                        "node": 73,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 38,
+                    "target": {
+                        "node": 75,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 39,
+                    "target": {
+                        "node": 76,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 40,
+                    "target": {
+                        "node": 77,
+                        "path": "rotation"
+                    }
+                },
+                {
+                    "sampler": 41,
+                    "target": {
+                        "node": 79,
+                        "path": "translation"
+                    }
+                },
+                {
+                    "sampler": 42,
+                    "target": {
+                        "node": 79,
+                        "path": "rotation"
+                    }
+                }
+            ],
+            "samplers": [
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 1
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 2
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 3
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 4
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 5
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 6
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 7
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 8
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 9
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 10
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 11
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 12
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 13
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 14
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 15
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 16
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 17
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 18
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 19
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 20
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 21
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 22
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 23
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 24
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 25
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 26
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 27
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 28
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 29
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 30
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 31
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 32
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 33
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 34
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 35
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 36
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 37
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 38
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 39
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 40
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 41
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 42
+                },
+                {
+                    "input": 0,
+                    "interpolation": "LINEAR",
+                    "output": 43
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "Bip001",
+            "translation": [
+                0.00143159565050155,
+                0.747196853160858,
+                -0.000807970762252808
+            ],
+            "rotation": [
+                -0.489374816417694,
+                -0.443180322647095,
+                -0.473660051822662,
+                0.58288049697876
+            ],
+            "scale": [
+                2.53999996185303,
+                2.53999996185303,
+                2.53999996185303
+            ],
+            "children": [
+                2,
+                3,
+                79
+            ]
+        },
+        {
+            "name": "Bip001 Footsteps",
+            "translation": [
+                0.0346988402307034,
+                -0.0211914088577032,
+                -0.290200978517532
+            ],
+            "rotation": [
+                -0.066118486225605,
+                -0.0215524192899466,
+                0.648304045200348,
+                0.758198976516724
+            ],
+            "scale": [
+                0.999999940395355,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Pelvis",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                -0.5,
+                -0.5,
+                -0.499999314546585,
+                0.500000715255737
+            ],
+            "scale": [
+                0.999999940395355,
+                0.999999940395355,
+                1.0
+            ],
+            "children": [
+                4,
+                47,
+                52,
+                57,
+                61,
+                65,
+                69
+            ]
+        },
+        {
+            "name": "Spine",
+            "translation": [
+                0.0512533560395241,
+                0.00775205111131072,
+                9.00506984180538e-06
+            ],
+            "rotation": [
+                -0.0783471837639809,
+                -0.0250665433704853,
+                -0.0557789765298367,
+                0.995048761367798
+            ],
+            "scale": [
+                1.00000023841858,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                5
+            ]
+        },
+        {
+            "name": "Spine1",
+            "translation": [
+                0.0734926983714104,
+                -7.19988311175257e-05,
+                6.40988355371519e-06
+            ],
+            "rotation": [
+                -0.0458607152104378,
+                -0.0393129363656044,
+                -0.0392644628882408,
+                0.997401416301727
+            ],
+            "scale": [
+                0.999999940395355,
+                1.0,
+                1.0
+            ],
+            "children": [
+                6,
+                9,
+                28
+            ]
+        },
+        {
+            "name": "Neck",
+            "translation": [
+                0.0736608505249023,
+                -0.0153278009966016,
+                -4.74452963317162e-06
+            ],
+            "rotation": [
+                0.0593929886817932,
+                0.035269059240818,
+                0.126035079360008,
+                0.989617943763733
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                7
+            ]
+        },
+        {
+            "name": "Head",
+            "translation": [
+                0.046895407140255,
+                0.0,
+                -1.19209286886246e-09
+            ],
+            "rotation": [
+                -0.00837010517716408,
+                -0.00433469377458096,
+                -0.0285954922437668,
+                0.999546647071838
+            ],
+            "scale": [
+                0.999999940395355,
+                0.999999940395355,
+                0.999999940395355
+            ],
+            "children": [
+                8
+            ]
+        },
+        {
+            "name": "Bip001 HeadNub",
+            "translation": [
+                0.197811737656593,
+                -4.76837147544984e-09,
+                0.0
+            ],
+            "rotation": [
+                1.45519152283669e-11,
+                -3.79470760369927e-19,
+                -7.45058059692383e-09,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "L_Clavicle",
+            "translation": [
+                0.0552448257803917,
+                -0.013880574144423,
+                0.0216362662613392
+            ],
+            "rotation": [
+                0.638584911823273,
+                0.054204236716032,
+                0.766279339790344,
+                0.0456858798861504
+            ],
+            "scale": [
+                1.0,
+                1.00000011920929,
+                1.00000011920929
+            ],
+            "children": [
+                10
+            ]
+        },
+        {
+            "name": "L_UpperArm",
+            "translation": [
+                0.0464746281504631,
+                8.88178399847791e-18,
+                0.0
+            ],
+            "rotation": [
+                0.279184639453888,
+                0.0987346842885017,
+                -0.27528789639473,
+                0.914616823196411
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                11
+            ]
+        },
+        {
+            "name": "L_Forearm",
+            "translation": [
+                0.100868619978428,
+                0.0,
+                -1.42108543975646e-16
+            ],
+            "rotation": [
+                -1.75908675743058e-17,
+                -1.11308401075341e-17,
+                -0.84503710269928,
+                0.534707725048065
+            ],
+            "scale": [
+                1.0,
+                1.00000023841858,
+                1.00000023841858
+            ],
+            "children": [
+                12
+            ]
+        },
+        {
+            "name": "L_Hand",
+            "translation": [
+                0.0890940055251122,
+                9.53674295089968e-09,
+                7.10542719878232e-17
+            ],
+            "rotation": [
+                -0.309789597988129,
+                0.0678841695189476,
+                0.0159254502505064,
+                0.948244988918304
+            ],
+            "scale": [
+                1.0,
+                0.999999940395355,
+                0.99999988079071
+            ],
+            "children": [
+                13,
+                16,
+                19,
+                22,
+                25
+            ]
+        },
+        {
+            "name": "L_Finger0",
+            "translation": [
+                0.0119123551994562,
+                0.00729450210928917,
+                -0.0208509061485529
+            ],
+            "rotation": [
+                0.688390612602234,
+                0.360991716384888,
+                -0.0156227583065629,
+                0.628935039043427
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                14
+            ]
+        },
+        {
+            "name": "L_Finger01",
+            "translation": [
+                0.0179238896816969,
+                1.77635679969558e-17,
+                1.90734859017994e-08
+            ],
+            "rotation": [
+                2.93471398293832e-08,
+                5.18882758981931e-09,
+                0.174108147621155,
+                0.984726548194885
+            ],
+            "scale": [
+                0.999999940395355,
+                0.999999940395355,
+                1.0
+            ],
+            "children": [
+                15
+            ]
+        },
+        {
+            "name": "Bip001 L Finger0Nub",
+            "translation": [
+                0.0172136109322309,
+                -3.55271359939116e-17,
+                -1.90734859017994e-08
+            ],
+            "rotation": [
+                2.77555723069065e-17,
+                2.08166817117217e-17,
+                -7.45058059692383e-09,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.00000011920929,
+                1.0
+            ]
+        },
+        {
+            "name": "L_Finger1",
+            "translation": [
+                0.038091666996479,
+                -0.00153915397822857,
+                -0.0107857892289758
+            ],
+            "rotation": [
+                0.0421427339315414,
+                0.0525941289961338,
+                0.0884354114532471,
+                0.993799269199371
+            ],
+            "scale": [
+                1.0,
+                0.999999940395355,
+                1.00000011920929
+            ],
+            "children": [
+                17
+            ]
+        },
+        {
+            "name": "L_Finger11",
+            "translation": [
+                0.0175882242619991,
+                -1.90734859017994e-08,
+                1.90734859017994e-08
+            ],
+            "rotation": [
+                -1.40269742487931e-08,
+                -8.9888674281724e-09,
+                0.106052458286285,
+                0.994360506534576
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                18
+            ]
+        },
+        {
+            "name": "Bip001 L Finger1Nub",
+            "translation": [
+                0.0167898833751678,
+                0.0,
+                3.55271359939116e-17
+            ],
+            "rotation": [
+                -1.4901157641134e-08,
+                7.4505792646562e-09,
+                1.49011594174908e-08,
+                1.0
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000023841858,
+                1.0
+            ]
+        },
+        {
+            "name": "L_Finger2",
+            "translation": [
+                0.0385315790772438,
+                0.00102035515010357,
+                -0.000713081331923604
+            ],
+            "rotation": [
+                0.00479646353051066,
+                0.042505569756031,
+                0.181906655430794,
+                0.982384979724884
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                20
+            ]
+        },
+        {
+            "name": "L_Finger21",
+            "translation": [
+                0.0201432406902313,
+                1.06581407981735e-16,
+                -3.55271359939116e-17
+            ],
+            "rotation": [
+                1.78126864369688e-08,
+                -1.12604343627254e-08,
+                0.219857081770897,
+                0.975532114505768
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                21
+            ]
+        },
+        {
+            "name": "Bip001 L Finger2Nub",
+            "translation": [
+                0.0184704959392548,
+                -1.90734859017994e-08,
+                1.90734859017994e-08
+            ],
+            "rotation": [
+                -2.77555756156289e-17,
+                4.13590306276514e-25,
+                -1.49011611938477e-08,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "L_Finger3",
+            "translation": [
+                0.0373070053756237,
+                0.00465145101770759,
+                0.00928894057869911
+            ],
+            "rotation": [
+                0.00246525229886174,
+                0.026308374479413,
+                0.288881838321686,
+                0.957000017166138
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.999999940395355
+            ],
+            "children": [
+                23
+            ]
+        },
+        {
+            "name": "L_Finger31",
+            "translation": [
+                0.0157235134392977,
+                0.0,
+                3.55271359939116e-17
+            ],
+            "rotation": [
+                -7.41290850925225e-09,
+                -7.48291539842683e-10,
+                0.100433990359306,
+                0.994943737983704
+            ],
+            "scale": [
+                1.00000011920929,
+                1.0,
+                1.00000011920929
+            ],
+            "children": [
+                24
+            ]
+        },
+        {
+            "name": "Bip001 L Finger3Nub",
+            "translation": [
+                0.0174613762646914,
+                -1.90734859017994e-08,
+                0.0
+            ],
+            "rotation": [
+                -1.38777878078145e-17,
+                2.06795153138257e-25,
+                -1.49011611938477e-08,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.00000011920929
+            ]
+        },
+        {
+            "name": "L_Finger4",
+            "translation": [
+                0.0308033879846334,
+                0.00429080938920379,
+                0.0182335078716278
+            ],
+            "rotation": [
+                -0.0167926568537951,
+                0.0443304032087326,
+                0.359905987977982,
+                0.931783497333527
+            ],
+            "scale": [
+                1.0,
+                0.999999940395355,
+                1.0
+            ],
+            "children": [
+                26
+            ]
+        },
+        {
+            "name": "L_Finger41",
+            "translation": [
+                0.0105972671881318,
+                -3.55271359939116e-17,
+                0.0
+            ],
+            "rotation": [
+                8.15118361696676e-10,
+                1.53381201073444e-08,
+                0.190709948539734,
+                0.981646418571472
+            ],
+            "scale": [
+                1.00000011920929,
+                1.0,
+                1.00000011920929
+            ],
+            "children": [
+                27
+            ]
+        },
+        {
+            "name": "Bip001 L Finger4Nub",
+            "translation": [
+                0.0153517527505755,
+                -9.53674295089968e-09,
+                0.0
+            ],
+            "rotation": [
+                3.7252898543727e-09,
+                -2.77555723069065e-17,
+                -7.45058059692383e-09,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.00000011920929,
+                1.0
+            ]
+        },
+        {
+            "name": "R_Clavicle",
+            "translation": [
+                0.0552448257803917,
+                -0.0138804549351335,
+                -0.0216363426297903
+            ],
+            "rotation": [
+                -0.659529685974121,
+                0.132448226213455,
+                0.730268001556396,
+                -0.119107864797115
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.00000011920929
+            ],
+            "children": [
+                29
+            ]
+        },
+        {
+            "name": "R_UpperArm",
+            "translation": [
+                0.0464746244251728,
+                4.76837147544984e-09,
+                0.0
+            ],
+            "rotation": [
+                0.0634916350245476,
+                -0.630700707435608,
+                0.206864714622498,
+                0.745246589183807
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                30
+            ]
+        },
+        {
+            "name": "R_Forearm",
+            "translation": [
+                0.10086864233017,
+                -2.38418573772492e-09,
+                0.0
+            ],
+            "rotation": [
+                -8.57457871427082e-17,
+                -3.78692176618361e-18,
+                -0.199495300650597,
+                0.979898810386658
+            ],
+            "scale": [
+                1.0,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                31
+            ]
+        },
+        {
+            "name": "R_Hand",
+            "translation": [
+                0.0890940427780151,
+                9.53674295089968e-09,
+                9.53674295089968e-09
+            ],
+            "rotation": [
+                0.596697747707367,
+                0.0422943904995918,
+                -0.177341848611832,
+                0.781481206417084
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000011920929,
+                1.00000011920929
+            ],
+            "children": [
+                32,
+                35,
+                38,
+                41,
+                44
+            ]
+        },
+        {
+            "name": "R_Finger0",
+            "translation": [
+                0.011912364512682,
+                0.00729448301717639,
+                0.0208509247750044
+            ],
+            "rotation": [
+                0.891506016254425,
+                0.281582891941071,
+                -0.0697698965668678,
+                -0.347937136888504
+            ],
+            "scale": [
+                0.999999940395355,
+                0.999999940395355,
+                1.0
+            ],
+            "children": [
+                33
+            ]
+        },
+        {
+            "name": "R_Finger01",
+            "translation": [
+                0.0179238896816969,
+                4.76837147544984e-09,
+                0.0
+            ],
+            "rotation": [
+                3.2363590918294e-08,
+                2.37154260673833e-08,
+                0.249228224158287,
+                0.968444764614105
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                34
+            ]
+        },
+        {
+            "name": "Bip001 R Finger0Nub",
+            "translation": [
+                0.0172136109322309,
+                0.0,
+                -3.55271359939116e-17
+            ],
+            "rotation": [
+                1.49011594174908e-08,
+                -3.7252898543727e-09,
+                1.0,
+                -5.72120173775822e-18
+            ],
+            "scale": [
+                -1.00000011920929,
+                -1.00000011920929,
+                -1.00000011920929
+            ]
+        },
+        {
+            "name": "R_Finger1",
+            "translation": [
+                0.0380916483700275,
+                -0.00153919216245413,
+                0.0107857892289758
+            ],
+            "rotation": [
+                0.123855374753475,
+                0.105705201625824,
+                0.563220262527466,
+                0.810104429721832
+            ],
+            "scale": [
+                1.0,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                36
+            ]
+        },
+        {
+            "name": "R_Finger11",
+            "translation": [
+                0.0175882335752249,
+                1.77635679969558e-17,
+                -1.77635679969558e-17
+            ],
+            "rotation": [
+                1.84612005682538e-08,
+                -2.82340693047445e-08,
+                0.636338949203491,
+                0.771409571170807
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                37
+            ]
+        },
+        {
+            "name": "Bip001 R Finger1Nub",
+            "translation": [
+                0.016789898276329,
+                7.10542719878232e-17,
+                1.77635679969558e-17
+            ],
+            "rotation": [
+                1.86264514923096e-08,
+                -7.45058059692383e-09,
+                1.0,
+                7.75455420663311e-17
+            ],
+            "scale": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "name": "R_Finger2",
+            "translation": [
+                0.0385315790772438,
+                0.00102033617440611,
+                0.000713090877979994
+            ],
+            "rotation": [
+                0.157164469361305,
+                0.16397351026535,
+                0.70576947927475,
+                0.671045064926147
+            ],
+            "scale": [
+                1.0,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                39
+            ]
+        },
+        {
+            "name": "R_Finger21",
+            "translation": [
+                0.0201432406902313,
+                0.0,
+                -9.53674295089968e-09
+            ],
+            "rotation": [
+                7.55326645673904e-09,
+                1.90687874379591e-08,
+                0.48356831073761,
+                0.875306606292725
+            ],
+            "scale": [
+                0.999999940395355,
+                0.99999988079071,
+                1.0
+            ],
+            "children": [
+                40
+            ]
+        },
+        {
+            "name": "Bip001 R Finger2Nub",
+            "translation": [
+                0.0184705071151257,
+                1.90734859017994e-08,
+                -4.76837147544984e-09
+            ],
+            "rotation": [
+                -9.31322519104327e-10,
+                9.31322519104327e-10,
+                1.0,
+                -1.49011611938477e-08
+            ],
+            "scale": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "name": "R_Finger3",
+            "translation": [
+                0.0373069941997528,
+                0.00465143192559481,
+                -0.00928894989192486
+            ],
+            "rotation": [
+                0.178837582468987,
+                0.249623656272888,
+                0.76809960603714,
+                0.561896920204163
+            ],
+            "scale": [
+                0.99999988079071,
+                1.0,
+                1.0
+            ],
+            "children": [
+                42
+            ]
+        },
+        {
+            "name": "R_Finger31",
+            "translation": [
+                0.0157235134392977,
+                -1.90734859017994e-08,
+                2.38418573772492e-09
+            ],
+            "rotation": [
+                -5.17551406176153e-08,
+                -3.04898222225347e-08,
+                0.396796047687531,
+                0.917906820774078
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                43
+            ]
+        },
+        {
+            "name": "Bip001 R Finger3Nub",
+            "translation": [
+                0.0174613762646914,
+                1.90734859017994e-08,
+                -2.38418573772492e-09
+            ],
+            "rotation": [
+                -1.49011611938477e-08,
+                2.23517417907715e-08,
+                1.0,
+                1.49011611938477e-08
+            ],
+            "scale": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "name": "R_Finger4",
+            "translation": [
+                0.0308033935725689,
+                0.00429082848131657,
+                -0.0182335078716278
+            ],
+            "rotation": [
+                0.237640172243118,
+                0.259529531002045,
+                0.733702003955841,
+                0.58125114440918
+            ],
+            "scale": [
+                1.0,
+                1.00000011920929,
+                1.00000011920929
+            ],
+            "children": [
+                45
+            ]
+        },
+        {
+            "name": "R_Finger41",
+            "translation": [
+                0.0105972858145833,
+                0.0,
+                8.88178399847791e-18
+            ],
+            "rotation": [
+                -8.51425774328618e-09,
+                2.06665866642197e-08,
+                0.380921453237534,
+                0.924607396125793
+            ],
+            "scale": [
+                0.999999940395355,
+                0.999999940395355,
+                1.00000011920929
+            ],
+            "children": [
+                46
+            ]
+        },
+        {
+            "name": "Bip001 R Finger4Nub",
+            "translation": [
+                0.0153517434373498,
+                -3.55271359939116e-17,
+                -4.76837147544984e-09
+            ],
+            "rotation": [
+                -7.45058059692383e-09,
+                7.45058059692383e-09,
+                1.0,
+                -1.49011611938477e-08
+            ],
+            "scale": [
+                -1.0,
+                -1.0,
+                -0.999999940395355
+            ]
+        },
+        {
+            "name": "L_Thigh",
+            "translation": [
+                -3.81469718035987e-08,
+                6.43730118099484e-08,
+                0.0378657765686512
+            ],
+            "rotation": [
+                0.0210693161934614,
+                0.994081437587738,
+                0.0890662595629692,
+                0.0585271418094635
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.00000011920929
+            ],
+            "children": [
+                48
+            ]
+        },
+        {
+            "name": "L_Calf",
+            "translation": [
+                0.128852844238281,
+                4.44089199923895e-18,
+                0.0
+            ],
+            "rotation": [
+                -2.89806915209804e-19,
+                -6.93283894182334e-18,
+                -0.0417655818164349,
+                0.999127447605133
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000011920929,
+                1.00000011920929
+            ],
+            "children": [
+                49
+            ]
+        },
+        {
+            "name": "L_Foot",
+            "translation": [
+                0.132764473557472,
+                0.0,
+                2.38418573772492e-09
+            ],
+            "rotation": [
+                -0.0862969234585762,
+                0.00744868349283934,
+                0.077896773815155,
+                0.993191540241241
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000023841858,
+                1.00000011920929
+            ],
+            "children": [
+                50
+            ]
+        },
+        {
+            "name": "L_Toe0",
+            "translation": [
+                0.0353316180408001,
+                0.0561812482774258,
+                -2.38418573772492e-09
+            ],
+            "rotation": [
+                2.3953910854857e-08,
+                2.81122662926236e-08,
+                0.70710688829422,
+                0.707106709480286
+            ],
+            "scale": [
+                1.0,
+                0.999999940395355,
+                1.0
+            ],
+            "children": [
+                51
+            ]
+        },
+        {
+            "name": "Bip001 L Toe0Nub",
+            "translation": [
+                0.017800722271204,
+                -1.49011608607807e-10,
+                -2.38418573772492e-09
+            ],
+            "rotation": [
+                2.87866441794904e-09,
+                -3.84400937766502e-19,
+                1.0,
+                5.82077233635125e-11
+            ],
+            "scale": [
+                -1.0,
+                -0.999999940395355,
+                -1.0
+            ]
+        },
+        {
+            "name": "R_Thigh",
+            "translation": [
+                3.81469718035987e-08,
+                -3.81469718035987e-08,
+                -0.0378657802939415
+            ],
+            "rotation": [
+                0.143310546875,
+                0.977475762367249,
+                -0.0920631363987923,
+                0.124609775841236
+            ],
+            "scale": [
+                1.0,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                53
+            ]
+        },
+        {
+            "name": "R_Calf",
+            "translation": [
+                0.128852874040604,
+                -4.76837147544984e-09,
+                9.53674295089968e-09
+            ],
+            "rotation": [
+                6.06445480859782e-18,
+                1.79726908363378e-17,
+                -0.141014456748962,
+                0.990007519721985
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000011920929,
+                1.00000011920929
+            ],
+            "children": [
+                54
+            ]
+        },
+        {
+            "name": "R_Foot",
+            "translation": [
+                0.132764503359795,
+                3.57627860658738e-09,
+                -1.77635679969558e-17
+            ],
+            "rotation": [
+                0.0263977982103825,
+                0.0875616297125816,
+                0.0466842912137508,
+                0.994714379310608
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.999999940395355
+            ],
+            "children": [
+                55
+            ]
+        },
+        {
+            "name": "R_Toe0",
+            "translation": [
+                0.0353316217660904,
+                0.0561812594532967,
+                4.76837147544984e-09
+            ],
+            "rotation": [
+                3.56552093405682e-10,
+                1.31311182371974e-07,
+                0.707106709480286,
+                0.707106828689575
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                56
+            ]
+        },
+        {
+            "name": "Bip001 R Toe0Nub",
+            "translation": [
+                0.0178007166832685,
+                7.45058043039037e-11,
+                -9.53674295089968e-09
+            ],
+            "rotation": [
+                -2.71050543121376e-20,
+                3.01388025647498e-09,
+                8.16913880420335e-29,
+                1.0
+            ],
+            "scale": [
+                1.00000011920929,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Back01",
+            "translation": [
+                0.0391720198094845,
+                -0.0425511859357357,
+                -0.00141981593333185
+            ],
+            "rotation": [
+                -0.101375035941601,
+                0.987906098365784,
+                -0.111905373632908,
+                -0.0352397635579109
+            ],
+            "scale": [
+                59.9981651306152,
+                59.998161315918,
+                59.9981498718262
+            ],
+            "children": [
+                58
+            ]
+        },
+        {
+            "name": "Back02",
+            "translation": [
+                0.00164048245642334,
+                -7.45058015283462e-10,
+                1.86264510759759e-11
+            ],
+            "rotation": [
+                -0.00183634541463107,
+                -0.0543483830988407,
+                0.136494621634483,
+                0.989147186279297
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                59
+            ]
+        },
+        {
+            "name": "Back03",
+            "translation": [
+                0.00170056743081659,
+                -7.45058015283462e-10,
+                6.51925805006393e-11
+            ],
+            "rotation": [
+                -0.000306961825117469,
+                -0.0274590868502855,
+                0.0294212568551302,
+                0.999189794063568
+            ],
+            "scale": [
+                0.999999761581421,
+                0.999999761581421,
+                1.0
+            ],
+            "children": [
+                60
+            ]
+        },
+        {
+            "name": "Back_End",
+            "translation": [
+                0.00161161960568279,
+                1.49011608607807e-10,
+                7.45058043039037e-11
+            ],
+            "rotation": [
+                2.06637174038349e-09,
+                -1.87702501111553e-17,
+                4.65661287307739e-10,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Left01",
+            "translation": [
+                0.0435532741248608,
+                0.000427544116973877,
+                0.0559798814356327
+            ],
+            "rotation": [
+                0.996178150177002,
+                -0.0294445119798183,
+                -0.0813147500157356,
+                0.0122465146705508
+            ],
+            "scale": [
+                0.999999940395355,
+                0.999999940395355,
+                1.0
+            ],
+            "children": [
+                62
+            ]
+        },
+        {
+            "name": "Left02",
+            "translation": [
+                -0.0878790244460106,
+                -3.81469718035987e-08,
+                0.0
+            ],
+            "rotation": [
+                -0.00436072563752532,
+                0.086272232234478,
+                0.0255487803369761,
+                0.995934426784515
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                63
+            ]
+        },
+        {
+            "name": "Left03",
+            "translation": [
+                -0.113908752799034,
+                -0.000668090593535453,
+                -0.000140390387969092
+            ],
+            "rotation": [
+                0.0159708056598902,
+                0.0120174717158079,
+                0.0354408212006092,
+                0.999171912670135
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                64
+            ]
+        },
+        {
+            "name": "Left_End",
+            "translation": [
+                -0.103294506669044,
+                1.60932543735726e-07,
+                -6.67572024326546e-08
+            ],
+            "rotation": [
+                -0.00473094265908003,
+                -0.0179806798696518,
+                0.00492315087467432,
+                0.999815046787262
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "Right01",
+            "translation": [
+                0.043553426861763,
+                0.00042722700163722,
+                -0.0587553791701794
+            ],
+            "rotation": [
+                0.0339918099343777,
+                0.987557053565979,
+                -0.0765830129384995,
+                0.133081406354904
+            ],
+            "scale": [
+                0.999999940395355,
+                1.0,
+                1.0
+            ],
+            "children": [
+                66
+            ]
+        },
+        {
+            "name": "Right02",
+            "translation": [
+                0.0878790467977524,
+                1.42455093055105e-07,
+                1.90734859017994e-08
+            ],
+            "rotation": [
+                -0.00396822579205036,
+                -0.0031659584492445,
+                0.0209811814129353,
+                0.999767005443573
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                67
+            ]
+        },
+        {
+            "name": "Right03",
+            "translation": [
+                0.113910794258118,
+                5.84125494640375e-08,
+                -1.71661369563481e-07
+            ],
+            "rotation": [
+                0.0160944070667028,
+                0.0422234572470188,
+                -0.00152852828614414,
+                0.998977363109589
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                68
+            ]
+        },
+        {
+            "name": "Right_End",
+            "translation": [
+                0.103294529020786,
+                -2.38418579101563e-07,
+                1.90734851912566e-07
+            ],
+            "rotation": [
+                -0.0047319452278316,
+                -0.0179806221276522,
+                0.00492307357490063,
+                0.999815046787262
+            ],
+            "scale": [
+                0.999999940395355,
+                0.999999940395355,
+                1.0
+            ]
+        },
+        {
+            "name": "Front",
+            "translation": [
+                0.046127662062645,
+                0.031624510884285,
+                -0.00141998054459691
+            ],
+            "rotation": [
+                0.123163267970085,
+                0.989227950572968,
+                -0.00977655407041311,
+                0.0785069763660431
+            ],
+            "scale": [
+                1.0,
+                1.00000011920929,
+                1.0
+            ],
+            "children": [
+                70,
+                71,
+                75
+            ]
+        },
+        {
+            "name": "Front_End",
+            "translation": [
+                0.0763860493898392,
+                4.76837147544984e-09,
+                -4.44089199923895e-18
+            ],
+            "rotation": [
+                -6.33299350738525e-07,
+                3.72529518344322e-09,
+                -7.45057837647778e-09,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "name": "L_Front01",
+            "translation": [
+                0.0652793124318123,
+                -0.00367149338126183,
+                -0.0274007264524698
+            ],
+            "rotation": [
+                -0.0110725956037641,
+                0.727542400360107,
+                -0.681608200073242,
+                -0.0772636905312538
+            ],
+            "scale": [
+                0.999999940395355,
+                1.00000011920929,
+                1.00000011920929
+            ],
+            "children": [
+                72
+            ]
+        },
+        {
+            "name": "L_Front02",
+            "translation": [
+                -0.110998339951038,
+                -1.43051144263495e-08,
+                1.90734859017994e-08
+            ],
+            "rotation": [
+                -0.00536821782588959,
+                0.0328287109732628,
+                0.0104670403525233,
+                0.999391794204712
+            ],
+            "scale": [
+                1.00000023841858,
+                1.00000023841858,
+                1.0
+            ],
+            "children": [
+                73
+            ]
+        },
+        {
+            "name": "L_Front03",
+            "translation": [
+                -0.0912377685308456,
+                5.24520871181267e-08,
+                -3.33786012163273e-08
+            ],
+            "rotation": [
+                -0.00179269711952657,
+                0.00125558825675398,
+                0.00967489648610353,
+                0.99995082616806
+            ],
+            "scale": [
+                0.999999701976776,
+                0.999999701976776,
+                1.0
+            ],
+            "children": [
+                74
+            ]
+        },
+        {
+            "name": "L_Front_End",
+            "translation": [
+                -0.067400261759758,
+                5.43594353530352e-07,
+                -2.67028809730618e-07
+            ],
+            "rotation": [
+                0.00165711482986808,
+                -0.0298791527748108,
+                0.0095194773748517,
+                0.999506831169128
+            ],
+            "scale": [
+                1.00000011920929,
+                1.00000011920929,
+                1.0
+            ]
+        },
+        {
+            "name": "R_Front01",
+            "translation": [
+                0.0655025243759155,
+                -0.00367141724564135,
+                0.0239924620836973
+            ],
+            "rotation": [
+                0.67797315120697,
+                -0.0943352282047272,
+                0.0736038386821747,
+                0.725283265113831
+            ],
+            "scale": [
+                1.00000011920929,
+                0.999999940395355,
+                1.0
+            ],
+            "children": [
+                76
+            ]
+        },
+        {
+            "name": "R_Front02",
+            "translation": [
+                0.110998332500458,
+                5.72204577053981e-08,
+                -8.88178399847791e-18
+            ],
+            "rotation": [
+                0.000247935473453254,
+                -0.0567183159291744,
+                -0.113539017736912,
+                0.991913259029388
+            ],
+            "scale": [
+                0.999999940395355,
+                1.00000023841858,
+                1.0
+            ],
+            "children": [
+                77
+            ]
+        },
+        {
+            "name": "R_Front03",
+            "translation": [
+                0.0912377685308456,
+                3.81469718035987e-08,
+                -3.33786012163273e-08
+            ],
+            "rotation": [
+                -0.00110660365317017,
+                -0.020489651709795,
+                -0.0522263199090958,
+                0.998424410820007
+            ],
+            "scale": [
+                0.999999940395355,
+                1.0,
+                0.99999988079071
+            ],
+            "children": [
+                78
+            ]
+        },
+        {
+            "name": "R_Front_End",
+            "translation": [
+                0.0674002468585968,
+                5.34057619461237e-07,
+                -2.67028809730618e-07
+            ],
+            "rotation": [
+                0.0298791397362947,
+                -0.00165685941465199,
+                0.999506831169128,
+                0.00952026061713696
+            ],
+            "scale": [
+                1.0,
+                0.999999940395355,
+                0.999999940395355
+            ]
+        },
+        {
+            "name": "Dummy001",
+            "translation": [
+                -0.0469089411199093,
+                -0.0746919959783554,
+                -0.0372998043894768
+            ],
+            "rotation": [
+                -0.524274468421936,
+                -0.114718310534954,
+                0.786773145198822,
+                -0.304899901151657
+            ],
+            "scale": [
+                1.00000011920929,
+                0.999999940395355,
+                1.00000011920929
+            ]
+        }
+    ]
+}

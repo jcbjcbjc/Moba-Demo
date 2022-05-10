@@ -1,0 +1,25 @@
+{
+  "__version__": "1.0.1",
+  "layer": [
+    {
+      "name": "canvas_18",
+      "value": 262144
+    },
+    {
+      "name": "canvas_19",
+      "value": 524288
+    },
+    {
+      "name": "battleUI",
+      "value": 131072
+    }
+  ],
+  "general": {
+    "designResolution": {
+      "fitHeight": false,
+      "width": 960,
+      "height": 640
+    }
+  },
+  "custom_joint_texture_layouts": []
+}

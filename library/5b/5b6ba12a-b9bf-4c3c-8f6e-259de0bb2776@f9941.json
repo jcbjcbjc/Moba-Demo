@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TY_RedDot01",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 2,
+      "width": 34,
+      "height": 34
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 38,
+      "height": 38
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5b6ba12a-b9bf-4c3c-8f6e-259de0bb2776@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "moveBack",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 158,
+      "height": 158
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 158,
+      "height": 158
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "67bf4e36-d530-4155-8abf-5bc77eeef2e1@6c48a",
+    "packable": true
+  }
+}

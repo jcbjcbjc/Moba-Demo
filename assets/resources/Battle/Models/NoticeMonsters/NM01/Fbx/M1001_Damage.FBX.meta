@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c23c7056-d60b-4195-ac46-c7e0a190b853",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "5de32": {
+      "importer": "gltf-animation",
+      "uuid": "c23c7056-d60b-4195-ac46-c7e0a190b853@5de32",
+      "displayName": "",
+      "id": "5de32",
+      "name": "M1001_Damage.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.25
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "cb488": {
+      "importer": "gltf-scene",
+      "uuid": "c23c7056-d60b-4195-ac46-c7e0a190b853@cb488",
+      "displayName": "",
+      "id": "cb488",
+      "name": "M1001_Damage.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "M1001_Damage",
+        "duration": 1.25,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "M1001_Damage",
+            "from": 0,
+            "to": 1.25,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "c23c7056-d60b-4195-ac46-c7e0a190b853@cb488",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c23c7056-d60b-4195-ac46-c7e0a190b853@cb488"
+      ]
+    }
+  }
+}

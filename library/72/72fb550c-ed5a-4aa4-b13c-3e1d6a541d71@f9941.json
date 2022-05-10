@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhansh",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 71,
+      "height": 71
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 71,
+      "height": 71
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "72fb550c-ed5a-4aa4-b13c-3e1d6a541d71@6c48a",
+    "packable": true
+  }
+}

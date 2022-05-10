@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Equipment_Unlock",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 44,
+      "height": 44
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 44,
+      "height": 44
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "f3916114-1377-4e4b-b8d2-6732c65c365a@6c48a",
+    "packable": true
+  }
+}

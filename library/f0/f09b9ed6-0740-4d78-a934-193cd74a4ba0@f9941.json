@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gjs",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 71,
+      "height": 71
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 71,
+      "height": 71
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "f09b9ed6-0740-4d78-a934-193cd74a4ba0@6c48a",
+    "packable": true
+  }
+}

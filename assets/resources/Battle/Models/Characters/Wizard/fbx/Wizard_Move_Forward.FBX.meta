@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f14b41a5-be96-4e78-96ac-994cfd2cba5e",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "2bc6c": {
+      "importer": "gltf-animation",
+      "uuid": "f14b41a5-be96-4e78-96ac-994cfd2cba5e@2bc6c",
+      "displayName": "",
+      "id": "2bc6c",
+      "name": "Move.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "21ef0": {
+      "importer": "gltf-scene",
+      "uuid": "f14b41a5-be96-4e78-96ac-994cfd2cba5e@21ef0",
+      "displayName": "",
+      "id": "21ef0",
+      "name": "Wizard_Move_Forward.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Wizard_Move_Forward",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Move",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "f14b41a5-be96-4e78-96ac-994cfd2cba5e@21ef0",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "f14b41a5-be96-4e78-96ac-994cfd2cba5e@21ef0"
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TY_FrameGX01",
+    "atlas": "",
+    "rect": {
+      "x": 4,
+      "y": 2,
+      "width": 52,
+      "height": 56
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 60,
+      "height": 60
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ae7b2f94-4848-419a-83b7-713df71f3a26@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7095e9f1-aa35-4e81-9bcb-75452036d592",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "66546": {
+      "importer": "gltf-animation",
+      "uuid": "7095e9f1-aa35-4e81-9bcb-75452036d592@66546",
+      "displayName": "",
+      "id": "66546",
+      "name": "Warrior_SkillC.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.833333492279053
+        },
+        "events": [
+          {
+            "frame": 0.6333333333333333,
+            "func": "PlayEffect",
+            "params": [
+              "EFX_Warrior_SkillC_prefab"
+            ],
+            "x": 30.91724137931034
+          }
+        ]
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "1af42": {
+      "importer": "gltf-mesh",
+      "uuid": "7095e9f1-aa35-4e81-9bcb-75452036d592@1af42",
+      "displayName": "",
+      "id": "1af42",
+      "name": "Bone002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "7095e9f1-aa35-4e81-9bcb-75452036d592@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e44d4": {
+      "importer": "gltf-scene",
+      "uuid": "7095e9f1-aa35-4e81-9bcb-75452036d592@e44d4",
+      "displayName": "",
+      "id": "e44d4",
+      "name": "Warrior_SkillC.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Warrior_SkillC",
+        "duration": 4.833333492279053,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Warrior_SkillC",
+            "from": 0,
+            "to": 4.833333492279053,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "7095e9f1-aa35-4e81-9bcb-75452036d592@e44d4",
+    "assetFinder": {
+      "meshes": [
+        "7095e9f1-aa35-4e81-9bcb-75452036d592@1af42"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7095e9f1-aa35-4e81-9bcb-75452036d592@ea6e2"
+      ],
+      "scenes": [
+        "7095e9f1-aa35-4e81-9bcb-75452036d592@e44d4"
+      ]
+    }
+  }
+}

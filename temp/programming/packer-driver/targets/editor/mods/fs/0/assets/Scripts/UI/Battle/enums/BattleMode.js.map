@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///D:/LearningFrameWork/MobaYan/Moba/Src/Client/assets/Scripts/UI/Battle/enums/BattleMode.ts"],"names":["BattleMode"],"mappings":";;;;;;;;;;;;;;;;iBAGYA,U;AAAAA,QAAAA,U,CAAAA,U;AAAAA,QAAAA,U,CAAAA,U;SAAAA,U,0BAAAA,U","sourcesContent":["/**\r\n * 对战模式\r\n */\r\nexport enum BattleMode{\r\n   Battle=0,   //对局\r\n   Live,    //观看直播\r\n}"]}

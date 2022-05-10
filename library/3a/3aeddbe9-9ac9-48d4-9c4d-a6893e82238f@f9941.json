@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skill0_Press",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 115,
+      "height": 115
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 115,
+      "height": 115
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "3aeddbe9-9ac9-48d4-9c4d-a6893e82238f@6c48a",
+    "packable": true
+  }
+}

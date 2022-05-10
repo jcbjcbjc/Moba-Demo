@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e6038ca0-bdc3-4983-a333-2e89e94aec64",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "8b98b": {
+      "importer": "gltf-animation",
+      "uuid": "e6038ca0-bdc3-4983-a333-2e89e94aec64@8b98b",
+      "displayName": "",
+      "id": "8b98b",
+      "name": "Archer_Move_Back.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.1666667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "e1a13": {
+      "importer": "gltf-scene",
+      "uuid": "e6038ca0-bdc3-4983-a333-2e89e94aec64@e1a13",
+      "displayName": "",
+      "id": "e1a13",
+      "name": "Archer_Move_Back.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Archer_Move_Back",
+        "duration": 3.1666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Archer_Move_Back",
+            "from": 0,
+            "to": 3.1666667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "e6038ca0-bdc3-4983-a333-2e89e94aec64@e1a13",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e6038ca0-bdc3-4983-a333-2e89e94aec64@e1a13"
+      ]
+    }
+  }
+}

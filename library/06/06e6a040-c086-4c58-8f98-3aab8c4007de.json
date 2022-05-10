@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "ShopDefine",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "{\r\n  \"1\": {\r\n    \"ID\": 1,\r\n    \"Name\": \"竞技道具\",\r\n    \"Description\": \"竞技道具\",\r\n    \"Status\": 1\r\n  },\r\n  \"2\": {\r\n    \"ID\": 2,\r\n    \"Name\": \"宝石\",\r\n    \"Description\": \"宝石\",\r\n    \"Status\": 1\r\n  }\r\n}"
+}

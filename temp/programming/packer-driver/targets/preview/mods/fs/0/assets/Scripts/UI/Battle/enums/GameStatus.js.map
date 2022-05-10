@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///D:/LearningFrameWork/MobaYan/Moba/Src/Client/assets/Scripts/UI/Battle/enums/GameStatus.ts"],"names":["GameStatus"],"mappings":";;;;;;;;;;;;;;;;iBAGYA,U;AAAAA,QAAAA,U,CAAAA,U;AAAAA,QAAAA,U,CAAAA,U;SAAAA,U,0BAAAA,U","sourcesContent":["/**\r\n * 游戏状态\r\n */\r\nexport enum GameStatus{\r\n    None=0,\r\n    GameIn, //游戏中\r\n    \r\n}"]}

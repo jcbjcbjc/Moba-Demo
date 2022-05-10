@@ -1,0 +1,178 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "13f70ceb-052a-458e-bd7f-b16cfad93519",
+  "files": [],
+  "subMetas": {
+    "24322": {
+      "importer": "gltf-scene",
+      "uuid": "13f70ceb-052a-458e-bd7f-b16cfad93519@24322",
+      "displayName": "",
+      "id": "24322",
+      "name": "Wizard.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "30732": {
+      "importer": "gltf-skeleton",
+      "uuid": "13f70ceb-052a-458e-bd7f-b16cfad93519@30732",
+      "displayName": "",
+      "id": "30732",
+      "name": "UnnamedSkeleton-0.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 1
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af0ca": {
+      "importer": "gltf-mesh",
+      "uuid": "13f70ceb-052a-458e-bd7f-b16cfad93519@af0ca",
+      "displayName": "",
+      "id": "af0ca",
+      "name": "element3ds.com-wofangyuanchengxiaobing_weapon.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5734c": {
+      "importer": "gltf-mesh",
+      "uuid": "13f70ceb-052a-458e-bd7f-b16cfad93519@5734c",
+      "displayName": "",
+      "id": "5734c",
+      "name": "element3ds.com-wofangyuanchengxiaobing.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1394": {
+      "importer": "gltf-skeleton",
+      "uuid": "13f70ceb-052a-458e-bd7f-b16cfad93519@f1394",
+      "displayName": "",
+      "id": "f1394",
+      "name": "UnnamedSkeleton-1.skeleton",
+      "userData": {
+        "gltfIndex": 1,
+        "jointsLength": 56
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "04ece": {
+      "importer": "gltf-embeded-image",
+      "uuid": "13f70ceb-052a-458e-bd7f-b16cfad93519@04ece",
+      "displayName": "",
+      "id": "04ece",
+      "name": "wofangyuanchengxiaobing.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a9c8": {
+      "importer": "texture",
+      "uuid": "13f70ceb-052a-458e-bd7f-b16cfad93519@7a9c8",
+      "displayName": "",
+      "id": "7a9c8",
+      "name": "wofangyuanchengxiaobing.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "13f70ceb-052a-458e-bd7f-b16cfad93519@04ece"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf4f0": {
+      "importer": "gltf-material",
+      "uuid": "13f70ceb-052a-458e-bd7f-b16cfad93519@cf4f0",
+      "displayName": "",
+      "id": "cf4f0",
+      "name": "Element3dsMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "wofangyuanchengxiaobing",
+        "uri": "13f70ceb-052a-458e-bd7f-b16cfad93519@04ece"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "redirect": "13f70ceb-052a-458e-bd7f-b16cfad93519@24322",
+    "assetFinder": {
+      "meshes": [
+        "13f70ceb-052a-458e-bd7f-b16cfad93519@af0ca",
+        "13f70ceb-052a-458e-bd7f-b16cfad93519@5734c"
+      ],
+      "skeletons": [
+        "13f70ceb-052a-458e-bd7f-b16cfad93519@30732",
+        "13f70ceb-052a-458e-bd7f-b16cfad93519@f1394"
+      ],
+      "textures": [
+        "13f70ceb-052a-458e-bd7f-b16cfad93519@7a9c8"
+      ],
+      "materials": [
+        "13f70ceb-052a-458e-bd7f-b16cfad93519@cf4f0"
+      ],
+      "scenes": [
+        "13f70ceb-052a-458e-bd7f-b16cfad93519@24322"
+      ]
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5b78f436-2c3b-4a47-8c17-7e03fac882cc",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "67398": {
+      "importer": "gltf-scene",
+      "uuid": "5b78f436-2c3b-4a47-8c17-7e03fac882cc@67398",
+      "displayName": "",
+      "id": "67398",
+      "name": "M1002_SkillA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "048c3": {
+      "importer": "gltf-mesh",
+      "uuid": "5b78f436-2c3b-4a47-8c17-7e03fac882cc@048c3",
+      "displayName": "",
+      "id": "048c3",
+      "name": "Monolith Monsters.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "07a8c": {
+      "importer": "gltf-animation",
+      "uuid": "5b78f436-2c3b-4a47-8c17-7e03fac882cc@07a8c",
+      "displayName": "",
+      "id": "07a8c",
+      "name": "Monolith Monsters+技能1.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3333333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "5b78f436-2c3b-4a47-8c17-7e03fac882cc@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 35
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "32d96": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5b78f436-2c3b-4a47-8c17-7e03fac882cc@32d96",
+      "displayName": "",
+      "id": "32d96",
+      "name": "Map #0.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab932": {
+      "importer": "texture",
+      "uuid": "5b78f436-2c3b-4a47-8c17-7e03fac882cc@ab932",
+      "displayName": "",
+      "id": "ab932",
+      "name": "Map #0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5b78f436-2c3b-4a47-8c17-7e03fac882cc@32d96"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ff75": {
+      "importer": "gltf-material",
+      "uuid": "5b78f436-2c3b-4a47-8c17-7e03fac882cc@7ff75",
+      "displayName": "",
+      "id": "7ff75",
+      "name": "Material #27.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #0",
+        "uri": "5b78f436-2c3b-4a47-8c17-7e03fac882cc@32d96"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Monolith Monsters+技能1",
+        "duration": 1.3333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Monolith Monsters+技能1",
+            "from": 0,
+            "to": 1.3333333730697632,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "5b78f436-2c3b-4a47-8c17-7e03fac882cc@67398",
+    "assetFinder": {
+      "meshes": [
+        "5b78f436-2c3b-4a47-8c17-7e03fac882cc@048c3"
+      ],
+      "skeletons": [
+        "5b78f436-2c3b-4a47-8c17-7e03fac882cc@438fe"
+      ],
+      "textures": [
+        "5b78f436-2c3b-4a47-8c17-7e03fac882cc@ab932"
+      ],
+      "materials": [
+        "5b78f436-2c3b-4a47-8c17-7e03fac882cc@7ff75"
+      ],
+      "scenes": [
+        "5b78f436-2c3b-4a47-8c17-7e03fac882cc@67398"
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lefttop",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 206,
+      "height": 116
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 206,
+      "height": 116
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "637d8c39-2a20-4d31-ad85-c6cf636c3ffc@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TY_YellowButton01",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 3,
+      "width": 286,
+      "height": 85
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 290,
+      "height": 90
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b3f7290b-53fb-4abc-b0f9-42ce85d2a4ec@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "00b4d001-4c6f-460b-99d4-f862217c8c1a",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "060e0": {
+      "importer": "gltf-animation",
+      "uuid": "00b4d001-4c6f-460b-99d4-f862217c8c1a@060e0",
+      "displayName": "",
+      "id": "060e0",
+      "name": "M1001_SkillA.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.5833332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "521a6": {
+      "importer": "gltf-scene",
+      "uuid": "00b4d001-4c6f-460b-99d4-f862217c8c1a@521a6",
+      "displayName": "",
+      "id": "521a6",
+      "name": "M1001_SkillA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "M1001_SkillA",
+        "duration": 2.5833332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "M1001_SkillA",
+            "from": 0,
+            "to": 2.5833332538604736,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "00b4d001-4c6f-460b-99d4-f862217c8c1a@521a6",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "00b4d001-4c6f-460b-99d4-f862217c8c1a@521a6"
+      ]
+    }
+  }
+}

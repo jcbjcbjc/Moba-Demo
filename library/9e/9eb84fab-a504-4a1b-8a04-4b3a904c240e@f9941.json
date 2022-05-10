@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "leftmid",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 206,
+      "height": 464
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 206,
+      "height": 464
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9eb84fab-a504-4a1b-8a04-4b3a904c240e@6c48a",
+    "packable": true
+  }
+}

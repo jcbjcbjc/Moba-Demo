@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fash",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 71,
+      "height": 71
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 71,
+      "height": 71
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "11753567-108a-4a7d-9ddf-ec8bba671083@6c48a",
+    "packable": true
+  }
+}

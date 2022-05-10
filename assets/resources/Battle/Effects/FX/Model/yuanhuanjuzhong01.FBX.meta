@@ -1,0 +1,61 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "25e545a9-e71b-4532-975e-f02c39b38731",
+  "files": [],
+  "subMetas": {
+    "83405": {
+      "importer": "gltf-scene",
+      "uuid": "25e545a9-e71b-4532-975e-f02c39b38731@83405",
+      "displayName": "",
+      "id": "83405",
+      "name": "yuanhuanjuzhong01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6160": {
+      "importer": "gltf-mesh",
+      "uuid": "25e545a9-e71b-4532-975e-f02c39b38731@c6160",
+      "displayName": "",
+      "id": "c6160",
+      "name": "Cylinder001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "25e545a9-e71b-4532-975e-f02c39b38731@83405",
+    "assetFinder": {
+      "meshes": [
+        "25e545a9-e71b-4532-975e-f02c39b38731@c6160"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "25e545a9-e71b-4532-975e-f02c39b38731@83405"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

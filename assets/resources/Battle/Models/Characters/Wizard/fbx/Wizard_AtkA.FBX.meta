@@ -1,0 +1,88 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8e2ffbc4-34b9-4c03-a317-e02c0c881e79",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "242eb": {
+      "importer": "gltf-animation",
+      "uuid": "8e2ffbc4-34b9-4c03-a317-e02c0c881e79@242eb",
+      "displayName": "",
+      "id": "242eb",
+      "name": "Wizard_AtkA.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": [
+          {
+            "frame": 0.16666666666666666,
+            "func": "PlayEffect",
+            "params": [
+              "EFX_Wizard_AtkA_prefab"
+            ],
+            "x": 77.33333333333333
+          }
+        ]
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ba84c": {
+      "importer": "gltf-scene",
+      "uuid": "8e2ffbc4-34b9-4c03-a317-e02c0c881e79@ba84c",
+      "displayName": "",
+      "id": "ba84c",
+      "name": "Wizard_AtkA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Wizard_AtkA",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Wizard_AtkA",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "8e2ffbc4-34b9-4c03-a317-e02c0c881e79@ba84c",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "8e2ffbc4-34b9-4c03-a317-e02c0c881e79@ba84c"
+      ]
+    }
+  }
+}

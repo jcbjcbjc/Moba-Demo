@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TY_Line06",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 288,
+      "height": 49
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 288,
+      "height": 49
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "82cb11f4-6afd-4c69-9a3a-40aaf63585f5@6c48a",
+    "packable": true
+  }
+}

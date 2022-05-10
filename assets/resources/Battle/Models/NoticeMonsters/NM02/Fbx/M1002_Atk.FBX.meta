@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "048c3": {
+      "importer": "gltf-mesh",
+      "uuid": "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@048c3",
+      "displayName": "",
+      "id": "048c3",
+      "name": "Monolith Monsters.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "68a67": {
+      "importer": "gltf-animation",
+      "uuid": "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@68a67",
+      "displayName": "",
+      "id": "68a67",
+      "name": "Monolith Monsters+二连击.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.1666667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 35
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "32d96": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@32d96",
+      "displayName": "",
+      "id": "32d96",
+      "name": "Map #0.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab932": {
+      "importer": "texture",
+      "uuid": "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@ab932",
+      "displayName": "",
+      "id": "ab932",
+      "name": "Map #0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@32d96"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ff75": {
+      "importer": "gltf-material",
+      "uuid": "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@7ff75",
+      "displayName": "",
+      "id": "7ff75",
+      "name": "Material #27.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d0ec": {
+      "importer": "gltf-scene",
+      "uuid": "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@7d0ec",
+      "displayName": "",
+      "id": "7d0ec",
+      "name": "M1002_Atk.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #0",
+        "uri": "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@32d96"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Monolith Monsters+二连击",
+        "duration": 2.1666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Monolith Monsters+二连击",
+            "from": 0,
+            "to": 2.1666667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@7d0ec",
+    "assetFinder": {
+      "meshes": [
+        "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@048c3"
+      ],
+      "skeletons": [
+        "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@438fe"
+      ],
+      "textures": [
+        "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@ab932"
+      ],
+      "materials": [
+        "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@7ff75"
+      ],
+      "scenes": [
+        "1b7c70af-fd86-4fa1-93ee-a06fe01fc7b5@7d0ec"
+      ]
+    }
+  }
+}

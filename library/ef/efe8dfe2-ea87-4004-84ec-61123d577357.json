@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "GameConfig",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "{\r\n  \"BagMaxGridCount\": 30,\r\n  \"MaxTranCount\": 9,\r\n  \"MaxMatchTime\": 30,\r\n  \"SoldierWaveCreateCount\": 2,\r\n  \"SoldierWaveWaitTime\": 60,\r\n  \"LiveIntervalForwardTime\": 1,\r\n  \"SoldierMaxCount\": 4\r\n}"
+}

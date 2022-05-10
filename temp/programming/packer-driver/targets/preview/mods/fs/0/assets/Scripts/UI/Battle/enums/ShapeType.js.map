@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///D:/LearningFrameWork/MobaYan/Moba/Src/Client/assets/Scripts/UI/Battle/enums/ShapeType.ts"],"names":["ShapeType"],"mappings":";;;;;;;;;;;;;;;;iBAGYA,S;AAAAA,QAAAA,S,CAAAA,S;AAAAA,QAAAA,S,CAAAA,S;SAAAA,S,yBAAAA,S","sourcesContent":["/**\r\n * 形状类型\r\n */\r\nexport enum ShapeType{\r\n    circle=0,   //圆\r\n    rect  //矩形\r\n}"]}

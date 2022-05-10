@@ -1,0 +1,158 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 99,
+      "max": [
+        0.00013720092829316854,
+        0.46350857615470886,
+        0.4614352583885193
+      ],
+      "min": [
+        -2.8198862075805664,
+        -0.04379132017493248,
+        -0.4499020576477051
+      ],
+      "name": "Plane001/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 99,
+      "name": "Plane001/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 99,
+      "name": "Plane001/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 32,
+      "componentType": 5126,
+      "count": 99,
+      "name": "Plane001/COLOR_0",
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 360,
+      "name": "Plane001/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4752,
+      "byteStride": 48,
+      "name": "Plane001",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1440,
+      "byteOffset": 4752
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6192,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 30.0
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\HUOYINGRENZHE\\huoyingrenzhe\\Assets\\huoyingrenzhe\\【bbs.cgwell.com】火影忍者手游全套素材集\\特效\\trl-193 副本.png",
+          "relativeFileName": "D:\\HUOYINGRENZHE\\huoyingrenzhe\\Assets\\huoyingrenzhe\\【bbs.cgwell.com】火影忍者手游全套素材集\\特效\\trl-193 副本.png"
+        }
+      },
+      "name": "贴图 #5",
+      "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "name": "Material #29",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.7071067690849304
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Plane001",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 3,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Plane001",
+      "rotation": [
+        5.760116650321834e-08,
+        -0.7071067094802856,
+        5.76011558450773e-08,
+        0.7071068286895752
+      ],
+      "scale": [
+        0.3937007784843445,
+        0.3937007784843445,
+        0.3937007784843445
+      ]
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "贴图 #5",
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

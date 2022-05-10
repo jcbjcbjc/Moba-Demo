@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b17797c3-28bb-4996-ae0c-c57746f3d893",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "0349c": {
+      "importer": "gltf-animation",
+      "uuid": "b17797c3-28bb-4996-ae0c-c57746f3d893@0349c",
+      "displayName": "",
+      "id": "0349c",
+      "name": "Wizard_Damage.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "5474a": {
+      "importer": "gltf-scene",
+      "uuid": "b17797c3-28bb-4996-ae0c-c57746f3d893@5474a",
+      "displayName": "",
+      "id": "5474a",
+      "name": "Wizard_Damage.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Wizard_Damage",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Wizard_Damage",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "b17797c3-28bb-4996-ae0c-c57746f3d893@5474a",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b17797c3-28bb-4996-ae0c-c57746f3d893@5474a"
+      ]
+    }
+  }
+}

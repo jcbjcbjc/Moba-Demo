@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4adbcd1c-5536-4464-9deb-3f58b4c2b156",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "2a6b3": {
+      "importer": "gltf-mesh",
+      "uuid": "4adbcd1c-5536-4464-9deb-3f58b4c2b156@2a6b3",
+      "displayName": "",
+      "id": "2a6b3",
+      "name": "Object01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2024f": {
+      "importer": "gltf-animation",
+      "uuid": "4adbcd1c-5536-4464-9deb-3f58b4c2b156@2024f",
+      "displayName": "",
+      "id": "2024f",
+      "name": "treasure_kingskull_Hurt.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "4adbcd1c-5536-4464-9deb-3f58b4c2b156@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 37
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2364": {
+      "importer": "gltf-embeded-image",
+      "uuid": "4adbcd1c-5536-4464-9deb-3f58b4c2b156@a2364",
+      "displayName": "",
+      "id": "a2364",
+      "name": "Map #1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e70c": {
+      "importer": "texture",
+      "uuid": "4adbcd1c-5536-4464-9deb-3f58b4c2b156@6e70c",
+      "displayName": "",
+      "id": "6e70c",
+      "name": "Map #1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4adbcd1c-5536-4464-9deb-3f58b4c2b156@a2364"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d093": {
+      "importer": "gltf-material",
+      "uuid": "4adbcd1c-5536-4464-9deb-3f58b4c2b156@9d093",
+      "displayName": "",
+      "id": "9d093",
+      "name": "Material #25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb0cd": {
+      "importer": "gltf-scene",
+      "uuid": "4adbcd1c-5536-4464-9deb-3f58b4c2b156@bb0cd",
+      "displayName": "",
+      "id": "bb0cd",
+      "name": "M1005_Hurt.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #1",
+        "uri": "4adbcd1c-5536-4464-9deb-3f58b4c2b156@a2364"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "treasure_kingskull_Hurt",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "treasure_kingskull_Hurt",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "4adbcd1c-5536-4464-9deb-3f58b4c2b156@bb0cd",
+    "assetFinder": {
+      "meshes": [
+        "4adbcd1c-5536-4464-9deb-3f58b4c2b156@2a6b3"
+      ],
+      "skeletons": [
+        "4adbcd1c-5536-4464-9deb-3f58b4c2b156@438fe"
+      ],
+      "textures": [
+        "4adbcd1c-5536-4464-9deb-3f58b4c2b156@6e70c"
+      ],
+      "materials": [
+        "4adbcd1c-5536-4464-9deb-3f58b4c2b156@9d093"
+      ],
+      "scenes": [
+        "4adbcd1c-5536-4464-9deb-3f58b4c2b156@bb0cd"
+      ]
+    }
+  }
+}

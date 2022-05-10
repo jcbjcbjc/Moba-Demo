@@ -1,0 +1,135 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "976a0fb6-73f5-4d98-9bf2-f8a165a0e8ab",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "e4084": {
+      "importer": "gltf-mesh",
+      "uuid": "976a0fb6-73f5-4d98-9bf2-f8a165a0e8ab@e4084",
+      "displayName": "",
+      "id": "e4084",
+      "name": "Siege_Creep.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "24c9f": {
+      "importer": "gltf-animation",
+      "uuid": "976a0fb6-73f5-4d98-9bf2-f8a165a0e8ab@24c9f",
+      "displayName": "",
+      "id": "24c9f",
+      "name": "move.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.25
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "976a0fb6-73f5-4d98-9bf2-f8a165a0e8ab@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 5
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "976a0fb6-73f5-4d98-9bf2-f8a165a0e8ab@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e90b": {
+      "importer": "gltf-scene",
+      "uuid": "976a0fb6-73f5-4d98-9bf2-f8a165a0e8ab@7e90b",
+      "displayName": "",
+      "id": "7e90b",
+      "name": "Siege_Creep_Move.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 1.25,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "move",
+            "from": 0,
+            "to": 1.25,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "976a0fb6-73f5-4d98-9bf2-f8a165a0e8ab@7e90b",
+    "assetFinder": {
+      "meshes": [
+        "976a0fb6-73f5-4d98-9bf2-f8a165a0e8ab@e4084"
+      ],
+      "skeletons": [
+        "976a0fb6-73f5-4d98-9bf2-f8a165a0e8ab@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "976a0fb6-73f5-4d98-9bf2-f8a165a0e8ab@ea6e2"
+      ],
+      "scenes": [
+        "976a0fb6-73f5-4d98-9bf2-f8a165a0e8ab@7e90b"
+      ]
+    }
+  }
+}

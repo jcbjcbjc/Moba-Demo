@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LoginBtn",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 605,
+      "height": 117
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 605,
+      "height": 117
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "a4f59494-ab20-4018-b2b4-8ccdc06bb231@6c48a",
+    "packable": true
+  }
+}

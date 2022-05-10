@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MAP_Return",
+    "atlas": "",
+    "rect": {
+      "x": 5,
+      "y": 6,
+      "width": 50,
+      "height": 56
+    },
+    "offset": {
+      "x": -3,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 66,
+      "height": 66
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "a937dc66-e567-4fca-8359-677ab4a9b2a6@6c48a",
+    "packable": true
+  }
+}

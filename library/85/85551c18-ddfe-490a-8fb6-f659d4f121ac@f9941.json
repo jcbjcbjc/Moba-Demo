@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "main_scroll_bar",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 27,
+      "height": 40
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 27,
+      "height": 40
+    },
+    "rotated": false,
+    "capInsets": [
+      6,
+      6,
+      6,
+      6
+    ],
+    "texture": "85551c18-ddfe-490a-8fb6-f659d4f121ac@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.35",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "544b7d9a-53cf-4d55-8aa6-2a83653f1449",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "EFX_Wizard_SkillA_Hit_prefab"
+  }
+}

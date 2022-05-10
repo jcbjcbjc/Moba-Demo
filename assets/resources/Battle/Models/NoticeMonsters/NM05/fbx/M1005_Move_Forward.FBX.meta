@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "71525620-173d-4093-8d9a-58875b5b094c",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "2a6b3": {
+      "importer": "gltf-mesh",
+      "uuid": "71525620-173d-4093-8d9a-58875b5b094c@2a6b3",
+      "displayName": "",
+      "id": "2a6b3",
+      "name": "Object01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "81cc8": {
+      "importer": "gltf-animation",
+      "uuid": "71525620-173d-4093-8d9a-58875b5b094c@81cc8",
+      "displayName": "",
+      "id": "81cc8",
+      "name": "treasure_kingskull_Move.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "71525620-173d-4093-8d9a-58875b5b094c@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 37
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2364": {
+      "importer": "gltf-embeded-image",
+      "uuid": "71525620-173d-4093-8d9a-58875b5b094c@a2364",
+      "displayName": "",
+      "id": "a2364",
+      "name": "Map #1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e70c": {
+      "importer": "texture",
+      "uuid": "71525620-173d-4093-8d9a-58875b5b094c@6e70c",
+      "displayName": "",
+      "id": "6e70c",
+      "name": "Map #1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "71525620-173d-4093-8d9a-58875b5b094c@a2364"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d093": {
+      "importer": "gltf-material",
+      "uuid": "71525620-173d-4093-8d9a-58875b5b094c@9d093",
+      "displayName": "",
+      "id": "9d093",
+      "name": "Material #25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8d268": {
+      "importer": "gltf-scene",
+      "uuid": "71525620-173d-4093-8d9a-58875b5b094c@8d268",
+      "displayName": "",
+      "id": "8d268",
+      "name": "M1005_Move_Forward.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #1",
+        "uri": "71525620-173d-4093-8d9a-58875b5b094c@a2364"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "treasure_kingskull_Move",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "treasure_kingskull_Move",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "71525620-173d-4093-8d9a-58875b5b094c@8d268",
+    "assetFinder": {
+      "meshes": [
+        "71525620-173d-4093-8d9a-58875b5b094c@2a6b3"
+      ],
+      "skeletons": [
+        "71525620-173d-4093-8d9a-58875b5b094c@438fe"
+      ],
+      "textures": [
+        "71525620-173d-4093-8d9a-58875b5b094c@6e70c"
+      ],
+      "materials": [
+        "71525620-173d-4093-8d9a-58875b5b094c@9d093"
+      ],
+      "scenes": [
+        "71525620-173d-4093-8d9a-58875b5b094c@8d268"
+      ]
+    }
+  }
+}

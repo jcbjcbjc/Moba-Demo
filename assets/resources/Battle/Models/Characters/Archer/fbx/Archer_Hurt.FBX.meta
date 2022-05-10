@@ -1,0 +1,80 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a1df6dbe-098a-4e04-919a-0137170e220d",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "a95dd": {
+      "importer": "gltf-animation",
+      "uuid": "a1df6dbe-098a-4e04-919a-0137170e220d@a95dd",
+      "displayName": "",
+      "id": "a95dd",
+      "name": "Archer_Hurt.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": [],
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "00b1b": {
+      "importer": "gltf-scene",
+      "uuid": "a1df6dbe-098a-4e04-919a-0137170e220d@00b1b",
+      "displayName": "",
+      "id": "00b1b",
+      "name": "Archer_Hurt.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Archer_Hurt",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Archer_Hurt",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a1df6dbe-098a-4e04-919a-0137170e220d@00b1b",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a1df6dbe-098a-4e04-919a-0137170e220d@00b1b"
+      ]
+    }
+  }
+}

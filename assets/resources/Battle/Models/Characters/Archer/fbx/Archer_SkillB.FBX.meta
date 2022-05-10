@@ -1,0 +1,89 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ecf4c76d-6807-4f08-8cf9-f14fb2c00fe8",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "555fa": {
+      "importer": "gltf-animation",
+      "uuid": "ecf4c76d-6807-4f08-8cf9-f14fb2c00fe8@555fa",
+      "displayName": "",
+      "id": "555fa",
+      "name": "Archer_SkillB.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.1666667461395264
+        },
+        "events": [
+          {
+            "frame": 0.6666666666666666,
+            "func": "PlayEffect",
+            "params": [
+              "EFX_Archer_SkillB_prefab"
+            ],
+            "x": 70.76923076923077
+          }
+        ],
+        "speed": 1
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "0078a": {
+      "importer": "gltf-scene",
+      "uuid": "ecf4c76d-6807-4f08-8cf9-f14fb2c00fe8@0078a",
+      "displayName": "",
+      "id": "0078a",
+      "name": "Archer_SkillB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Archer_SkillB",
+        "duration": 2.1666667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Archer_SkillB",
+            "from": 0,
+            "to": 2.1666667461395264,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ecf4c76d-6807-4f08-8cf9-f14fb2c00fe8@0078a",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "ecf4c76d-6807-4f08-8cf9-f14fb2c00fe8@0078a"
+      ]
+    }
+  }
+}

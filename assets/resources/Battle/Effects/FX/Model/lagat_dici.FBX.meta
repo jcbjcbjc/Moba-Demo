@@ -1,0 +1,126 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "61ac3b61-9150-40ef-8a24-1f0c84f66091",
+  "files": [],
+  "subMetas": {
+    "0692d": {
+      "importer": "gltf-mesh",
+      "uuid": "61ac3b61-9150-40ef-8a24-1f0c84f66091@0692d",
+      "displayName": "",
+      "id": "0692d",
+      "name": "Plane002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "df7df": {
+      "importer": "gltf-embeded-image",
+      "uuid": "61ac3b61-9150-40ef-8a24-1f0c84f66091@df7df",
+      "displayName": "",
+      "id": "df7df",
+      "name": "贴图 #1.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a96a6": {
+      "importer": "texture",
+      "uuid": "61ac3b61-9150-40ef-8a24-1f0c84f66091@a96a6",
+      "displayName": "",
+      "id": "a96a6",
+      "name": "贴图 #1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61ac3b61-9150-40ef-8a24-1f0c84f66091@df7df"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d093": {
+      "importer": "gltf-material",
+      "uuid": "61ac3b61-9150-40ef-8a24-1f0c84f66091@9d093",
+      "displayName": "",
+      "id": "9d093",
+      "name": "Material #25.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eefdf": {
+      "importer": "gltf-scene",
+      "uuid": "61ac3b61-9150-40ef-8a24-1f0c84f66091@eefdf",
+      "displayName": "",
+      "id": "eefdf",
+      "name": "lagat_dici.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #1",
+        "uri": "61ac3b61-9150-40ef-8a24-1f0c84f66091@df7df"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "61ac3b61-9150-40ef-8a24-1f0c84f66091@eefdf",
+    "assetFinder": {
+      "meshes": [
+        "61ac3b61-9150-40ef-8a24-1f0c84f66091@0692d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "61ac3b61-9150-40ef-8a24-1f0c84f66091@a96a6"
+      ],
+      "materials": [
+        "61ac3b61-9150-40ef-8a24-1f0c84f66091@9d093"
+      ],
+      "scenes": [
+        "61ac3b61-9150-40ef-8a24-1f0c84f66091@eefdf"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

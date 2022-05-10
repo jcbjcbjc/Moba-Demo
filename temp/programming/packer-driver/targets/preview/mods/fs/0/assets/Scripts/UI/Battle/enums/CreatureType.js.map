@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///D:/LearningFrameWork/MobaYan/Moba/Src/Client/assets/Scripts/UI/Battle/enums/CreatureType.ts"],"names":["CreatureType"],"mappings":";;;;;;;;;;;;;;;;iBAGYA,Y;AAAAA,QAAAA,Y,CAAAA,Y;AAAAA,QAAAA,Y,CAAAA,Y;SAAAA,Y,4BAAAA,Y","sourcesContent":["/**\r\n * 生物类型\r\n */\r\nexport enum CreatureType{\r\n    Character = 0,\r\n    Monster\r\n}"]}

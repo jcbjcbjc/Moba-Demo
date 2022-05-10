@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skillMoveFont",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 159,
+      "height": 159
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 159,
+      "height": 159
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "fb22e8ad-da74-4d95-9cd6-9ed0cad58f86@6c48a",
+    "packable": true
+  }
+}

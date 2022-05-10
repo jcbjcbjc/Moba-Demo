@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cent",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 172,
+      "height": 132
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 172,
+      "height": 132
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e59c3f34-416e-4884-8097-edbe9e0d3222@6c48a",
+    "packable": true
+  }
+}

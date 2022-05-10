@@ -1,0 +1,420 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 216,
+      "max": [
+        0.2519014775753021,
+        0.14352034032344818,
+        1.1262372732162476
+      ],
+      "min": [
+        -0.25190141797065735,
+        -0.14352044463157654,
+        -1.126237392425537
+      ],
+      "name": "Scene/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 216,
+      "name": "Scene/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 216,
+      "name": "Scene/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 498,
+      "name": "Scene/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 5,
+      "max": [
+        0.1666666716337204
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "weapon_mod/Trs/Input",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 5,
+      "name": "weapon_mod/translation/Output",
+      "type": "VEC3"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 7,
+            "path": "translation"
+          }
+        }
+      ],
+      "name": "EFX_Warrior_SkillC_mod",
+      "samplers": [
+        {
+          "input": 4,
+          "output": 5
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 6912,
+      "byteStride": 32,
+      "name": "Scene",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1992,
+      "byteOffset": 6912
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20,
+      "byteOffset": 8904
+    },
+    {
+      "buffer": 0,
+      "byteLength": 60,
+      "byteOffset": 8924
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 8984,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 30.0
+    }
+  },
+  "materials": [
+    {
+      "name": "EFX_Norrington_Autoskila_mod_1"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Scene",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        6,
+        8
+      ],
+      "name": "EFX_Warrior_SkillC_prefab"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "flash01__2_",
+      "rotation": [
+        0.704632043838501,
+        -0.05910762771964073,
+        -0.704632043838501,
+        0.05910762771964073
+      ],
+      "scale": [
+        1.0,
+        1.000000238418579,
+        1.0
+      ],
+      "translation": [
+        -0.2199999988079071,
+        0.9599999785423279,
+        -0.19499999284744263
+      ]
+    },
+    {
+      "name": "flash01__2__1",
+      "rotation": [
+        1.1075943881851748e-31,
+        7.30558689389154e-31,
+        0.9965001344680786,
+        0.0835908055305481
+      ]
+    },
+    {
+      "name": "flash01__3_",
+      "rotation": [
+        -5.0121085480643345e-31,
+        1.2787210925363572e-31,
+        0.24446134269237518,
+        0.9696590304374695
+      ],
+      "scale": [
+        1.0,
+        1.0299999713897705,
+        1.0
+      ]
+    },
+    {
+      "name": "flash01__2__2"
+    },
+    {
+      "name": "flash01__4_"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "EFX_Warrior_SkillC_mod",
+      "translation": [
+        0.0,
+        0.0,
+        2.5
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "weapon_mod",
+      "rotation": [
+        0.5,
+        0.4999999701976776,
+        -0.4999999701976776,
+        0.5
+      ],
+      "scale": [
+        4.67950963973999,
+        3.487253427505493,
+        3.859055995941162
+      ],
+      "translation": [
+        -0.3199999928474426,
+        2.440000057220459,
+        -0.10000000149011612
+      ]
+    },
+    {
+      "children": [
+        9,
+        11
+      ],
+      "name": "hit01"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "Particle_System__1_",
+      "rotation": [
+        0.7071067690849304,
+        0.0,
+        0.0,
+        0.7071067690849304
+      ],
+      "translation": [
+        0.0,
+        -2.809999942779541,
+        2.3420000076293945
+      ]
+    },
+    {
+      "name": "Particle_System",
+      "translation": [
+        0.0,
+        2.8421708795129297e-16,
+        -1.5600006580352783
+      ]
+    },
+    {
+      "children": [
+        12,
+        13,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "name": "smoke",
+      "rotation": [
+        0.10095147043466568,
+        0.6998634338378906,
+        0.6998633742332458,
+        -0.10095186531543732
+      ],
+      "translation": [
+        0.14000000059604645,
+        0.0898653119802475,
+        1.899999976158142
+      ]
+    },
+    {
+      "name": "hit",
+      "rotation": [
+        0.7693510055541992,
+        -0.6371862888336182,
+        -0.03523188456892967,
+        0.029179491102695465
+      ],
+      "translation": [
+        0.44999998807907104,
+        0.44999998807907104,
+        -0.009999999776482582
+      ]
+    },
+    {
+      "children": [
+        14
+      ],
+      "name": "daoguang_a_light",
+      "rotation": [
+        2.9802313505911115e-08,
+        0.7071067690849304,
+        0.7071067690849304,
+        3.8743010577491077e-07
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        -0.009865311905741692
+      ]
+    },
+    {
+      "name": "daoguang_a_light__1_"
+    },
+    {
+      "name": "light",
+      "rotation": [
+        -0.001632213476113975,
+        0.7071049809455872,
+        0.7071048021316528,
+        -0.001632213476113975
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        -0.009865311905741692
+      ]
+    },
+    {
+      "name": "spark",
+      "rotation": [
+        8.815214158630624e-08,
+        -3.2857806786523724e-07,
+        -0.7054727077484131,
+        0.7087370753288269
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        -0.009865311905741692
+      ]
+    },
+    {
+      "name": "Particle_System_1"
+    },
+    {
+      "name": "Stone",
+      "rotation": [
+        -2.756714536644722e-07,
+        2.9802320611338473e-08,
+        0.9897562861442566,
+        0.14276722073554993
+      ],
+      "scale": [
+        1.0000003576278687,
+        1.0000005960464478,
+        1.0000004768371582
+      ],
+      "translation": [
+        0.1899999976158142,
+        0.5199999809265137,
+        -0.0798652172088623
+      ]
+    },
+    {
+      "name": "A__1_",
+      "rotation": [
+        0.10095147043466568,
+        0.6998634338378906,
+        0.6998633742332458,
+        0.10095186531543732
+      ],
+      "translation": [
+        0.18000000715255737,
+        0.5,
+        -0.0798652172088623
+      ]
+    },
+    {
+      "name": "B",
+      "rotation": [
+        -2.756714536644722e-07,
+        2.9802320611338473e-08,
+        0.9897562861442566,
+        0.14276722073554993
+      ]
+    },
+    {
+      "name": "hit__1_",
+      "scale": [
+        0.550000786781311,
+        0.5200003385543823,
+        1.5
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

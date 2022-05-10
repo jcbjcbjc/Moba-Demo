@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_slider_bar",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 495,
+      "height": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 495,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      18,
+      4,
+      17,
+      8
+    ],
+    "texture": "ec4ceb00-01e2-484e-8992-69e51edd1349@6c48a",
+    "packable": true
+  }
+}

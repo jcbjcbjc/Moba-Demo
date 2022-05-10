@@ -1,0 +1,182 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "97f9a09c-85e5-49de-9362-4cc1201e6889",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "048c3": {
+      "importer": "gltf-mesh",
+      "uuid": "97f9a09c-85e5-49de-9362-4cc1201e6889@048c3",
+      "displayName": "",
+      "id": "048c3",
+      "name": "Monolith Monsters.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53b02": {
+      "importer": "gltf-animation",
+      "uuid": "97f9a09c-85e5-49de-9362-4cc1201e6889@53b02",
+      "displayName": "",
+      "id": "53b02",
+      "name": "Monolith Monsters+走路.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "97f9a09c-85e5-49de-9362-4cc1201e6889@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 35
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "32d96": {
+      "importer": "gltf-embeded-image",
+      "uuid": "97f9a09c-85e5-49de-9362-4cc1201e6889@32d96",
+      "displayName": "",
+      "id": "32d96",
+      "name": "Map #0.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab932": {
+      "importer": "texture",
+      "uuid": "97f9a09c-85e5-49de-9362-4cc1201e6889@ab932",
+      "displayName": "",
+      "id": "ab932",
+      "name": "Map #0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "97f9a09c-85e5-49de-9362-4cc1201e6889@32d96"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ff75": {
+      "importer": "gltf-material",
+      "uuid": "97f9a09c-85e5-49de-9362-4cc1201e6889@7ff75",
+      "displayName": "",
+      "id": "7ff75",
+      "name": "Material #27.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3f4f7": {
+      "importer": "gltf-scene",
+      "uuid": "97f9a09c-85e5-49de-9362-4cc1201e6889@3f4f7",
+      "displayName": "",
+      "id": "3f4f7",
+      "name": "M1002_Move_Forward.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Map #0",
+        "uri": "97f9a09c-85e5-49de-9362-4cc1201e6889@32d96"
+      }
+    ],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Monolith Monsters+走路",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Monolith Monsters+走路",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "97f9a09c-85e5-49de-9362-4cc1201e6889@3f4f7",
+    "assetFinder": {
+      "meshes": [
+        "97f9a09c-85e5-49de-9362-4cc1201e6889@048c3"
+      ],
+      "skeletons": [
+        "97f9a09c-85e5-49de-9362-4cc1201e6889@438fe"
+      ],
+      "textures": [
+        "97f9a09c-85e5-49de-9362-4cc1201e6889@ab932"
+      ],
+      "materials": [
+        "97f9a09c-85e5-49de-9362-4cc1201e6889@7ff75"
+      ],
+      "scenes": [
+        "97f9a09c-85e5-49de-9362-4cc1201e6889@3f4f7"
+      ]
+    }
+  }
+}

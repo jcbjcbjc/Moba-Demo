@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_bg_02",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 4,
+      "width": 62,
+      "height": 57
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 64,
+      "height": 64
+    },
+    "rotated": false,
+    "capInsets": [
+      9,
+      10,
+      9,
+      12
+    ],
+    "texture": "19d2ce87-c319-4a1a-b811-63e5dcbe7dd3@6c48a",
+    "packable": true
+  }
+}

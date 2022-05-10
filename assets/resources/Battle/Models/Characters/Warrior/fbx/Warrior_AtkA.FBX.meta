@@ -1,0 +1,125 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "70177b49-1266-40e8-95d9-2653169dbee9",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "1af42": {
+      "importer": "gltf-mesh",
+      "uuid": "70177b49-1266-40e8-95d9-2653169dbee9@1af42",
+      "displayName": "",
+      "id": "1af42",
+      "name": "Bone002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de823": {
+      "importer": "gltf-animation",
+      "uuid": "70177b49-1266-40e8-95d9-2653169dbee9@de823",
+      "displayName": "",
+      "id": "de823",
+      "name": "AttackA.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": [
+          {
+            "frame": 0.3333333333333333,
+            "func": "PlayEffect",
+            "params": [
+              "EFX_Warrior_AtkA_prefab"
+            ],
+            "x": 41.5
+          }
+        ]
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "70177b49-1266-40e8-95d9-2653169dbee9@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f976a": {
+      "importer": "gltf-scene",
+      "uuid": "70177b49-1266-40e8-95d9-2653169dbee9@f976a",
+      "displayName": "",
+      "id": "f976a",
+      "name": "Warrior_AtkA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "Warrior_AtkA",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "AttackA",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "70177b49-1266-40e8-95d9-2653169dbee9@f976a",
+    "assetFinder": {
+      "meshes": [
+        "70177b49-1266-40e8-95d9-2653169dbee9@1af42"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "70177b49-1266-40e8-95d9-2653169dbee9@ea6e2"
+      ],
+      "scenes": [
+        "70177b49-1266-40e8-95d9-2653169dbee9@f976a"
+      ]
+    }
+  }
+}

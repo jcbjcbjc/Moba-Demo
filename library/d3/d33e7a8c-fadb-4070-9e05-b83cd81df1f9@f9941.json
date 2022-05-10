@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "main_chat_btn_normal",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 65,
+      "height": 28
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 65,
+      "height": 28
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d33e7a8c-fadb-4070-9e05-b83cd81df1f9@6c48a",
+    "packable": true
+  }
+}

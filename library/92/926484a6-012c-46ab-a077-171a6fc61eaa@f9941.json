@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wizzard_skill_02",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 0,
+      "width": 94,
+      "height": 97
+    },
+    "offset": {
+      "x": -0.5,
+      "y": 1.5
+    },
+    "originalSize": {
+      "width": 99,
+      "height": 100
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "926484a6-012c-46ab-a077-171a6fc61eaa@6c48a",
+    "packable": true
+  }
+}

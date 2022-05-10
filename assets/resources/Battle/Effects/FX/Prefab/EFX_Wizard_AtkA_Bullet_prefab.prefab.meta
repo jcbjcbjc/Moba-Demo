@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.35",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "dd59e3eb-5355-4a74-ac70-5f545cc31fe7",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "EFX_Wizard_AtkA_Bullet_prefab"
+  }
+}

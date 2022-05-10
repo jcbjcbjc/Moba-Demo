@@ -1,0 +1,61 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "04670112-2013-4932-938b-e2b12c7db1da",
+  "files": [],
+  "subMetas": {
+    "3fa85": {
+      "importer": "gltf-mesh",
+      "uuid": "04670112-2013-4932-938b-e2b12c7db1da@3fa85",
+      "displayName": "",
+      "id": "3fa85",
+      "name": "Torus01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea92c": {
+      "importer": "gltf-scene",
+      "uuid": "04670112-2013-4932-938b-e2b12c7db1da@ea92c",
+      "displayName": "",
+      "id": "ea92c",
+      "name": "daoguang_c1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "04670112-2013-4932-938b-e2b12c7db1da@ea92c",
+    "assetFinder": {
+      "meshes": [
+        "04670112-2013-4932-938b-e2b12c7db1da@3fa85"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "04670112-2013-4932-938b-e2b12c7db1da@ea92c"
+      ]
+    },
+    "fbx": {
+      "preferLocalTimeSpan": false
+    }
+  }
+}

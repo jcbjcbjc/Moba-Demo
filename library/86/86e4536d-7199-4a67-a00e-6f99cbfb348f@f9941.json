@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fail",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 117,
+      "height": 292
+    },
+    "offset": {
+      "x": -0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 118,
+      "height": 292
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "86e4536d-7199-4a67-a00e-6f99cbfb348f@6c48a",
+    "packable": true
+  }
+}

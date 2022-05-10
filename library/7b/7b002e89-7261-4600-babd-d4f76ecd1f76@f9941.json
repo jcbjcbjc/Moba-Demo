@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HDZX_power_seven",
+    "atlas": "",
+    "rect": {
+      "x": 13,
+      "y": 13,
+      "width": 76,
+      "height": 77
+    },
+    "offset": {
+      "x": 1,
+      "y": -1.5
+    },
+    "originalSize": {
+      "width": 100,
+      "height": 100
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7b002e89-7261-4600-babd-d4f76ecd1f76@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e1bf0f8e-ef5c-4e05-9db2-b949bc66180a",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "07dce": {
+      "importer": "gltf-animation",
+      "uuid": "e1bf0f8e-ef5c-4e05-9db2-b949bc66180a@07dce",
+      "displayName": "",
+      "id": "07dce",
+      "name": "taskNPC_Talk.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.8333332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "35ac4": {
+      "importer": "gltf-scene",
+      "uuid": "e1bf0f8e-ef5c-4e05-9db2-b949bc66180a@35ac4",
+      "displayName": "",
+      "id": "35ac4",
+      "name": "taskNPC_Talk.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "animationImportSettings": [
+      {
+        "name": "taskNPC_Talk",
+        "duration": 2.8333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "taskNPC_Talk",
+            "from": 0,
+            "to": 2.8333332538604736,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "e1bf0f8e-ef5c-4e05-9db2-b949bc66180a@35ac4",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e1bf0f8e-ef5c-4e05-9db2-b949bc66180a@35ac4"
+      ]
+    }
+  }
+}
