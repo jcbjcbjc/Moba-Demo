@@ -1,6 +1,6 @@
 {
   "cce:/internal/x/cc": {
-    "mTimestamp": 5588.561200022697,
+    "mTimestamp": 7074.590299993753,
     "chunkId": "quick-pack:/cce/internal/x/cc.js",
     "imports": [
       {
@@ -389,7 +389,7 @@
     ]
   },
   "cce:/internal/x/prerequisite-imports": {
-    "mTimestamp": 10605.558499991894,
+    "mTimestamp": 13522.523299999535,
     "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
     "imports": [
       {
@@ -5270,7 +5270,7 @@
   },
   "file:///D:/LearningFrameWork/MobaYan/Moba/Src/Client/assets/Scripts/Services/BattleService.ts": {
     "mTimestamp": {
-      "mtime": 1648900341111.2202,
+      "mtime": 1652158208502.817,
       "uuid": "897d6bf7-d1ed-4c1d-936d-45b121801cfb"
     },
     "chunkId": "assets/Scripts/Services/BattleService.js",
@@ -9274,7 +9274,7 @@
   },
   "file:///D:/LearningFrameWork/MobaYan/Moba/Src/Client/assets/Scripts/UI/Battle/Managers/CharacterManager.ts": {
     "mTimestamp": {
-      "mtime": 1648997318641.3381,
+      "mtime": 1652176564046.9365,
       "uuid": "8802bfa6-1f2e-4088-a80b-2e45ed92c0c0"
     },
     "chunkId": "assets/Scripts/UI/Battle/Managers/CharacterManager.js",
@@ -9690,7 +9690,7 @@
   },
   "file:///D:/LearningFrameWork/MobaYan/Moba/Src/Client/assets/Scripts/UI/Battle/Managers/BattleManager.ts": {
     "mTimestamp": {
-      "mtime": 1649685114375.2478,
+      "mtime": 1652961693286.073,
       "uuid": "470aff99-ed43-4329-b383-e853477f8c13"
     },
     "chunkId": "assets/Scripts/UI/Battle/Managers/BattleManager.js",
@@ -20953,7 +20953,7 @@
     ]
   },
   "cce:/internal/code-quality/cr.mjs": {
-    "mTimestamp": 1651659075160,
+    "mTimestamp": 1656897979486,
     "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
     "imports": [],
     "modLoMetadata": {
@@ -20962,7 +20962,7 @@
     "resolvedImports": []
   },
   "cce:/internal/ml/cjs-loader.mjs": {
-    "mTimestamp": 1651659075160,
+    "mTimestamp": 1656897979486,
     "chunkId": "quick-pack:/cce/internal/ml/cjs-loader.js",
     "imports": [],
     "modLoMetadata": {

@@ -350,7 +350,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
               console.log('恢复进度');
               _this.allFrameHandles.data = JSON.parse(allFrameHandlesStr).map || {}; //    let this_=this;
               //    this.recProTimer=setInterval(async function(){
-              //     await this_.IntervalProgressRecovery(this_);
+              //    await this_.IntervalProgressRecovery(this_);
               //   }, 0);  //2
             }
 

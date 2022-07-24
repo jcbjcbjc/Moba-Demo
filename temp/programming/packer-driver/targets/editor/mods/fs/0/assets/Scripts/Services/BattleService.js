@@ -63,7 +63,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
 
 
         SendFrameHandle(frameHandle) {
-          // LogUtil.log("SendFrameHandle",frameHandle);
+          //LogUtil.log("SendFrameHandle",frameHandle);
           let userId = (_crd && User === void 0 ? (_reportPossibleCrUseOfUser({
             error: Error()
           }), User) : User).Instance.user.id;
