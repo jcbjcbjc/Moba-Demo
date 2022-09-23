@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "fa20c2fb-ce35-4561-9246-cf755e4110a1",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importerSettings": 7,
+    "moduleId": "project:///assets/Scripts/Utils/LoadResUtil.js",
+    "simulateGlobals": []
+  }
+}

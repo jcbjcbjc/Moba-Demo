@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2086d889-bbe2-4d16-9186-96b05f125766",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importerSettings": 7,
+    "moduleId": "project:///assets/Scripts/UI/Common/UIMessageBox.js",
+    "simulateGlobals": []
+  }
+}

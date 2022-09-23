@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ebc1281a-9d74-4604-8f75-cf57f23d0d96",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Common/Event/EventType.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}

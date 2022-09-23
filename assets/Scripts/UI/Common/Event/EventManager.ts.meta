@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "a7ba38f9-1925-40b0-9946-ea889690b28b",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Common/Event/EventManager.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}

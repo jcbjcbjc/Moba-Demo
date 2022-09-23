@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "3874858c-377e-4959-b041-e94396d235f8",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importerSettings": 7,
+    "moduleId": "project:///assets/Scripts/UI/Common/UIManager.js",
+    "simulateGlobals": []
+  }
+}
